@@ -80,14 +80,14 @@ class Application:
         elif 'Nadir' in self.optionsVar.get().split():
             try: 
                 # add your code here
-                self.RecommenderEngine.runEngine()
+                self.RecommenderEngineNadir.runEngine()
             except:
                 messagebox.showwarning('Warning Window', 'Oops, Something went wrong!')
 
         else:
             try: 
                 # add your code here
-                self.RecommenderEngine.runEngine()
+                self.RecommenderEngineRamiz.runEngine()
             except:
                 messagebox.showwarning('Warning Window', 'Oops, Something went wrong!')
 
