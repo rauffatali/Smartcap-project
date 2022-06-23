@@ -1,0 +1,1535 @@
+user_id,gender,username,origin,age,country,geolife,income,length_of_trip,social_state,agreeableness
+a667b223-ad6e-4336-afa7-ee4cfa47cbdf,Female,annachambers,Normandie,28,France,growing peri-urban,Average,long-term,Alone,0.4
+521316b8-9c18-4a61-9089-937e57c1c5df,Female,christinabenitez,Other regions,48,France,dynamic rural,Low,long-term,Family,0.9
+2ea6d95d-3523-4d04-98a3-8429fdc21b59,Male,ryanknight,Normandie,50,France,urban middle class,High,short-term,Alone,0.2
+eed1ea99-25ce-4141-ab4d-64b1ca46a8f2,Female,marissatravis,Normandie,54,France,dynamic urban,High,short-term,Alone,0.30000000000000004
+fdae048b-a5dd-4fd9-8439-8c33baf29807,Male,kevinbooker,Foreigner,61,Western Europe,affluent family urban,High,short-term,Alone,0.6000000000000001
+0db96118-5799-494b-9a37-43258f049135,Female,andreathompson,Normandie,17,France,disadvantaged urban,Low,short-term,Couple,0.9
+57df876a-c1a5-47cf-8320-339425aa10fe,Male,chadpalmer,Normandie,79,France,affluent family urban,High,short-term,Couple,0.30000000000000004
+8f025960-7d76-44c1-8962-52cd1705c6ed,Male,richardjohnson,Normandie,29,France,affluent family urban,High,short-term,Alone,0.4
+9ef4663d-4625-4351-bb7b-9bfea09cd9c6,Male,thomaspeterson,Normandie,62,France,dynamic rural,Average,long-term,Couple,0.9
+c4601bcb-863c-4c28-8d1d-71ff3a666d85,Male,craigcobb,Normandie,17,France,wealthy family suburbanite,High,short-term,Family,0.5
+6c5f2deb-956a-486a-b422-dfa03f69f8c0,Female,sheliagomez,Other regions,46,France,affluent family urban,High,short-term,Alone,0.2
+3534c295-cc70-4be8-bcf0-f28d47b51245,Female,anneking,Normandie,76,France,urban middle class,Average,long-term,Couple,0.5
+d25b62bb-c446-4e56-abda-036481762322,Male,garywilson,Foreigner,16,Western Europe,urban middle class,Average,short-term,Alone,0.5
+80e02b32-e444-4d1b-bba2-f20777f922a7,Female,laurengreen,Normandie,27,France,affluent family urban,High,short-term,Family,0.30000000000000004
+ea01a652-c1e7-4c81-b1c5-0d3cce66559a,Female,lorihale,Normandie,74,France,popularity,Low,short-term,Family,0.30000000000000004
+971580d5-9754-454d-9487-f64980349402,Female,leslierussell,Other regions,26,France,dynamic rural,Average,short-term,Couple,0.7000000000000001
+8b234e00-2c4d-43a4-8614-f83e91aee53d,Male,williamcrawford,Normandie,57,France,dynamic urban,High,short-term,Alone,0.8
+4e8c5647-c7b0-4778-ac08-bf3769f347dd,Male,luisvelazquez,Normandie,36,France,wealthy family suburbanite,Average,short-term,Family,0.4
+9329b2f6-d821-446c-9c4d-abef76994bc9,Male,kevinmejia,Normandie,51,France,popularity,Low,long-term,Family,0.8
+c1752c6c-92b7-4dca-b4a9-7b2c3252fa25,Male,bruceschaefer,Foreigner,68,Western Europe,popularity,Low,long-term,Family,0.4
+42d38b1b-19e1-4096-9e66-c4e04ba65d4e,Male,matthewbridges,Other regions,22,France,growing peri-urban,Average,long-term,Family,0.30000000000000004
+022a0a01-caa3-453f-becb-e48365139f5d,Male,scottking,Other regions,57,France,disadvantaged urban,Low,short-term,Couple,0.5
+b494c2d3-0b7f-4435-a9e7-11a7b8b59b0d,Male,zacharydavidson,Normandie,43,France,dynamic urban,High,long-term,Alone,0.1
+b449c666-743b-45c7-b554-523fc65a9d82,Male,brianwilliams,Normandie,38,France,popularity,Low,short-term,Family,0.7000000000000001
+e34eb24f-b728-4164-8975-cca9009c0bde,Male,patricklopez,Foreigner,21,Germany,traditional rural,Low,short-term,Alone,0.4
+7ae848ce-4ca9-43e7-899d-5dcc0a0974ca,Female,kristincarpenter,Other regions,51,France,dynamic rural,Average,short-term,Alone,0.9
+5ad92a36-fbb9-4869-ac9c-1354736675c0,Male,davidharrison,Normandie,60,France,wealthy family suburbanite,High,short-term,Couple,0.4
+43d05bb2-b9df-4ab2-8d0c-a8563a855528,Female,christinacabrera,Normandie,44,France,dynamic urban,High,short-term,Family,0.8
+97a81bd1-f3b4-4dd0-a74f-53dea2fce47c,Male,davidmcbride,Foreigner,57,Western Europe,wealthy family suburbanite,High,short-term,Family,0.6000000000000001
+c7963f80-c647-4ad3-b2c2-416a98668683,Male,josephmiller,Foreigner,27,Western Europe,popularity,Low,short-term,Couple,0.8
+0541ddb8-510b-4743-b871-d141d46a36c1,Female,stephanieking,Other regions,49,France,traditional rural,Low,short-term,Couple,0.9
+eb48fa63-3397-4984-9e30-9abf47922031,Female,ginaleon,Foreigner,47,Belgium,urban middle class,Average,long-term,Family,0.1
+cc6f001c-47c9-4bb1-8e9b-58165cc87137,Female,danachapman,Normandie,77,France,wealthy family suburbanite,High,short-term,Family,0.9
+4256fd12-2e10-4dcd-becd-550631a3bf1c,Female,tanyaclark,Other regions,26,France,urban middle class,Average,short-term,Family,0.6000000000000001
+b454f919-f75e-4395-a501-eb90e3e0af27,Male,aaronbailey,Normandie,39,France,dynamic rural,Average,short-term,Couple,0.2
+3369f087-a32e-4729-bd2a-516ded8ee847,Male,chadcross,Normandie,15,France,affluent family urban,High,short-term,Couple,0.30000000000000004
+490b92ad-d1b9-4988-bf5a-48bc7f8722bf,Female,emmawatson,Foreigner,14,USA,affluent family urban,High,short-term,Couple,0.8
+92e08446-0027-43c3-8040-48626fb9c13f,Male,dustinortega,Foreigner,15,Western Europe,traditional rural,Low,short-term,Couple,0.7000000000000001
+73d27f8d-3f18-483e-af72-23b3ce1b118b,Female,jennifercallahan,Normandie,41,France,popularity,Low,long-term,Alone,0.1
+f0cd9e3f-45c6-4d0e-a4a6-62ed412da151,Male,markwoods,Foreigner,76,Western Europe,dynamic urban,Average,short-term,Couple,0.5
+b77c0e11-c826-4fb1-9830-6b0870d9cda3,Female,barbarajackson,Normandie,26,France,dynamic urban,High,short-term,Couple,0.7000000000000001
+def0f7c1-5d5e-446b-83d6-871e7b1b22d5,Female,sharongaines,Other regions,69,France,growing peri-urban,Average,short-term,Couple,0.5
+0fa35e6a-6b4b-412c-a019-7eb4ed2f0303,Female,brookejones,Foreigner,46,Western Europe,wealthy family suburbanite,High,short-term,Alone,0.9
+a5befa0a-2cac-40a1-97af-3380596411ed,Male,jeremyhubbard,Other regions,23,France,popularity,Low,long-term,Couple,0.5
+0929e96d-6cf9-4377-805d-810870f9f7bc,Male,jacobosborne,Normandie,78,France,urban middle class,Average,short-term,Couple,0.30000000000000004
+fe80794e-cc53-4f4d-8aac-1c78e817f2e9,Female,saramooney,Normandie,23,France,disadvantaged urban,Low,short-term,Family,0.30000000000000004
+0b04329a-0da3-4401-9bad-c0cf4ac603dc,Female,jessicajohnson,Normandie,35,France,wealthy family suburbanite,High,short-term,Family,0.6000000000000001
+c537771a-9c25-4633-9181-b2c192bb21a6,Male,anthonyhernandez,Other regions,18,France,traditional rural,Low,long-term,Family,0.30000000000000004
+4afea56d-b7c5-4396-8276-6a1741978f35,Female,mariajenkins,Normandie,23,France,wealthy family suburbanite,High,short-term,Group,0.7000000000000001
+a0a9e15c-1a62-44e0-b5f3-6d75ac7870bf,Female,jenniferarroyo,Other regions,16,France,traditional rural,High,long-term,Couple,0.5
+8968195c-b676-472a-8565-2cd8aaea8792,Female,kimrivera,Foreigner,62,Germany,urban middle class,Average,short-term,Couple,0.2
+fcf9c9f0-28cd-4c51-8e3d-adfa985c81cb,Male,christopherpowell,Other regions,62,France,traditional rural,Low,short-term,Alone,0.9
+b0f2d423-e4e5-4a61-8b23-eee102027f65,Male,alanfowler,Other regions,21,France,dynamic urban,High,short-term,Family,0.5
+329c76fb-130a-4388-89c5-060e186d9f20,Female,mrs.mirandasmith,Other regions,52,France,dynamic urban,High,short-term,Family,0.6000000000000001
+5d4b05a3-1f02-4ff2-bd00-5c7c4755ad27,Male,dustinmcbride,Other regions,70,France,dynamic urban,High,short-term,Couple,0.1
+75848816-08f4-4ba9-af7e-33025638a62f,Female,karenbrown,Normandie,43,France,disadvantaged urban,Low,short-term,Alone,0.4
+42957c4e-3e92-45c8-a257-7d135b701001,Female,taylorswanson,Normandie,76,France,dynamic urban,High,short-term,Couple,0.9
+ae17c708-b674-450b-8c89-c10ac6d77b83,Male,timothyesparza,Normandie,74,France,wealthy family suburbanite,High,short-term,Couple,0.8
+75be359d-f618-4a76-80c4-85937bcae729,Male,matthewtran,Other regions,19,France,dynamic urban,High,short-term,Couple,0.8
+238fdfb1-41a3-4647-a815-852b3fc9b5b6,Female,jennifercruz,Normandie,80,France,traditional rural,Low,short-term,Alone,0.9
+d9e62a68-f5f2-43b1-9bc0-138183bca21d,Male,lucaslopez,Other regions,28,France,popularity,Low,short-term,Couple,0.6000000000000001
+a7914d13-adf9-41e3-afc2-08c1d4aa2791,Female,tracyspence,Normandie,46,France,affluent family urban,High,short-term,Family,0.4
+41d50b7e-49e8-4ee4-abb0-93dde8bc99b6,Female,cherylsanders,Normandie,52,France,urban middle class,Average,short-term,Couple,0.8
+fb93503e-1b4e-412b-82f3-008a642541f5,Female,triciagreer,Other regions,70,France,popularity,Low,short-term,Family,0.1
+6f132472-24c8-492c-a810-3b867b97342a,Male,christophermills,Other regions,29,France,dynamic urban,High,short-term,Family,0.2
+0d704f89-115b-4b31-9c11-43be6e4ab18f,Male,jorgewilliams,Normandie,16,France,wealthy family suburbanite,High,short-term,Alone,0.5
+ec4bec81-5471-4a3d-89d0-a53dc6f2388b,Female,melissawong,Normandie,38,France,growing peri-urban,Average,short-term,Alone,0.4
+32134831-4188-4faf-bf9c-ae91e3994352,Female,jenniferestes,Other regions,17,France,disadvantaged urban,Low,long-term,Family,0.4
+8511bb97-e763-4b34-8648-0ebbdb07acc6,Female,teresamurphy,Foreigner,29,Western Europe,traditional rural,Low,long-term,Couple,0.2
+8b65a28e-57ba-48a7-bd98-a5e74f4521ed,Male,michaelharding,Normandie,79,France,dynamic urban,Average,short-term,Family,0.2
+ffdfa1cb-9202-453b-85ea-772ab7c48e3e,Female,sarahhudson,Foreigner,51,Scandinavia,growing peri-urban,Average,short-term,Group,0.5
+96c09416-e2d6-4d99-8b68-f50a1110b26d,Female,ms.jenniferpearson,Normandie,77,France,growing peri-urban,Average,short-term,Family,0.6000000000000001
+bd456ebc-0bb1-4900-8eb4-5abc200384b9,Female,alexandracastro,Other regions,35,France,popularity,Low,short-term,Couple,0.30000000000000004
+4346bd91-4e55-4db4-acc1-e361edfaa446,Male,matthewchen,Normandie,75,France,dynamic urban,High,long-term,Family,0.1
+7a101ab7-26e3-436a-a7c9-0eccf592d027,Male,robertmathews,Foreigner,31,Western Europe,growing peri-urban,High,short-term,Alone,0.6000000000000001
+872b7134-2370-4fac-b16d-339ddde2c582,Female,catherinemontgomery,Foreigner,71,Western Europe,wealthy family suburbanite,High,short-term,Couple,0.30000000000000004
+7ab087ce-00a0-4885-b8a9-1dd58e501ce3,Male,benjaminjordan,Other regions,34,France,dynamic urban,High,short-term,Couple,0.9
+7383e3e2-c49c-4562-b064-4eb39ec50132,Male,anthonylee,Foreigner,17,Germany,dynamic rural,Average,short-term,Couple,0.2
+9b737116-8f49-4b6f-8276-477e67ee2641,Female,dawnnguyen,Other regions,16,France,dynamic rural,Average,short-term,Couple,0.6000000000000001
+da69152e-488b-457b-90d9-836020a724a3,Male,craigdavis,Normandie,48,France,wealthy family suburbanite,High,short-term,Alone,0.5
+9997f2bd-e790-413f-85d3-c2a981afbda7,Female,heathermarquez,Other regions,53,France,growing peri-urban,Average,short-term,Couple,0.4
+c9f336c1-2507-490b-bb43-c8ea67bc3daf,Female,tarawelch,Other regions,24,France,growing peri-urban,Average,long-term,Alone,0.30000000000000004
+ce127f4e-455d-4a01-bcfe-c5612f0d9e23,Male,andrewrodriguez,Other regions,75,France,popularity,Low,short-term,Group,0.4
+5f6853e7-2d39-49db-9da2-69882fb41095,Male,josepharellano,Normandie,52,France,growing peri-urban,Average,long-term,Alone,0.30000000000000004
+aadaa2b6-6bb0-484d-ac86-56992448e7f8,Female,sonyafrazier,Other regions,33,France,growing peri-urban,Average,short-term,Couple,0.1
+d1f97d21-4d2c-4481-8e85-b1c17314539e,Male,bradpayne,Other regions,63,France,rural worker,Low,short-term,Couple,0.4
+49a356bf-ef20-421c-a538-a1f0f98c6944,Female,heatherhall,Normandie,37,France,popularity,Low,long-term,Couple,0.2
+982e4348-20b4-4be5-8710-f2f5aa517591,Female,racheldavenport,Foreigner,28,USA,dynamic urban,High,short-term,Couple,0.6000000000000001
+6b95a09a-2160-4f9d-8321-34439c0c3e40,Male,danielperez,Normandie,33,France,wealthy family suburbanite,High,short-term,Couple,0.1
+f5008c2c-5675-47ea-bc36-86a8ae161c8d,Female,jilldennis,Normandie,14,France,popularity,Low,short-term,Family,0.4
+1933bb84-e96d-4fbe-b195-7baf727169da,Female,isabelbrooks,Other regions,23,France,dynamic urban,Average,short-term,Alone,0.9
+85c84072-a274-442e-8868-74689b8bc48a,Female,allisonsmith,Foreigner,34,Eastern Europe,popularity,Low,short-term,Couple,0.4
+ae096541-711b-4c8e-adcd-aefa7ba4adaf,Male,aaronpadilla,Normandie,42,France,urban middle class,Average,short-term,Couple,0.7000000000000001
+146c2a78-2154-494b-8b6c-c1ca8c6b3a42,Male,jamesmahoney,Other regions,30,France,dynamic rural,Average,long-term,Alone,0.4
+3ed0dbfa-30c2-48d0-914d-d0c78dc57f28,Female,mercedesjohnson,Other regions,30,France,rural worker,Low,short-term,Family,0.7000000000000001
+5de757c3-8a63-41c1-8569-3bfe002b65bc,Male,jeffpeterson,Normandie,15,France,urban middle class,Average,short-term,Alone,0.4
+f9e08c7f-9836-4ce9-b337-d204e409063c,Female,mckenziebennett,Normandie,52,France,popularity,Low,long-term,Couple,0.7000000000000001
+00e8a9f8-32d8-4ac3-a54e-b3b0fb6245b8,Male,evanbrown,Normandie,15,France,wealthy family suburbanite,Average,long-term,Family,0.5
+0859923b-d0da-4733-bca5-1afae475f8ad,Male,kevinrivera,Other regions,31,France,popularity,Low,short-term,Family,0.9
+fe3fc154-9854-476f-9821-c45b47f423ab,Male,anthonyorozco,Other regions,14,France,disadvantaged urban,Low,short-term,Family,0.8
+b2afc299-f704-4aad-a0ea-341127613f60,Female,christinasimpsondds,Normandie,62,France,urban middle class,Average,short-term,Group,0.8
+75c45f98-cbf3-4c34-acab-d356a8187ae9,Female,teresanelson,Normandie,39,France,growing peri-urban,Average,short-term,Alone,0.1
+ed72cecc-5063-4ad6-9f1e-9fedc5a01813,Male,aaroncallahan,Foreigner,48,USA,wealthy family suburbanite,High,short-term,Alone,0.7000000000000001
+5a54d380-d158-44b4-b2ea-839cf8d9d959,Female,barbaralarsen,Other regions,23,France,dynamic rural,Average,short-term,Couple,0.7000000000000001
+716e8ae7-576d-4ee5-a7c2-6da8dfcce8cc,Male,trevormartin,Normandie,58,France,growing peri-urban,Average,short-term,Family,0.1
+71024198-a9b3-45c5-8755-8206fd4d7c4f,Male,alexanderramirez,Other regions,49,France,dynamic urban,High,short-term,Couple,0.9
+1a541e44-4b01-4dbb-aaed-23d008ce351c,Female,crystalanderson,Normandie,17,France,dynamic rural,Average,long-term,Alone,0.2
+54a1869b-b0e5-4260-b7c0-8b0dcc965447,Male,jasonmiller,Foreigner,56,Western Europe,dynamic urban,High,long-term,Couple,0.6000000000000001
+ae0107c3-95b1-4284-a08b-6ddc19d2073a,Female,jessicaanderson,Foreigner,65,Western Europe,growing peri-urban,Average,short-term,Alone,0.5
+29ed4f79-8296-4ede-80f4-6fa67fe850a6,Male,willieturner,Normandie,23,France,dynamic urban,High,long-term,Alone,0.30000000000000004
+c8c09f42-8998-47ae-a80c-12d4f3a18dbc,Female,juliawilliams,Other regions,37,France,wealthy family suburbanite,High,short-term,Alone,0.4
+b92fe2ff-82d3-439a-ad87-d365b6474fe3,Male,derrickwoods,Foreigner,41,Western Europe,popularity,Low,short-term,Family,0.8
+3aed6fc7-d065-48e3-9306-ec548d7fca8f,Female,dianezuniga,Other regions,16,France,affluent family urban,High,short-term,Alone,0.9
+b5ca9994-e318-4f38-bd19-691a372ee01d,Male,michaelwebster,Foreigner,16,Asia,rural worker,Low,short-term,Alone,0.6000000000000001
+47a57f6b-6cfe-4d35-a280-1fac038000ab,Female,shellybrown,Other regions,16,France,affluent family urban,High,short-term,Couple,0.2
+dbc660fe-deeb-490b-8a7b-5e229b7cc13b,Male,jamesevans,Foreigner,28,Belgium,dynamic urban,High,short-term,Alone,0.8
+944dab7c-5ec7-4b1a-8251-aef15683bdd4,Female,erinwilliams,Other regions,40,France,dynamic urban,High,long-term,Family,0.30000000000000004
+88cda479-f0ee-4914-b5f9-2ec8322ee183,Female,jennifersosa,Other regions,52,France,dynamic urban,Average,short-term,Couple,0.5
+3cd474bd-4d5c-4954-931c-c1555fdf3544,Male,josephchen,Normandie,54,France,popularity,Low,short-term,Couple,0.5
+6d08edb1-3b72-40ce-b375-bd52dfe5d87d,Male,christopherwoods,Normandie,36,France,growing peri-urban,Average,short-term,Family,0.6000000000000001
+74e7cddd-29c4-4284-b7a3-917b6b693f5c,Male,colinbaker,Normandie,14,France,traditional rural,Low,short-term,Couple,0.30000000000000004
+63e7cfef-2098-4447-a2da-f4009ead2bdc,Male,josemartin,Other regions,15,France,dynamic urban,High,short-term,Family,0.4
+5e50037c-19c9-4507-b5d5-2e64d8d54f85,Male,williamward,Other regions,25,France,popularity,Low,short-term,Couple,0.4
+0fa08229-903d-41c9-8c25-895cb36546b8,Male,timothyfrench,Foreigner,14,Western Europe,disadvantaged urban,Low,short-term,Alone,0.5
+a51777b5-616e-43bc-ae58-9f3326001827,Male,jeremiahparker,Other regions,32,France,urban middle class,Low,short-term,Alone,0.30000000000000004
+bb78df85-43df-4306-a04f-17eb32ad5402,Female,ritaburton,Foreigner,41,Western Europe,wealthy family suburbanite,Average,short-term,Alone,0.8
+38c1bb80-fd7b-49e1-856e-eb5b2896abcb,Female,kimhill,Normandie,17,France,traditional rural,Low,short-term,Alone,0.8
+315eaa8f-c984-4afc-bba4-e087ff8beb2c,Female,angelasmith,Normandie,17,France,popularity,Low,short-term,Alone,0.6000000000000001
+284fff48-2404-4d10-b40e-9a15eefc805e,Female,alexisrosales,Foreigner,41,USA,rural worker,Low,short-term,Family,0.30000000000000004
+a7af41bd-8182-4297-bf08-94813cd91eb8,Female,marilynramsey,Normandie,77,France,traditional rural,Low,short-term,Family,0.6000000000000001
+4f4e03b9-be88-4945-ab2c-97208b0d35dd,Female,kristinajones,Other regions,21,France,growing peri-urban,Average,short-term,Family,0.5
+bfec2863-be37-4689-9b33-76b1254d039f,Male,davidcolon,Normandie,16,France,urban middle class,Low,short-term,Couple,0.30000000000000004
+37ddda51-2653-413d-b2b2-d7e33b9ad29d,Male,jerryedwards,Normandie,30,France,dynamic urban,High,short-term,Couple,0.9
+28bd6dc3-70b2-41b4-a54f-7b908efb9c1e,Female,andreaphillips,Normandie,50,France,popularity,Low,long-term,Alone,0.9
+b997bfd5-1100-4bb1-b5ec-1c9111ed7560,Male,travisbarrett,Normandie,15,France,growing peri-urban,Average,short-term,Couple,0.8
+3139b7a4-8f33-4688-a520-d361125e6706,Female,nancywilliams,Foreigner,17,Canada,growing peri-urban,Average,long-term,Alone,0.9
+c83ba6fd-6bd7-4da2-9307-1203a17d0121,Male,stevereed,Other regions,16,France,urban middle class,Average,short-term,Couple,0.9
+300506d9-47fb-484c-b9e0-c768e210f5c0,Male,brianthompson,Other regions,15,France,affluent family urban,Low,short-term,Couple,0.6000000000000001
+c565cb4b-bd66-4c97-afa4-faf36cda2401,Female,kimedwards,Other regions,65,France,popularity,Low,short-term,Couple,0.2
+8467677e-a9c6-4c7a-8504-6e8f4f1c2aa0,Male,thomasbarnes,Other regions,24,France,growing peri-urban,Average,short-term,Alone,0.1
+d5c777e9-488d-423e-aee9-e1b05eec231a,Male,matthewbyrd,Normandie,17,France,dynamic urban,High,short-term,Family,0.8
+a45f6588-d393-4416-a222-6ead0e0091d3,Female,denisewilson,Normandie,51,France,growing peri-urban,Average,long-term,Alone,0.9
+dca16949-f02d-4e76-8497-12f967978f11,Female,andreadaugherty,Other regions,15,France,disadvantaged urban,Low,short-term,Alone,0.5
+6b804cd8-b61b-47f3-89df-9624ab992b33,Female,christinewilliams,Normandie,17,France,popularity,Low,short-term,Family,0.5
+9d068e96-2944-4b46-87ac-63222f3d0160,Male,danielbell,Normandie,44,France,dynamic urban,High,short-term,Family,0.7000000000000001
+092f8d30-12f8-4399-bd76-cad92386ab7e,Male,nicholasramos,Normandie,50,France,dynamic urban,High,short-term,Couple,0.30000000000000004
+155d41f7-2cb4-4770-b8fe-d89c5f856a44,Male,williamnash,Foreigner,15,Western Europe,affluent family urban,High,short-term,Family,0.8
+a7f904e5-1147-4385-be56-38316826a8a8,Female,amywise,Other regions,79,France,dynamic rural,Average,long-term,Couple,0.30000000000000004
+1de04a21-63c9-43e9-bdec-634d9c6e8dc2,Female,reneehartman,Normandie,25,France,urban middle class,Low,short-term,Alone,0.1
+9054e8dc-6d0c-47a1-8553-b459ab983f94,Male,dominicbishop,Foreigner,41,Western Europe,secondary residence,Average,long-term,Alone,0.9
+6a2ed978-9eb7-4c5f-bd60-267beb678bf3,Female,meganhughesmd,Foreigner,59,Western Europe,popularity,Low,short-term,Family,0.7000000000000001
+4f498907-b7c4-4772-a279-6052f502daff,Male,robertramirez,Foreigner,34,Western Europe,dynamic rural,Average,short-term,Group,0.8
+4f9b1492-f006-4e03-909e-9966e6bf8708,Female,jeansheppard,Other regions,56,France,popularity,Low,long-term,Alone,0.30000000000000004
+2b70471d-1217-484c-8287-be530b94d083,Female,tammyhall,Foreigner,35,Western Europe,traditional rural,Low,short-term,Alone,0.4
+c4c45bf8-3b8e-4f1a-9cf4-7eb89b65a1a9,Male,anthonywade,Normandie,27,France,rural worker,High,short-term,Family,0.5
+032eb669-92c3-43d9-a5a2-e511e1dea7dc,Female,karenwoods,Normandie,55,France,secondary residence,Average,short-term,Couple,0.1
+f812dffb-d7b3-4759-927e-d97e4d5d00af,Female,christinagoodman,Normandie,19,France,traditional rural,Low,long-term,Alone,0.30000000000000004
+e149b3bd-f479-437b-ab47-a9078cd87327,Male,richardthompson,Other regions,65,France,dynamic urban,High,short-term,Couple,0.1
+ca7f3437-308a-4503-ab74-1b6c8f576af2,Male,drewwilliams,Normandie,59,France,popularity,Low,short-term,Couple,0.8
+ca5a091d-b5b4-413a-b582-9910f5c5ba6c,Female,anneberry,Normandie,50,France,affluent family urban,High,short-term,Family,0.9
+54fb7335-a1e0-4069-a105-c8ad2eadac66,Male,robertowhitney,Foreigner,16,USA,growing peri-urban,Average,short-term,Alone,0.30000000000000004
+b937755e-7f50-4c04-b4eb-26f3350bf8e8,Female,christinecox,Other regions,30,France,affluent family urban,High,short-term,Family,0.2
+278825a7-9f66-4d43-b03e-72dc64f4e7af,Male,johnhill,Other regions,48,France,dynamic rural,Average,long-term,Alone,0.9
+23ee20e8-bdb8-45bd-9897-bc3491645456,Female,sarahrivera,Other regions,74,France,growing peri-urban,Average,long-term,Family,0.5
+8c33fee9-9c13-420b-9351-5f339ea51e22,Male,jonathanalvarado,Normandie,17,France,growing peri-urban,Average,short-term,Family,0.9
+ec04b004-20f2-45c7-b6fb-9ebf8ced8db9,Male,donaldvilla,Other regions,59,France,dynamic urban,Average,short-term,Alone,0.30000000000000004
+958e4a3f-7975-4019-859b-0c4fd1a3ed15,Female,melissagomez,Foreigner,38,Asia,wealthy family suburbanite,High,short-term,Family,0.30000000000000004
+a43b4073-2372-4b61-8d45-b5b0ea76b5e7,Female,emilymcclain,Foreigner,38,Western Europe,dynamic urban,Low,short-term,Alone,0.30000000000000004
+9188a461-4e0e-4ff4-b956-bfc4e1311fd9,Male,jamesreynolds,Foreigner,25,Western Europe,popularity,Low,short-term,Couple,0.7000000000000001
+68118953-796d-451d-bed7-6b9da4ceb871,Female,angelagarcia,Other regions,73,France,traditional rural,Low,short-term,Alone,0.2
+af6562c8-0b38-423f-839a-3ddf8e03cadd,Male,michaelhunt,Foreigner,34,Western Europe,dynamic rural,Average,short-term,Couple,0.2
+fe0c7d58-f670-457b-8474-257bd775316b,Female,wandamartin,Other regions,54,France,wealthy family suburbanite,High,long-term,Alone,0.7000000000000001
+ac2262c8-4894-4aa2-bcb8-dac3f29a69f5,Female,carolynosborne,Normandie,26,France,dynamic urban,Average,short-term,Family,0.5
+fb2f3ffa-1d73-4fa6-826d-425382176dab,Female,karenreed,Other regions,21,France,traditional rural,Low,short-term,Alone,0.6000000000000001
+5bb3501c-7985-41ff-ae1a-79bb35fc9436,Female,courtneycarter,Normandie,32,France,popularity,Low,short-term,Alone,0.1
+4fe9eacd-f7b2-4253-a774-8c6b3aab4bcd,Male,samuelsmith,Other regions,57,France,growing peri-urban,Average,short-term,Couple,0.6000000000000001
+eae3e19a-5924-447c-b72a-6750c4ecfd1f,Male,joshuaduarte,Other regions,17,France,affluent family urban,High,short-term,Couple,0.4
+4c4fae0a-fa7b-4083-8680-293f6026daed,Female,melissagonzalez,Other regions,65,France,affluent family urban,High,short-term,Alone,0.9
+83ca4a0e-c5be-457a-a68e-607031eab2e6,Male,jakepark,Normandie,17,France,dynamic urban,High,short-term,Family,0.7000000000000001
+4edbe801-c0fe-45a8-bd43-1675eb5d8d68,Male,josedavenport,Normandie,14,France,wealthy family suburbanite,High,short-term,Alone,0.2
+b50834ac-6fcf-4782-8863-afb8482e533b,Female,briannaroberts,Normandie,52,France,wealthy family suburbanite,High,short-term,Couple,0.9
+f27f8083-e4b9-4145-9304-3538d817d80f,Female,jilljacobson,Other regions,17,France,popularity,Low,short-term,Alone,0.9
+0ecd487b-5800-497d-91ac-0681967557b5,Male,jasonhurst,Foreigner,39,Germany,dynamic urban,High,short-term,Couple,0.6000000000000001
+be488944-1511-4c7f-b09d-2825c9b06e22,Male,markcarroll,Foreigner,15,USA,popularity,Low,short-term,Couple,0.30000000000000004
+e4f275c8-26df-49f4-b1ca-9cce02df0dfc,Female,monicagonzales,Other regions,73,France,dynamic urban,High,short-term,Group,0.2
+6497f699-5c69-4515-892f-e17250964eb5,Male,joshuabyrd,Foreigner,66,Western Europe,dynamic urban,High,short-term,Alone,0.6000000000000001
+6242265e-38bb-4cce-ae58-98b416faafd8,Female,madisonlloyd,Normandie,53,France,rural worker,Low,short-term,Couple,0.8
+b988bc83-df00-4bef-b55e-3f13758c1d8f,Female,sandraellis,Normandie,15,France,popularity,Low,short-term,Couple,0.1
+a376fbc4-283b-4ea7-92a6-8acdaba76889,Female,pamelarodriguez,Foreigner,39,Western Europe,popularity,Low,short-term,Alone,0.7000000000000001
+60ff85f2-9ce9-47fc-8eff-521bcd490467,Male,mikeromero,Normandie,38,France,dynamic rural,Average,short-term,Group,0.4
+bf92e1d8-6c31-4a80-9329-07c22eb0a115,Female,melanieschroeder,Other regions,40,France,urban middle class,Average,short-term,Alone,0.7000000000000001
+877182c1-9667-4c76-a48b-91612e98c5d2,Female,cynthiaayers,Foreigner,62,Western Europe,urban middle class,Average,short-term,Couple,0.1
+3c3a6faf-f399-41b2-a032-193c87d0e3ba,Female,paulajones,Other regions,57,France,dynamic rural,Average,long-term,Couple,0.30000000000000004
+2bf55f93-e633-4e0e-9932-a44d8d6e5b81,Female,melissaharrison,Foreigner,20,Canada,traditional rural,Low,short-term,Couple,0.5
+6fe24717-d38a-4dbc-b0b5-6a8addb091cb,Male,scottwells,Foreigner,31,Asia,dynamic urban,Average,short-term,Couple,0.30000000000000004
+de986bd7-22e1-4ca6-9f8a-4f2cbde0bf4f,Female,lisaoneal,Normandie,63,France,dynamic urban,High,long-term,Family,0.9
+9a95c903-ccbb-477f-93a0-4768d0636552,Male,davidluna,Normandie,69,France,dynamic urban,High,short-term,Couple,0.6000000000000001
+6c081cd4-24eb-4a47-a1cc-b2f806b746b6,Female,carolynjohnson,Foreigner,68,Western Europe,growing peri-urban,Average,long-term,Couple,0.7000000000000001
+e09e8476-89f7-461c-92a3-4ef7f437f9ee,Female,dianajohnson,Other regions,57,France,dynamic urban,High,short-term,Family,0.2
+8359e1fa-1d20-4b80-aa31-da8cbd5f2d16,Female,alexisbrown,Normandie,45,France,affluent family urban,High,long-term,Couple,0.4
+f7d7f6fc-1b6f-4a87-b9a4-6fc1a480e410,Male,wesleybullock,Foreigner,44,Oceania,affluent family urban,High,short-term,Family,0.9
+45f40eef-ea20-4cf3-a3fa-7fdcdbc28781,Male,ronniejackson,Foreigner,28,Germany,dynamic urban,High,short-term,Alone,0.1
+7a64f902-747c-4290-8cc6-42dcafe4ce0b,Male,christopherwilson,Normandie,59,France,growing peri-urban,Average,short-term,Alone,0.8
+72dbf8ab-4c63-47a8-956a-3a6c60815f23,Female,lorilester,Normandie,54,France,affluent family urban,High,short-term,Family,0.8
+4add3b98-68e6-445f-b189-0dea2795d48a,Male,jamesbuck,Other regions,54,France,dynamic urban,High,short-term,Couple,0.4
+30f662be-d7b9-4f51-be47-2a755dad2380,Female,sarahjones,Foreigner,15,Western Europe,affluent family urban,Low,short-term,Family,0.6000000000000001
+531a3fdb-8ca7-435e-aa9f-0803d7e1aa90,Male,stephenmoore,Foreigner,70,Oceania,dynamic urban,High,short-term,Alone,0.2
+9b55e3e5-36b4-4720-bd1e-c0b3c851946c,Male,johnsilva,Normandie,36,France,traditional rural,Low,short-term,Alone,0.8
+abc697a9-017a-478f-a712-614e3255b63e,Male,matthewwhite,Normandie,24,France,dynamic urban,High,short-term,Family,0.6000000000000001
+25854fe6-5bd4-4529-ac3c-517636902b89,Female,latashacooper,Foreigner,30,Western Europe,dynamic urban,High,short-term,Couple,0.9
+4e99daf7-50dd-4309-ba2d-85fa82f00164,Male,thomasadams,Foreigner,55,Western Europe,traditional rural,Low,short-term,Alone,0.7000000000000001
+b2d31123-a062-428f-98b6-c3552495be45,Female,katherineweaver,Normandie,14,France,popularity,Average,short-term,Couple,0.30000000000000004
+540ec576-30fa-4564-8a28-4afec5ac5a24,Male,josephwood,Normandie,22,France,traditional rural,Low,short-term,Alone,0.4
+8417458a-567d-4edd-ac97-6df8424a70e4,Female,nicolegould,Normandie,45,France,affluent family urban,Low,long-term,Alone,0.30000000000000004
+7954446c-c786-43bf-9710-f272bb23b95a,Female,abigailjefferson,Foreigner,52,Western Europe,wealthy family suburbanite,High,long-term,Alone,0.1
+675c5971-e62c-4e47-b4a7-79419503670e,Male,matthewcampbell,Normandie,20,France,popularity,Low,short-term,Alone,0.30000000000000004
+83f58e87-7d0d-49af-bdb2-103560d64da0,Male,codyroth,Other regions,55,France,dynamic urban,High,long-term,Couple,0.6000000000000001
+512b6015-0376-4a91-be46-aef2d9a00d3c,Male,raymondwright,Foreigner,25,Western Europe,popularity,Low,short-term,Couple,0.5
+e071f52d-cfc8-44b8-b112-2f86815e0abc,Female,zoechavez,Normandie,62,France,dynamic urban,Low,short-term,Alone,0.9
+f2df1e62-75e7-439a-b0bb-7f7472670ff8,Female,juliacopeland,Normandie,62,France,popularity,Low,short-term,Alone,0.1
+3cec5aa2-9132-4ebf-be05-77f566af200d,Female,kellyreed,Normandie,48,France,dynamic urban,High,short-term,Family,0.2
+81196eb8-9de7-457b-a095-ba1ddb50e5a5,Female,patriciacooke,Other regions,45,France,dynamic rural,Average,short-term,Family,0.1
+b45a52ce-aec5-4467-88b8-909bf4f47359,Male,jamesmartinez,Other regions,60,France,popularity,Low,short-term,Couple,0.8
+3aaf20af-c690-4060-95fa-5f3cad934e0f,Male,dondixon,Foreigner,66,Germany,rural worker,Low,short-term,Family,0.9
+885d4d54-3fe6-401b-b359-7976e2e07ad0,Female,lynnmontgomery,Foreigner,29,South America,traditional rural,Low,short-term,Alone,0.2
+8502848a-c57d-464b-a7fe-5cf16fd90af0,Female,cindysanchez,Foreigner,27,Belgium,wealthy family suburbanite,Low,short-term,Group,0.8
+aec1c140-4e48-4db9-b201-ce8378508b16,Female,rebeccacummings,Foreigner,30,Asia,wealthy family suburbanite,High,long-term,Family,0.6000000000000001
+e49926e0-0ea2-448d-8e61-81cc1cef1fd9,Female,elizabethhunter,Other regions,21,France,affluent family urban,High,short-term,Couple,0.30000000000000004
+49900346-224b-41bc-92a3-3660d1042022,Female,jessicadillon,Normandie,22,France,urban middle class,Low,short-term,Alone,0.2
+05edc51d-2f85-4514-a9be-612943fd1bc5,Female,lindseymccarty,Foreigner,24,Eastern Europe,popularity,Low,short-term,Couple,0.2
+403628df-0b43-4035-937f-a5411d370de7,Female,stacyclarkmd,Normandie,76,France,wealthy family suburbanite,High,short-term,Family,0.1
+ca36e5e9-cad4-4788-9058-2dee42ab95f3,Female,lisajohnson,Other regions,20,France,dynamic urban,High,short-term,Alone,0.2
+c19494f8-3c68-4b5a-bc7a-76e0fed12d28,Female,conniebailey,Normandie,16,France,wealthy family suburbanite,High,long-term,Group,0.30000000000000004
+055fdf50-f35b-4cae-8536-dce7e588c4a0,Female,meganhuber,Foreigner,23,Western Europe,wealthy family suburbanite,High,long-term,Alone,0.9
+b86bd92f-5812-420c-bceb-fd35c10892e1,Male,aaronthornton,Normandie,65,France,dynamic urban,High,short-term,Couple,0.9
+97b9ef6c-c51b-44a9-84c7-9b57580e80e7,Male,jonathanfloyd,Other regions,38,France,growing peri-urban,Average,short-term,Family,0.1
+f48ad7c7-64c5-423f-9f38-daea4fe8de0d,Female,victoriageorge,Normandie,62,France,growing peri-urban,Low,short-term,Couple,0.6000000000000001
+af343f30-a8b2-4862-81f4-0daabff064c1,Female,stephaniehopkins,Foreigner,76,Germany,traditional rural,Low,short-term,Alone,0.1
+cdfef2a1-7bbe-4c61-b0c6-ac125cef6475,Male,patrickperry,Other regions,40,France,wealthy family suburbanite,High,short-term,Couple,0.2
+b34ac4c9-7354-4e35-90f5-bd870712931e,Female,ms.lisamaldonadodds,Normandie,55,France,traditional rural,Low,long-term,Couple,0.8
+3c8c12a4-6d1f-4e4e-97db-b19f3fe75277,Female,melissafaulkner,Other regions,67,France,dynamic urban,High,short-term,Couple,0.8
+25007193-792d-4b5c-822b-216045979466,Male,cameronreynolds,Other regions,33,France,rural worker,Low,short-term,Family,0.1
+8a6abba4-3df9-48f4-a706-2128dc270059,Male,davidcraig,Foreigner,36,Western Europe,popularity,Average,short-term,Couple,0.8
+5c4e38b9-02e5-4611-834a-d8db0e076efa,Male,brianbrennan,Foreigner,26,Western Europe,popularity,Low,short-term,Family,0.1
+f6ca6bdc-b084-4302-8110-c644849f3d22,Female,traceyjones,Normandie,31,France,affluent family urban,High,short-term,Family,0.30000000000000004
+b004c5f6-f705-4a7a-8a6d-ca1f60140fc3,Male,mr.lanceblack,Foreigner,75,Western Europe,popularity,Average,long-term,Couple,0.30000000000000004
+6d21554a-96b9-41f9-8ed2-1b2b5604bb9e,Male,jesusgarcia,Other regions,57,France,dynamic urban,High,short-term,Couple,0.7000000000000001
+27e97583-3cb2-4836-b594-eb12a4130b77,Female,theresamueller,Normandie,55,France,traditional rural,Low,short-term,Couple,0.5
+ae394e87-404b-4566-9d00-c26c764c161d,Female,destinybeard,Other regions,27,France,wealthy family suburbanite,High,short-term,Couple,0.7000000000000001
+1e7bdb59-23f1-4730-916f-211eaea27332,Male,devinparker,Foreigner,78,Belgium,popularity,Low,long-term,Alone,0.6000000000000001
+3e6ef074-f9e6-4ee9-a448-7406540c6944,Female,jessicamayer,Foreigner,19,Germany,traditional rural,High,long-term,Alone,0.5
+99c111db-b4c7-4aac-a827-aaa22285bb58,Male,johnanderson,Normandie,15,France,affluent family urban,High,short-term,Group,0.5
+843be4fe-c760-4a36-af7f-3e20d8967933,Male,tonydavis,Other regions,32,France,popularity,Low,short-term,Couple,0.30000000000000004
+74c002fd-d2d8-49ba-af06-8d05e2c02269,Male,joseroy,Other regions,30,France,popularity,Low,short-term,Couple,0.8
+f2d4f4f2-f09e-4d5b-9465-6ce4a5a20110,Male,donaldwhite,Other regions,15,France,urban middle class,Average,short-term,Couple,0.7000000000000001
+debc9c8e-20bb-4d6d-871b-114a46cb07a2,Female,angelabrown,Other regions,53,France,popularity,Low,short-term,Family,0.7000000000000001
+79dd5c23-e7d3-4fd4-ab83-4c53fed67e00,Female,jacquelinecurtis,Normandie,79,France,traditional rural,Low,short-term,Family,0.1
+56229ccc-2d54-4185-b7c7-022e713d5ec0,Female,lauriejackson,Foreigner,64,Western Europe,dynamic urban,High,short-term,Couple,0.5
+f3772f79-a7d7-4ad8-b863-bc181992d8f3,Male,patrickbaxter,Normandie,63,France,popularity,Low,short-term,Alone,0.6000000000000001
+85575837-7b50-4888-9204-fe2b0112e3d6,Female,rebeccarhodes,Foreigner,67,Western Europe,popularity,Low,short-term,Couple,0.2
+4b68a86f-8746-4f35-8b31-46d5a198d848,Male,keithwest,Normandie,15,France,affluent family urban,High,long-term,Alone,0.1
+c742a47b-a68d-4536-9944-20f1ae9c74fe,Female,kathleendean,Normandie,26,France,popularity,Low,short-term,Couple,0.4
+3a20eae6-1865-4ef7-8ef2-670266891ad7,Male,davidclark,Normandie,49,France,growing peri-urban,Average,short-term,Family,0.6000000000000001
+95eacd78-0db2-441b-8e1b-ad410a4e0b2e,Male,glennaustin,Normandie,14,France,growing peri-urban,Average,short-term,Couple,0.9
+5b6622a2-4c10-4778-94ce-ecd22c06abc5,Female,megansimpson,Normandie,17,France,wealthy family suburbanite,High,long-term,Couple,0.4
+926fb7c8-516a-468a-9602-8ba1f1f1cc82,Female,sarahlee,Normandie,61,France,disadvantaged urban,Low,short-term,Couple,0.6000000000000001
+4f941e54-7cb8-4ce9-9bb6-cb922300c023,Female,ashleewaters,Foreigner,72,Germany,urban middle class,Average,short-term,Family,0.2
+00259493-25f1-4f4b-8d08-2103b60dec4e,Female,denisemiller,Normandie,41,France,growing peri-urban,Average,short-term,Couple,0.1
+733b21d1-0a18-4b00-84ec-335476e69edc,Male,robertmeyer,Foreigner,46,Western Europe,affluent family urban,High,short-term,Couple,0.5
+105f73aa-3dd5-46a3-92f8-c53c8a09ad55,Male,glennhancock,Foreigner,27,Western Europe,affluent family urban,High,short-term,Alone,0.30000000000000004
+72a2f37e-0efd-426c-ac70-8ba12071cf0a,Male,stevendalton,Normandie,35,France,growing peri-urban,Low,short-term,Alone,0.30000000000000004
+85b603f8-1b74-46a0-b1ae-19ccbd1c0c49,Male,nicholaskirby,Normandie,60,France,urban middle class,Average,short-term,Family,0.4
+2bc4ebb4-5628-4186-b6e0-64315252e6a3,Female,emilysmith,Other regions,53,France,traditional rural,High,short-term,Couple,0.7000000000000001
+8be5a10f-51be-425d-a2ee-a9c7136c5c3f,Male,williamnorris,Normandie,77,France,wealthy family suburbanite,High,short-term,Couple,0.6000000000000001
+e7717c3c-9478-43e4-828b-c52161e79de3,Female,amywillis,Normandie,25,France,urban middle class,Average,short-term,Couple,0.5
+1af27d97-a017-43e4-82e1-18d7bec6e294,Female,jeanettegonzalez,Normandie,15,France,growing peri-urban,Average,short-term,Couple,0.4
+b25213d7-e14a-4ef3-8867-3880eee28b91,Female,ms.kellymonroe,Foreigner,49,Western Europe,dynamic urban,High,long-term,Couple,0.9
+5f3c8e9d-4b95-4312-9f90-037f0c4191bb,Male,peterlove,Normandie,73,France,dynamic urban,High,short-term,Couple,0.30000000000000004
+95ffc6b2-22f0-4ab3-a483-95ec3a4329fc,Female,stephanievance,Foreigner,51,Germany,dynamic rural,Average,short-term,Alone,0.6000000000000001
+fccfaf20-b988-49ed-9c21-2d9fcb1ebd07,Male,jordanharris,Foreigner,42,Belgium,growing peri-urban,Average,short-term,Family,0.7000000000000001
+cf9d4cff-7d94-4d5a-83c1-0802f27e40a6,Male,michaelmcdonald,Other regions,23,France,dynamic urban,High,short-term,Couple,0.8
+11a6403b-ff5a-48e8-aeca-498f9acfe0bf,Male,iandavis,Normandie,76,France,rural worker,Low,long-term,Couple,0.2
+6ddee845-d9e5-4fdd-8e79-ba06a9f5a02f,Female,jogonzalez,Other regions,31,France,dynamic urban,High,short-term,Couple,0.7000000000000001
+d7637034-2644-406c-85f3-1145a4bb1a48,Female,jessicahanson,Other regions,45,France,urban middle class,Average,short-term,Family,0.8
+5704d625-7edc-4aaa-878a-d4a0a5a01f50,Female,meganwilliamsmd,Other regions,14,France,popularity,Low,short-term,Couple,0.4
+f1e25adb-aee2-4b37-9a62-a136dce1d1c9,Male,markmoore,Foreigner,24,Western Europe,popularity,Low,long-term,Alone,0.6000000000000001
+4573a50c-4ba0-4256-b875-6ecb46408222,Female,mrs.kimberlyhowe,Normandie,33,France,affluent family urban,High,short-term,Family,0.4
+0a2a002f-9efb-4e7c-b1ca-1d00d8107be4,Female,shannongibbs,Other regions,29,France,wealthy family suburbanite,High,long-term,Couple,0.30000000000000004
+3819b8ea-181d-4716-90ca-d0955b1f37c5,Female,marybell,Other regions,30,France,urban middle class,Average,long-term,Family,0.2
+b0a7b638-4e24-46d2-a683-efcc05cddccf,Female,kristinhawkins,Normandie,17,France,popularity,Low,short-term,Couple,0.4
+1777eb54-83db-4c4b-83f5-3dccafb88545,Female,cheyennelynch,Foreigner,49,USA,traditional rural,Low,long-term,Couple,0.2
+d738141c-5bb1-4693-a669-8e41b63f9e6a,Male,markperry,Other regions,26,France,popularity,Low,short-term,Family,0.1
+bc24ccb5-1527-463d-8b62-092f4448d87b,Female,amywong,Foreigner,73,Belgium,dynamic urban,Average,short-term,Couple,0.2
+0a06292b-affb-4a90-9e35-33f3ce130f97,Male,jamesbates,Other regions,19,France,growing peri-urban,Average,short-term,Family,0.6000000000000001
+8d7eb897-f6b3-4e33-9507-79c685ea2fb8,Male,kristopherweber,Normandie,61,France,popularity,Low,short-term,Alone,0.4
+9d90bc94-eec9-423a-8e2f-788400371a56,Female,sarabryant,Foreigner,17,USA,wealthy family suburbanite,Average,short-term,Couple,0.9
+47c97175-cfd1-4a57-8d0d-ecef9723d044,Male,ericcamacho,Normandie,61,France,dynamic rural,Low,short-term,Couple,0.2
+3f986c22-bbc5-4d7d-8932-1e647850f0aa,Female,stephanieclark,Other regions,41,France,dynamic rural,Average,short-term,Couple,0.2
+83e2c69e-87e9-4df5-8d21-ef6687bf1b12,Male,dennismarsh,Normandie,35,France,dynamic urban,High,short-term,Alone,0.30000000000000004
+3c40eebe-819f-4da7-b5e5-8691a3ddd83b,Male,robertpage,Normandie,30,France,dynamic urban,High,short-term,Family,0.5
+5ee75557-ee4b-4171-8131-290ca2511e2f,Female,tinacook,Normandie,23,France,dynamic urban,High,long-term,Family,0.7000000000000001
+a9671952-b8b9-43ee-adf2-e826e23436ed,Male,ryanpowers,Other regions,59,France,wealthy family suburbanite,High,short-term,Couple,0.30000000000000004
+10d19afa-b7a1-4394-ab29-363b1623f9eb,Male,dwayneortiz,Other regions,65,France,popularity,Average,long-term,Couple,0.4
+f25c77ca-7fee-4f5a-a9f4-24c98d33ac36,Female,leahperry,Normandie,21,France,dynamic rural,Average,short-term,Family,0.4
+19828a55-ed68-4ce2-abec-eceeadfc092f,Male,andrewwilliams,Foreigner,71,USA,rural worker,Low,short-term,Family,0.1
+690567d5-417a-4628-abff-82c8c25ca844,Male,allenmorgan,Other regions,31,France,dynamic urban,High,short-term,Alone,0.2
+6ec14e9f-25e7-4b78-b111-e87f8f1e542e,Male,joetaylor,Other regions,20,France,urban middle class,Average,short-term,Alone,0.30000000000000004
+49c184a5-5499-438b-a1c5-897dc3af6508,Female,rebekahlewis,Normandie,21,France,growing peri-urban,Average,long-term,Alone,0.4
+2a39ab39-af03-4301-a26c-eddb7c54a721,Male,patrickhayes,Other regions,25,France,urban middle class,Low,short-term,Alone,0.9
+7f9b5613-4585-4fae-b89f-e3fca6e03da8,Female,carolstuart,Other regions,16,France,growing peri-urban,Average,short-term,Family,0.5
+6cbacf19-49e3-42b7-bc6e-63bb11c93d8a,Male,anthonypearson,Foreigner,60,Belgium,dynamic urban,High,long-term,Couple,0.7000000000000001
+39e830d0-515d-4d4c-82b7-1b2e604199ff,Male,ericschaefer,Foreigner,32,Western Europe,traditional rural,Low,short-term,Alone,0.2
+51a7563b-3f4f-4ac4-abda-ab285be5b5dd,Male,justinmunoz,Other regions,67,France,secondary residence,Average,short-term,Family,0.6000000000000001
+44771a16-142d-4403-b6f9-1dd7b0526895,Female,whitneyhubbard,Foreigner,17,Western Europe,popularity,Low,short-term,Alone,0.8
+e67696b9-83f3-4690-9786-e276886f50eb,Male,chrisrodriguez,Other regions,17,France,dynamic urban,Low,short-term,Family,0.5
+5c03747c-a657-40ac-b671-3c6936545d2e,Female,patriciadavis,Foreigner,19,South America,dynamic urban,High,short-term,Family,0.30000000000000004
+411c05e9-4b67-4475-af68-977b99a8a4c6,Female,caseygonzalez,Other regions,30,France,affluent family urban,Average,short-term,Couple,0.1
+ade910df-d989-4264-bc8b-83a3e2db9a7e,Male,johnrodriguez,Normandie,79,France,urban middle class,Average,long-term,Family,0.7000000000000001
+09daacc2-4ead-4fa0-81ac-c2ca275e61d0,Female,glorialee,Normandie,73,France,wealthy family suburbanite,High,short-term,Couple,0.1
+413849a7-f7c9-4d2e-a9f9-d60d28596521,Male,williamgalloway,Other regions,17,France,popularity,Low,short-term,Alone,0.9
+051d3174-fef3-4808-be24-d3e4c97d8879,Female,sierraclark,Other regions,47,France,popularity,Low,short-term,Alone,0.1
+432e8a82-be0d-463e-97d9-5316d9dd8cec,Male,garrettwilson,Other regions,14,France,urban middle class,Average,short-term,Alone,0.6000000000000001
+b2a75c71-b936-49b8-9a7e-6b03153cf5cc,Female,theresamorrison,Other regions,17,France,dynamic urban,High,short-term,Couple,0.8
+d74855f3-9241-4c6d-93a1-d16d6e61af70,Female,sandralopezmd,Normandie,51,France,wealthy family suburbanite,High,short-term,Couple,0.30000000000000004
+3aeccbdc-47ca-4e9c-9493-93aa39fa5240,Male,jasonfoley,Normandie,56,France,traditional rural,Average,short-term,Couple,0.9
+904fe983-43a3-43e3-8bf5-d7bd13fd5e7b,Male,tannernelson,Normandie,42,France,urban middle class,Low,short-term,Family,0.8
+926bb1a0-8b7d-44a0-a606-2716c39ef7cf,Female,amandacollins,Normandie,28,France,urban middle class,Average,short-term,Alone,0.7000000000000001
+6d2dfd64-0659-41cf-aff4-f903d05851fe,Male,mr.paulnicholsondds,Foreigner,69,Western Europe,affluent family urban,High,long-term,Couple,0.7000000000000001
+acd71a77-6394-42b8-bced-e2d59d85480f,Male,randallgonzales,Normandie,48,France,dynamic rural,Average,short-term,Alone,0.6000000000000001
+86e3ab2c-5416-49af-b037-9aaa278db239,Female,nancylee,Other regions,49,France,dynamic rural,Average,short-term,Family,0.1
+b6737f9e-dbb9-4a26-8961-cd4e53ea61a0,Female,shawnahayes,Normandie,33,France,dynamic urban,High,long-term,Family,0.7000000000000001
+1695d174-0065-474a-b9a2-5b15193b99a8,Male,jonathanmills,Normandie,26,France,dynamic urban,High,short-term,Couple,0.6000000000000001
+96cabf9f-9952-467c-b411-986abe6e41b9,Male,mr.jamesbatesdvm,Foreigner,58,Eastern Europe,popularity,Low,short-term,Couple,0.6000000000000001
+ce552b55-e542-441c-b0fb-94b3b3e1ad81,Female,jamiepeters,Other regions,76,France,popularity,Low,short-term,Alone,0.8
+4038d396-ffe1-4c77-af6c-17051b591d84,Female,kimberlyclay,Normandie,43,France,dynamic urban,High,short-term,Alone,0.8
+2e8ff4ff-d457-4502-8998-a1bc166b1e96,Female,michelebaird,Normandie,32,France,dynamic urban,High,long-term,Family,0.5
+b604137d-a92a-4fb1-8bff-51cd74f67ea6,Male,andrewglenn,Other regions,30,France,popularity,Low,short-term,Couple,0.30000000000000004
+a43af245-314c-4b15-9da9-664e2996f5c0,Male,joshuajackson,Other regions,35,France,rural worker,Low,long-term,Family,0.6000000000000001
+63c0a5cb-eed5-4b02-95e0-0e46852d61c5,Male,nathanacosta,Other regions,15,France,rural worker,Low,short-term,Couple,0.4
+6def18ef-398f-4e96-b210-2759defaf528,Female,stephaniehenrymd,Other regions,59,France,affluent family urban,Average,short-term,Alone,0.6000000000000001
+de351961-28ad-4f12-a51c-2bc220d64466,Female,victoriataylor,Normandie,31,France,dynamic urban,High,short-term,Alone,0.9
+12fc480b-a320-46cd-949c-a13b2066b820,Female,rachelshaw,Other regions,35,France,growing peri-urban,Average,short-term,Couple,0.2
+7b30d74a-1186-4247-b804-a8314b214ba2,Female,sylviahart,Other regions,19,France,disadvantaged urban,Average,short-term,Alone,0.8
+93ae2852-559e-4401-8418-648db493bafd,Male,ronaldfisher,Normandie,77,France,growing peri-urban,Average,long-term,Alone,0.30000000000000004
+5937fb2c-cdec-4fab-ae19-611df4da6778,Female,sarahcannon,Normandie,21,France,wealthy family suburbanite,High,long-term,Couple,0.30000000000000004
+f28ca6f5-d1bc-44d1-8f04-6a07df2d3004,Male,michaelrodriguez,Normandie,28,France,disadvantaged urban,Average,long-term,Couple,0.5
+ffe34b7b-1e80-4107-ad00-4a176a26a4c3,Male,jameskrueger,Foreigner,32,Germany,rural worker,Average,short-term,Couple,0.5
+b764422e-aa35-4b35-81eb-809fc44b02c5,Female,brittanyhall,Normandie,62,France,affluent family urban,High,long-term,Alone,0.1
+077bb653-abab-4548-a328-5eb0a687e9b3,Female,juliavillarreal,Normandie,17,France,wealthy family suburbanite,High,short-term,Alone,0.2
+f82eaef9-405e-45c8-b0f0-877ca0117c52,Female,haleyparker,Other regions,38,France,affluent family urban,High,short-term,Family,0.1
+ef4d527e-b1ee-4519-adbd-0c21b46dde2a,Female,lauracraig,Normandie,42,France,urban middle class,Average,short-term,Alone,0.4
+f1b53a49-a0eb-416d-a6a7-850f5631700a,Male,carlsosa,Normandie,80,France,popularity,Low,short-term,Couple,0.2
+09c7dfd8-f4f4-495a-a9ba-b4bd9856eea2,Female,crystalarnold,Other regions,14,France,disadvantaged urban,Low,short-term,Family,0.9
+f9ff6926-50a0-4339-b176-0e5e2e3af0b2,Male,marcusparker,Normandie,16,France,dynamic urban,High,short-term,Family,0.2
+991eac89-39de-4cf1-b0d8-66bb9d478277,Male,lonnierobertson,Normandie,47,France,affluent family urban,High,long-term,Family,0.7000000000000001
+d0f6a605-8d50-4fb0-9198-4a36fc012d32,Male,ryanwilliams,Foreigner,49,Western Europe,dynamic rural,Average,long-term,Family,0.30000000000000004
+fbf555d6-7534-4cad-88f0-eccc59f688a3,Female,hannahoconnor,Other regions,15,France,popularity,Low,long-term,Couple,0.5
+60b2fc60-0e0d-4a39-a274-18ae620da8be,Male,thomasjordan,Foreigner,53,Belgium,growing peri-urban,Low,short-term,Couple,0.7000000000000001
+7bb7015e-f3b7-4315-96ce-611b47602884,Female,diamondalexander,Other regions,23,France,popularity,Low,short-term,Alone,0.8
+aea19d3d-397e-4212-aab5-4721d9427747,Male,robertanderson,Other regions,75,France,wealthy family suburbanite,High,short-term,Family,0.1
+5b4b7282-03bb-4069-80d4-736ef5b73f01,Female,mirandajohnson,Other regions,70,France,dynamic rural,Average,short-term,Family,0.9
+70553783-dd87-4ce1-b4f3-8da628698d62,Male,kennethhoward,Other regions,26,France,dynamic urban,High,short-term,Couple,0.7000000000000001
+2856d4dd-d9a6-49b7-be32-326315de6639,Male,brentcrawford,Normandie,14,France,popularity,Low,short-term,Alone,0.2
+66d360a5-a284-42c2-a9ba-af6c0534fc90,Female,jennifertaylor,Normandie,49,France,dynamic rural,Average,long-term,Couple,0.1
+08578132-5139-4a9b-9a18-6739d04a7ea0,Male,stephenpetersen,Normandie,28,France,growing peri-urban,Average,short-term,Alone,0.2
+1919a468-3b83-4d1c-b08f-d09ca82e3c78,Female,cindyhughes,Other regions,21,France,dynamic urban,High,short-term,Couple,0.30000000000000004
+694ea572-2d64-46c1-a754-22f0a32b00c9,Female,kathleenjordan,Normandie,63,France,rural worker,Low,short-term,Family,0.1
+f58747a6-7416-4c72-b17f-3e47c0a8a2a7,Female,denisedunn,Normandie,14,France,growing peri-urban,Average,short-term,Couple,0.7000000000000001
+0e47daf9-c400-463c-9834-a5b42cb8f29a,Male,scottevans,Foreigner,25,Germany,popularity,Low,short-term,Family,0.4
+a5cbc6d2-a06b-4998-8bf6-a28958008bfb,Male,williambaker,Other regions,14,France,disadvantaged urban,Low,short-term,Family,0.9
+48a2d14a-bdf2-42e0-89ce-92d50dd2658d,Male,matthewhall,Normandie,15,France,dynamic rural,Average,short-term,Family,0.4
+1984906d-88ce-48fb-937d-97e0899d325b,Male,danielprice,Normandie,80,France,affluent family urban,High,short-term,Family,0.7000000000000001
+4f1936e9-7ee2-405b-a194-dfaded80a722,Female,dawnmayer,Normandie,14,France,affluent family urban,High,long-term,Alone,0.2
+6a2ef3f6-ba2e-4cda-8ac7-d42590f863ff,Male,jamesmorris,Foreigner,35,Belgium,affluent family urban,High,short-term,Couple,0.1
+6117418b-aa69-4ac5-ac49-fc57071b46fb,Female,kathymurphy,Normandie,49,France,urban middle class,Average,long-term,Family,0.30000000000000004
+76fb13ba-a2dc-4d34-b12d-2f26117dfef2,Female,brandyprice,Normandie,80,France,rural worker,Low,short-term,Couple,0.2
+c0b8d4ac-537a-47b2-8172-99fd597832cf,Female,lindamoore,Other regions,53,France,dynamic urban,High,short-term,Alone,0.9
+36786da8-709e-4108-b5c7-cb32272b3c11,Male,jameshamilton,Other regions,15,France,popularity,Low,long-term,Alone,0.2
+69a0eb3f-c365-4602-8570-24cd09083678,Female,kerrimatthews,Normandie,19,France,affluent family urban,High,short-term,Couple,0.4
+a5ebb5da-8968-4576-a663-296a511360ed,Male,paulhinton,Other regions,77,France,growing peri-urban,Low,short-term,Couple,0.6000000000000001
+5a16be33-6ee5-40ca-a275-6b4e4060fddd,Female,cynthiamyers,Other regions,29,France,traditional rural,Low,short-term,Alone,0.7000000000000001
+c93b3d07-27ef-4f28-bd22-2c23c443deec,Female,stephaniegeorge,Normandie,16,France,wealthy family suburbanite,High,short-term,Family,0.8
+2b2b6cf3-fcad-475c-8041-af0182ce8fed,Female,juliarichardson,Other regions,14,France,popularity,Low,short-term,Couple,0.6000000000000001
+b4779a7e-5a96-462e-b898-9c9985850918,Female,michellethompson,Normandie,24,France,dynamic urban,Average,short-term,Couple,0.1
+27b55b03-6941-4604-9ddc-38587c2e249e,Female,katelynadkins,Normandie,78,France,dynamic rural,Average,short-term,Group,0.5
+672cb10e-2a15-4010-844a-b62d0d170db5,Male,peterchandler,Foreigner,41,Western Europe,wealthy family suburbanite,High,short-term,Couple,0.6000000000000001
+2c9332bb-99b3-42cb-a006-e80192e09e4d,Male,connorjuarez,Normandie,67,France,wealthy family suburbanite,High,short-term,Family,0.2
+e5d79b8a-fd74-408f-b43e-ad75dd0f1582,Male,justinortiz,Other regions,61,France,dynamic urban,High,long-term,Couple,0.8
+9eea8f38-e8fe-4b78-bf6b-517ba9246df7,Female,meganflores,Normandie,53,France,urban middle class,Average,short-term,Alone,0.6000000000000001
+727b86cb-d741-43dc-bfe0-c267774d43ca,Male,robertbenitez,Normandie,14,France,dynamic urban,High,short-term,Family,0.1
+5dbfaad2-aed8-4856-9071-725e85b4e9a9,Female,melissazamora,Normandie,30,France,growing peri-urban,Average,short-term,Alone,0.1
+a803a256-59b3-41b3-846f-fd2624dc810e,Female,lindsaybailey,Foreigner,61,Belgium,affluent family urban,High,short-term,Alone,0.7000000000000001
+0ef38db5-c18f-4496-8620-987c620a496d,Female,danakelleymd,Foreigner,16,Western Europe,popularity,Low,short-term,Couple,0.5
+8601ef3e-c7ca-43d2-80b4-b6883583fb82,Male,nathanielewing,Normandie,29,France,popularity,Low,short-term,Alone,0.2
+87c056c4-aa16-4946-8e77-dd162fa05906,Female,victoriayoder,Other regions,31,France,urban middle class,Average,short-term,Couple,0.6000000000000001
+fa005622-3ae2-4378-9d55-68329e816381,Female,rachellewis,Other regions,18,France,urban middle class,Average,short-term,Alone,0.2
+e4e6a21d-07f4-4f33-b1f1-b37ca8474dbc,Female,loriwaters,Normandie,30,France,disadvantaged urban,High,short-term,Couple,0.5
+1366fb0b-e928-4ddb-853a-5c9f59979515,Male,christopherbrown,Normandie,53,France,urban middle class,Average,short-term,Family,0.7000000000000001
+041c4f7d-5af2-4c79-b35f-3a8d70c1f911,Female,lorrainehayes,Foreigner,44,Germany,traditional rural,Average,short-term,Alone,0.5
+79f323bb-9682-456a-8ad5-a9b9be0cd84b,Male,justinwells,Normandie,20,France,popularity,Low,short-term,Alone,0.8
+65fd9123-f20f-4fe9-82cc-3e1f62bf6f0e,Male,stevenowens,Normandie,21,France,rural worker,Low,short-term,Couple,0.4
+8c5f3d93-d43d-40e1-b957-519df95f3ec9,Male,thomasreyes,Normandie,19,France,dynamic urban,High,short-term,Alone,0.1
+f017b693-2a26-494d-b54e-b02763a01fea,Female,cindyhebert,Normandie,14,France,dynamic rural,Average,short-term,Alone,0.9
+b3a93276-fc17-467a-96ae-244084561cba,Female,jennifersummers,Normandie,14,France,urban middle class,Average,short-term,Couple,0.9
+7ba93b48-a47e-4c0b-b855-c48b94d71cdc,Female,haileygarcia,Normandie,23,France,growing peri-urban,Average,short-term,Couple,0.1
+15f2065a-59ad-4611-af27-feafa1b04f82,Female,carolhowe,Normandie,33,France,urban middle class,Average,short-term,Alone,0.8
+f6f05e28-bb9c-4e00-8c11-d92612f9a229,Male,davidchurch,Foreigner,48,Western Europe,dynamic urban,High,short-term,Family,0.9
+fe210544-0cc4-40b2-99b3-6a13a98e8db9,Male,timothyrangel,Normandie,28,France,rural worker,Low,long-term,Alone,0.6000000000000001
+25604c50-5a53-41ae-ba4a-a8a351a524ef,Male,larrycook,Other regions,80,France,rural worker,Low,short-term,Family,0.7000000000000001
+cd506e2e-00e6-404b-84c1-7f526c24fdac,Male,williamray,Normandie,78,France,popularity,Low,long-term,Couple,0.7000000000000001
+be6ef3fa-5cb2-4d73-999e-75c5960c093e,Male,matthewmorrison,Foreigner,53,Western Europe,dynamic rural,High,short-term,Couple,0.7000000000000001
+2c470367-1add-4958-82a5-e7ea9754d031,Male,nathangonzales,Foreigner,28,Belgium,wealthy family suburbanite,High,short-term,Alone,0.30000000000000004
+a4ac475a-ed17-4ae4-b2e6-c8f1be3e66a2,Female,susanpayne,Other regions,37,France,dynamic urban,Average,short-term,Family,0.9
+9a5dae10-4633-493f-8c23-04fd238c412e,Female,yolandaandrews,Other regions,18,France,dynamic urban,High,short-term,Alone,0.5
+7b6a4720-31fe-45ad-a382-a965f666eee9,Female,jessicabrown,Foreigner,76,Eastern Europe,dynamic urban,High,long-term,Family,0.1
+5abbdd90-e508-43f9-a232-3a21744913d2,Male,thomascardenas,Normandie,37,France,affluent family urban,High,short-term,Couple,0.8
+0164dd41-f1b8-46e8-99c6-4fc75fc8fa11,Female,susanpham,Normandie,21,France,popularity,Average,short-term,Couple,0.9
+0d9825f6-81a3-44b7-b6f6-eeb6dd00c9d3,Male,daviddavis,Foreigner,16,Germany,dynamic urban,Average,short-term,Couple,0.5
+d687ab81-6382-4c24-9445-41167587e820,Male,robertspears,Other regions,16,France,dynamic urban,High,short-term,Family,0.5
+6c7ed9fb-9ed9-4927-b9d2-4aa17df6c65f,Male,kevinperez,Other regions,60,France,dynamic urban,High,short-term,Couple,0.1
+89ddd713-e985-4bd3-82df-db6596308d28,Male,kevinclark,Foreigner,16,Eastern Europe,popularity,Low,short-term,Alone,0.4
+1dc7af47-a1fd-417e-bd74-033f9094b6a4,Male,danieltorres,Foreigner,54,USA,traditional rural,Low,short-term,Family,0.9
+b96d6398-56a2-43ff-a582-6e233fa87faa,Female,hollyanderson,Other regions,56,France,popularity,Average,short-term,Family,0.6000000000000001
+b1b5bb8d-3b01-4966-9357-e045a2873053,Male,jordanboyd,Normandie,47,France,wealthy family suburbanite,Average,short-term,Couple,0.9
+87ccfd71-88ea-4c0c-9b10-6e84bf383d25,Female,amymarshall,Normandie,50,France,popularity,Low,short-term,Family,0.9
+9ef05704-11e5-4249-890e-6310058895e8,Female,amberfowler,Foreigner,65,Western Europe,wealthy family suburbanite,High,long-term,Couple,0.7000000000000001
+0e3a92a3-2c1b-4f18-b1c0-6e9112732f2b,Male,carlosnichols,Foreigner,61,Western Europe,dynamic urban,High,short-term,Family,0.5
+ccf92b52-22cb-4c86-b936-4d9801962934,Male,lawrencereeves,Normandie,29,France,disadvantaged urban,Low,short-term,Alone,0.2
+b4413668-3fbd-4c98-8807-655beb937805,Female,samanthalara,Foreigner,75,Western Europe,affluent family urban,High,short-term,Family,0.6000000000000001
+ec4b429c-f0b3-4f30-8f19-3f674ec8915a,Female,christinesullivan,Foreigner,24,Western Europe,dynamic urban,High,short-term,Family,0.2
+4c780d83-66ca-4da1-a226-bc4cdf401e8d,Female,shannonsweeney,Normandie,58,France,affluent family urban,High,short-term,Family,0.9
+9b87be50-f3bf-4883-8e34-65e7f42babe9,Male,anthonyosborne,Other regions,17,France,dynamic urban,High,short-term,Couple,0.1
+b5f85d64-2803-4d0a-a411-5d3a155214af,Female,joanbrewer,Other regions,75,France,wealthy family suburbanite,High,short-term,Alone,0.30000000000000004
+bb443ae6-378a-49c6-89bb-adcc9bc9c15d,Male,roberthall,Other regions,31,France,affluent family urban,Low,short-term,Family,0.6000000000000001
+9aba2bb2-f948-437c-b53c-dbd467384234,Female,jessicaharvey,Foreigner,21,Germany,dynamic urban,High,short-term,Family,0.4
+566cb7a7-d807-474b-a7bb-f9a4dda525af,Female,susanunderwood,Normandie,67,France,wealthy family suburbanite,High,short-term,Alone,0.5
+3b853f03-f055-4b6e-8965-a72f2adc1d06,Male,williamcollins,Normandie,47,France,popularity,Low,short-term,Family,0.6000000000000001
+40028712-d514-4d54-99a4-e9c9b5dd9e90,Male,ericwalls,Foreigner,78,Asia,dynamic urban,Average,short-term,Alone,0.8
+15e12b1a-b2fb-4a03-afc0-05dbf19220f8,Female,crystalward,Normandie,53,France,dynamic urban,High,short-term,Alone,0.30000000000000004
+f9544979-8754-470a-983c-7d72dcc4f6aa,Female,virginialopez,Foreigner,14,USA,affluent family urban,High,short-term,Family,0.6000000000000001
+b1024585-96fd-4dd2-8d82-309ad3dcb57c,Male,johnwilliams,Normandie,69,France,urban middle class,Average,short-term,Couple,0.1
+6701237e-fe70-445a-a304-3d8adb2bb50d,Male,samuelreilly,Normandie,30,France,growing peri-urban,Average,short-term,Couple,0.9
+5164979c-1977-4847-9ca6-626d4b7db207,Female,judithharvey,Normandie,63,France,wealthy family suburbanite,Low,short-term,Alone,0.4
+9adfe306-403c-45ab-964e-0974bef7e85d,Female,heathersmith,Normandie,32,France,popularity,Low,short-term,Couple,0.8
+03c75e57-6e11-4051-81e2-972cb15d0669,Male,ronaldgibson,Foreigner,17,Western Europe,rural worker,Low,short-term,Alone,0.6000000000000001
+09ae234e-54ea-4a34-b9c0-1df1a1a4aa8a,Female,amysolis,Normandie,55,France,wealthy family suburbanite,High,short-term,Alone,0.5
+f47d50fc-d878-4abf-8eb4-ad798b38b7aa,Female,erinmoreno,Normandie,78,France,affluent family urban,High,short-term,Family,0.2
+c391dd9c-aa1b-4b2f-bd67-0bb1e70639f1,Female,brittanyallen,Other regions,55,France,urban middle class,Average,short-term,Alone,0.4
+5924b389-fa8f-438d-a577-8899220b7e00,Male,patrickriley,Other regions,42,France,urban middle class,Average,long-term,Alone,0.2
+f16fde30-7e1d-48ac-9226-bc5a60ae5ae1,Female,danielleyang,Normandie,74,France,urban middle class,Average,short-term,Family,0.6000000000000001
+8a06b997-b2d5-4249-b3d2-f77205bb79e9,Female,lisasalazar,Other regions,67,France,dynamic urban,High,short-term,Family,0.8
+9ce39549-c48b-4e7d-98b2-5156d9b8b28d,Male,georgejohnson,Other regions,14,France,dynamic urban,High,short-term,Family,0.5
+a539fa83-289d-4f43-a399-40d791bb672c,Female,aprilheath,Other regions,45,France,wealthy family suburbanite,High,short-term,Alone,0.2
+626a7b25-52b1-42d3-a9cd-7c95a6d82c8f,Male,andrewgilmore,Foreigner,35,Belgium,popularity,Low,short-term,Couple,0.4
+8136b204-890d-43fd-bb64-ef2d0fddef6d,Female,stephaniepittman,Other regions,30,France,growing peri-urban,Average,short-term,Couple,0.2
+1fd84786-295e-402f-9beb-be5ff028b744,Male,chasefrye,Foreigner,28,USA,dynamic urban,High,short-term,Couple,0.5
+7854d4d6-1aaa-479d-ae36-7817d8cf7b1d,Male,charlesmiller,Normandie,61,France,growing peri-urban,Average,short-term,Couple,0.8
+bdfff23d-8f02-4f1d-938b-ba17102f01d8,Male,dustinriley,Normandie,65,France,disadvantaged urban,Low,short-term,Couple,0.30000000000000004
+037236fe-44c6-486a-a7c6-4ecbcc2c480d,Female,karinaroth,Other regions,26,France,urban middle class,Average,short-term,Couple,0.9
+24e06525-cbee-44e9-ac6f-162366a78355,Male,michaelwashington,Foreigner,27,Belgium,traditional rural,Low,short-term,Couple,0.9
+28092f0e-6201-414d-9527-1c11d080d197,Male,kevinmacias,Foreigner,16,Western Europe,affluent family urban,High,short-term,Alone,0.8
+e09631f1-2511-43f8-8eda-0d17af81b5af,Male,danielferguson,Normandie,50,France,secondary residence,Average,short-term,Family,0.7000000000000001
+5ed45ec4-0b20-4b3e-a2ca-34aa9ab36de4,Male,scottstevens,Foreigner,32,Western Europe,rural worker,Average,short-term,Family,0.7000000000000001
+ac6521f5-7094-4ede-83fd-3fcd5743c296,Male,matthewrangel,Other regions,57,France,popularity,Low,short-term,Family,0.5
+24d79041-32b2-4716-86ea-7c752edb9155,Female,jenniferjones,Normandie,27,France,popularity,Low,long-term,Family,0.9
+8c96d563-0297-4c33-9ace-21ab6bfeaa74,Female,stephanieolson,Foreigner,20,Western Europe,wealthy family suburbanite,High,short-term,Alone,0.4
+fa190fee-dee7-467e-9924-93b32c9b3a7b,Female,sherryortega,Foreigner,27,USA,wealthy family suburbanite,Average,long-term,Alone,0.6000000000000001
+eb6b4cf7-2ce0-41c2-82d8-9c22d8f1ced7,Female,alyssawood,Foreigner,28,Germany,dynamic urban,Average,long-term,Couple,0.6000000000000001
+af032c58-f763-47c3-a115-967ac425e520,Female,ginagreen,Foreigner,17,Western Europe,disadvantaged urban,Low,long-term,Group,0.6000000000000001
+e81de096-9968-4625-aff7-6eb5d0ec1102,Male,benjaminjones,Foreigner,77,USA,growing peri-urban,Average,short-term,Alone,0.6000000000000001
+891818ca-839b-4e73-a5d4-484b31102802,Female,sabrinavance,Other regions,31,France,affluent family urban,High,long-term,Alone,0.9
+1d0093d5-f80c-43bc-90ce-0a06f4a36ddf,Female,ashleywise,Normandie,63,France,dynamic urban,High,short-term,Family,0.9
+2f2b2437-ddd7-44e6-b17e-88a24cb74b8c,Female,amandayoung,Normandie,33,France,disadvantaged urban,Low,short-term,Family,0.7000000000000001
+3cd3b918-37b0-4b6c-af6c-9f60f7a0bba0,Male,alexanderjames,Other regions,55,France,urban middle class,Average,short-term,Alone,0.1
+6b67c87a-0c1e-4d95-9bf0-a0f9835a22da,Male,nicholaslee,Normandie,23,France,growing peri-urban,Average,short-term,Alone,0.4
+ac2584a9-2120-4d7b-99c7-cc7e575ab372,Male,ericsmith,Normandie,35,France,dynamic rural,Average,short-term,Alone,0.6000000000000001
+a342dea1-9f50-4ee8-b994-5bd56b5e696e,Male,aaronhaynes,Other regions,24,France,urban middle class,Low,short-term,Alone,0.7000000000000001
+4df55bda-7367-4a5b-b3c4-28150e2292c6,Male,robertnguyen,Normandie,17,France,urban middle class,Average,short-term,Alone,0.6000000000000001
+684b1a69-2b90-4346-afeb-8f062214c12a,Male,garythomas,Other regions,33,France,urban middle class,Average,short-term,Alone,0.8
+f1235517-b8a1-4aee-b3dc-e48b1ab0e6b3,Male,reginalddavis,Normandie,30,France,growing peri-urban,Average,long-term,Alone,0.8
+68890042-862b-44ea-9a74-51276024a39c,Male,nicholasstewart,Other regions,48,France,wealthy family suburbanite,High,short-term,Group,0.6000000000000001
+206763e9-532b-4f5d-b35f-4cbe3a128974,Male,thomasjohnson,Other regions,15,France,dynamic urban,High,short-term,Family,0.30000000000000004
+013bbe79-26a7-417a-87ce-d5d71d75fc7c,Male,andrewrush,Normandie,54,France,dynamic urban,High,short-term,Alone,0.2
+f8ccf3cb-9077-4c68-bf19-e63eb6b218d3,Female,jessicabailey,Other regions,22,France,wealthy family suburbanite,High,long-term,Couple,0.9
+029726ba-358c-466d-8936-6e115cc1f57e,Female,andreanelson,Normandie,58,France,traditional rural,Low,short-term,Alone,0.1
+b4678dd1-7705-4e7c-9374-187d8bd7be3b,Female,tammybarry,Normandie,16,France,affluent family urban,High,short-term,Group,0.2
+638219ec-3a75-44df-89da-5714ca2f3c84,Male,scottalvarado,Other regions,22,France,affluent family urban,High,long-term,Couple,0.4
+e18336b4-78cb-4c1d-83d5-8edc2bec810b,Male,joshuaproctordvm,Other regions,38,France,rural worker,Low,short-term,Family,0.1
+80bbb7d1-0101-49a9-bc6f-1149bacfd500,Female,carolkim,Foreigner,17,Western Europe,popularity,Low,short-term,Alone,0.1
+44074231-d302-445c-8dbc-703134e40c71,Male,briangilmore,Foreigner,15,USA,growing peri-urban,Average,short-term,Alone,0.9
+de5a8c9f-d5af-4042-9748-3baaf30f46c0,Male,craigdunn,Foreigner,75,USA,wealthy family suburbanite,Low,long-term,Alone,0.9
+13d37b6f-7d46-411d-932c-c8208ac493bb,Male,raymonddawson,Normandie,71,France,dynamic rural,Average,short-term,Alone,0.7000000000000001
+e8803bac-32c8-4df8-aabe-2110ec4036cc,Male,williamkennedy,Normandie,40,France,dynamic urban,High,short-term,Couple,0.1
+ab027d62-b143-4bff-8c31-689cbf6079e4,Male,jasonthompson,Normandie,51,France,dynamic urban,High,long-term,Couple,0.9
+b01ce28b-0a1b-4b1e-a5ec-a38e5e68c469,Male,angelfuentes,Normandie,14,France,dynamic urban,Average,short-term,Alone,0.30000000000000004
+22d86dc8-2222-450b-b62c-1e03789f69f6,Female,kathleenwang,Normandie,21,France,traditional rural,Low,long-term,Alone,0.4
+9edd277e-5121-4f35-a413-e891243a581d,Male,johnmay,Foreigner,69,Western Europe,urban middle class,Average,short-term,Couple,0.8
+934473ae-0f4f-4adf-9294-25397aa24418,Female,tiffanyhodges,Other regions,30,France,dynamic urban,High,short-term,Couple,0.9
+bc1d5a1f-afed-441d-99da-723b44afffb4,Male,gregorywatson,Other regions,14,France,urban middle class,Average,short-term,Alone,0.1
+5d9c9a3c-114d-4a58-a9df-de22e1eccc01,Female,stephanieschmitt,Normandie,31,France,dynamic urban,Low,long-term,Family,0.8
+df973826-dd07-456d-928c-c6b25a5f2dee,Female,joannabruce,Normandie,55,France,dynamic urban,High,short-term,Couple,0.8
+6b4853c5-fd8f-4f8d-b29a-7f00acd99f76,Female,sandraturner,Normandie,17,France,growing peri-urban,Low,long-term,Alone,0.2
+61249358-216f-45d6-90e9-f8d46db44697,Male,christopherestrada,Other regions,59,France,growing peri-urban,Average,short-term,Alone,0.6000000000000001
+6aacc4af-1a00-478b-b0f8-1e6cbfaec164,Female,moniquenicholson,Normandie,59,France,wealthy family suburbanite,High,short-term,Family,0.30000000000000004
+5ce18af4-602d-43eb-96b4-ddc8cf38cfb5,Male,johnjones,Foreigner,17,Western Europe,traditional rural,High,short-term,Couple,0.8
+626fcf16-1a3c-451c-86de-43404685eb21,Male,larrymelton,Normandie,72,France,wealthy family suburbanite,High,short-term,Alone,0.1
+b6126d68-2359-42ed-9cd6-df9666b854f7,Female,ashleyjoseph,Normandie,25,France,affluent family urban,High,short-term,Family,0.30000000000000004
+ed5db6a8-8a44-4c3e-9219-01c5671f8886,Male,anthonyodom,Normandie,37,France,dynamic urban,High,long-term,Couple,0.9
+551ad328-32ec-4065-96c0-1859228eddec,Female,rebeccagallagher,Normandie,69,France,wealthy family suburbanite,High,short-term,Alone,0.8
+24eb1814-72c0-47b4-bb5a-e75177d417b4,Male,paulcollins,Foreigner,17,Western Europe,dynamic urban,High,long-term,Alone,0.2
+c9998b69-bdd8-4048-bfd4-70d4b1dd2cd6,Female,lindaperez,Foreigner,57,USA,disadvantaged urban,Low,long-term,Family,0.4
+a7898d52-d040-4469-89cc-842b0c0e0210,Female,melaniepeterson,Other regions,65,France,dynamic urban,High,short-term,Family,0.7000000000000001
+99a01ded-b278-4a53-8f70-7872341a28dd,Male,victorrichardson,Foreigner,20,USA,dynamic urban,High,short-term,Group,0.6000000000000001
+ea0d6b8e-339c-4305-a300-34e0fca6aa6a,Female,karajones,Other regions,69,France,affluent family urban,Low,short-term,Family,0.4
+3efd55e9-936c-446b-a229-6d810cf6e4f1,Male,jasonfisher,Foreigner,16,Belgium,dynamic urban,High,short-term,Alone,0.7000000000000001
+6023a451-608b-4e12-b6f0-4f5619a7f9bd,Female,jordanjordan,Foreigner,55,USA,dynamic urban,High,long-term,Couple,0.9
+f0452242-50fa-4330-81dd-120b4f690dc4,Female,chloefisher,Normandie,71,France,dynamic rural,Low,short-term,Alone,0.5
+3b5c1ce5-167b-4e0b-9224-b858345bcba3,Female,deborahharper,Foreigner,50,Western Europe,dynamic urban,High,short-term,Group,0.30000000000000004
+ef5a3798-b457-4267-bbde-a86628f7c004,Male,craigjohnson,Normandie,62,France,dynamic rural,Average,short-term,Alone,0.9
+d03a8ff4-88b8-4d05-b08c-5cc1c90cea55,Female,tiffanydean,Other regions,54,France,wealthy family suburbanite,High,short-term,Alone,0.9
+940d3814-8089-4212-98d5-cab7aba53abb,Female,ashleyerickson,Foreigner,73,Germany,rural worker,Average,short-term,Family,0.6000000000000001
+24c526b1-3468-44d9-881d-f2ed69f4006a,Female,heathermcclain,Other regions,15,France,growing peri-urban,Average,long-term,Family,0.1
+89419991-30e8-40cf-8521-17eea09e9ce9,Male,jeffreygraham,Other regions,72,France,urban middle class,Average,short-term,Family,0.1
+7675575f-13ee-4ea4-8657-3c865ad0d521,Female,kristinbarrettmd,Normandie,19,France,traditional rural,Low,short-term,Alone,0.2
+cc06f80c-790c-4127-a81f-6651551900aa,Female,amandawise,Foreigner,14,Western Europe,urban middle class,Average,short-term,Alone,0.1
+f2053a0f-1dc8-4c92-84a1-e578622572ad,Male,danielriley,Normandie,16,France,traditional rural,Average,long-term,Couple,0.4
+7dea50fd-da87-421d-90fd-2001879742e4,Male,brentwu,Normandie,16,France,dynamic rural,Average,short-term,Alone,0.4
+fd20b098-7e60-49ff-bfae-24d97c4108c5,Female,danawilson,Normandie,39,France,wealthy family suburbanite,High,short-term,Couple,0.30000000000000004
+789a9b05-c852-411e-9093-88fa93790b22,Female,jennaduran,Normandie,64,France,popularity,Low,short-term,Alone,0.8
+8474c0cd-2ea6-4a0c-ba7d-fbd43a224d8d,Male,miguelkelly,Normandie,34,France,affluent family urban,High,short-term,Family,0.8
+c7a278df-33bb-4800-a6aa-db33f4d8f186,Female,deannacastro,Normandie,27,France,growing peri-urban,Average,long-term,Family,0.2
+aa81061b-9ddf-4787-b0d7-388632f7e070,Female,jasminelawson,Normandie,16,France,affluent family urban,High,short-term,Couple,0.4
+c9faafa3-8a0d-4119-b109-3c309647aaff,Male,garyvasquez,Foreigner,39,Western Europe,growing peri-urban,Average,long-term,Couple,0.7000000000000001
+b06be6b8-f97f-4a50-9d2d-099b1411a456,Male,davidleach,Normandie,50,France,growing peri-urban,Average,long-term,Couple,0.8
+5f9a8c08-d384-482e-9c81-0256b8010aa9,Male,antonioosborne,Other regions,55,France,popularity,Low,short-term,Alone,0.9
+c0d2fa7f-c540-4ec2-b620-b33803fa2601,Male,jeffreybutler,Foreigner,47,Asia,urban middle class,Average,short-term,Alone,0.8
+1959ac16-4cbe-48f5-bc33-5fedd9ca5e4c,Male,aaronsparks,Other regions,51,France,urban middle class,Average,short-term,Family,0.30000000000000004
+e91bee10-87ae-4040-b2aa-80226dc0ebef,Male,stevenblack,Other regions,60,France,disadvantaged urban,Low,short-term,Family,0.7000000000000001
+4c0e2e59-2f77-4653-9761-2bb5f454f6a1,Male,oscargarcia,Normandie,37,France,urban middle class,Average,short-term,Family,0.8
+adfcfd08-f2b0-41c5-aa5c-0a2ea76be394,Female,marybailey,Other regions,46,France,affluent family urban,High,short-term,Couple,0.6000000000000001
+33939af5-40a7-495e-9c0f-c2e63c1757ae,Male,johnmorris,Other regions,34,France,wealthy family suburbanite,High,short-term,Group,0.4
+1973c1f7-9af0-4863-b8fd-b792a606f36d,Male,jeffreybaker,Foreigner,53,Western Europe,wealthy family suburbanite,High,short-term,Alone,0.2
+6d300146-9f39-4fc0-af63-65dead830979,Female,kelliunderwood,Foreigner,21,Western Europe,popularity,Low,short-term,Family,0.6000000000000001
+d8a7533e-1c9a-4400-ba7f-ce514dca23c7,Male,jasonjohnson,Foreigner,57,Western Europe,rural worker,Low,short-term,Alone,0.7000000000000001
+646c764d-3728-49e5-95bb-66d60b8aec97,Female,elizabethrodriguez,Normandie,42,France,popularity,Low,short-term,Couple,0.1
+ebcf4e70-fd02-4ff1-9a69-205ae3da9349,Female,danielleperkins,Other regions,17,France,popularity,Low,short-term,Family,0.9
+10dee141-f209-4c3b-aae7-4237c814471c,Female,samanthawatts,Other regions,58,France,traditional rural,Low,long-term,Couple,0.1
+c0e9981e-dcae-46a4-8487-a42daa4588b7,Female,carolynayers,Foreigner,80,Western Europe,dynamic urban,High,short-term,Couple,0.6000000000000001
+8ff3b65b-c6d8-4096-832d-da46d2e37176,Male,ryanflynn,Other regions,36,France,dynamic urban,High,long-term,Alone,0.1
+1cac4f46-aeba-47b5-9993-69044652884d,Male,kylewalter,Normandie,16,France,disadvantaged urban,Low,short-term,Alone,0.9
+fa5167eb-cb0b-4efb-adfa-407bc94c079e,Male,shawnhart,Foreigner,19,Western Europe,wealthy family suburbanite,High,short-term,Couple,0.6000000000000001
+d102b62e-4f94-4898-a9f0-deb2c5105e54,Female,sarasmith,Foreigner,24,Western Europe,growing peri-urban,Low,long-term,Couple,0.4
+4e57bce4-8981-43cd-b64e-d72e10d69111,Male,mr.williamcarroll,Foreigner,52,Eastern Europe,wealthy family suburbanite,Average,short-term,Couple,0.2
+18f67620-f2ec-4afc-bdeb-85682b5f9e8a,Male,nathanielmassey,Other regions,28,France,urban middle class,Average,short-term,Alone,0.5
+006a6c74-6c90-450b-9776-2685cce909f9,Female,jenniferfranklin,Normandie,48,France,urban middle class,Average,short-term,Alone,0.2
+a2480770-c726-40cc-b10f-758bc4a0c090,Female,susanmurphy,Other regions,57,France,growing peri-urban,Low,short-term,Family,0.9
+f98b7960-6935-40be-9d08-3bf3cb612a37,Male,dereklewis,Normandie,28,France,growing peri-urban,Average,short-term,Couple,0.4
+7df97b48-d9ca-4f11-a550-87c02ef609cd,Male,anthonycaldwell,Normandie,15,France,disadvantaged urban,Low,short-term,Couple,0.4
+d85fdcd0-8c70-4cae-b6a4-b9d61cfb40bc,Female,shannonhale,Foreigner,26,Western Europe,growing peri-urban,Average,short-term,Alone,0.6000000000000001
+9a8adeb7-afa9-4de0-9c9f-6c131299ad00,Male,robertconwayphd,Other regions,30,France,popularity,Low,short-term,Couple,0.8
+b7f53b40-fba7-4d39-974a-a1329bafc59e,Female,staciehansen,Other regions,50,France,dynamic urban,High,short-term,Couple,0.8
+253e1011-9e05-4d69-a820-ff302af19bb3,Male,ryanlara,Foreigner,27,Western Europe,wealthy family suburbanite,High,short-term,Family,0.30000000000000004
+ce1cbffc-ecf3-47c0-8ed2-3a8f8352e3c6,Female,susandean,Other regions,63,France,urban middle class,Average,short-term,Couple,0.5
+81e651de-8d10-4bc7-8385-aaedd2829c00,Male,coreycantu,Other regions,31,France,dynamic rural,Average,short-term,Couple,0.5
+2148c558-0463-4551-8563-1f019847a234,Male,mr.stevencuevasjr.,Other regions,73,France,urban middle class,Average,short-term,Alone,0.8
+82430b5d-1eb0-483c-ba2e-4df9d5a4542c,Male,martindavis,Normandie,69,France,dynamic urban,High,short-term,Family,0.9
+3a3301e0-f76c-4298-842d-070ef8bbda56,Male,joelindsey,Normandie,68,France,affluent family urban,High,short-term,Family,0.9
+0169748b-3387-43fd-9516-100f935405d3,Male,davidperez,Other regions,20,France,affluent family urban,High,short-term,Couple,0.8
+a849f91f-40ac-4572-a327-a7b567aa30f3,Female,jessicahaynes,Foreigner,74,USA,wealthy family suburbanite,High,long-term,Couple,0.9
+ed7e7a63-5830-4a6a-83fc-58746fb8b9f5,Male,austinlane,Other regions,67,France,wealthy family suburbanite,High,short-term,Family,0.2
+7ef010aa-f323-469e-8554-2d49f87de684,Female,ashleygarrison,Other regions,34,France,urban middle class,Low,short-term,Alone,0.8
+0c639ea3-3bc5-4aa0-ada4-c79f14dcd398,Female,lindsayallen,Normandie,19,France,urban middle class,Average,short-term,Family,0.9
+38df6e6d-429d-41d7-b10f-2798d9fbf4cd,Male,michaelchavez,Normandie,59,France,affluent family urban,High,short-term,Couple,0.5
+48577517-d771-43f5-92a9-a21b26827ac5,Male,louisjohnson,Normandie,25,France,growing peri-urban,Average,long-term,Family,0.1
+59a5f0f8-383a-4529-95b0-0c919244b7b6,Female,stephanierusso,Normandie,48,France,dynamic urban,Average,short-term,Family,0.2
+c6c4a932-023a-4349-bf13-62074c8f2fd9,Male,georgejuarez,Normandie,27,France,dynamic urban,High,short-term,Alone,0.30000000000000004
+3132a106-3e04-47ea-89fc-c4de800a5132,Male,richarddavis,Normandie,64,France,wealthy family suburbanite,High,short-term,Alone,0.8
+9d0aac98-fb16-44db-a421-a703fdfe07b7,Female,dorisbeard,Other regions,51,France,rural worker,Low,short-term,Family,0.7000000000000001
+1c58a561-6a4d-4a35-a8ad-37490b6bccdf,Male,robertmorrison,Other regions,20,France,wealthy family suburbanite,High,short-term,Couple,0.6000000000000001
+1b57b013-1b67-4331-b20f-4f3284b4b6d4,Female,brittanyhuber,Normandie,17,France,traditional rural,Low,short-term,Couple,0.9
+f8a1acfa-23c9-4890-8050-13eff336c5b8,Male,dr.stevenlongdvm,Normandie,28,France,dynamic rural,Average,long-term,Couple,0.7000000000000001
+8700184e-00f6-4937-9626-be416ffaebb9,Male,thomassloan,Normandie,50,France,popularity,Low,short-term,Alone,0.1
+565e5004-c986-4ed3-b027-be5d13d44053,Female,jessicajacobs,Foreigner,18,Western Europe,popularity,Low,long-term,Alone,0.4
+d54195be-2a85-4d40-bf81-493babb7a700,Male,jonathanriley,Other regions,17,France,affluent family urban,High,short-term,Couple,0.2
+02275984-0e93-4a1c-aaaf-b953d965a355,Male,dylanbrown,Other regions,64,France,dynamic urban,High,long-term,Couple,0.5
+51ba0e58-565d-491b-930b-4ce3f7859835,Female,hannahprice,Other regions,76,France,popularity,Average,long-term,Couple,0.5
+52eafca0-a253-4864-9b77-a3b6fbbcda87,Female,cindygomez,Other regions,44,France,dynamic urban,High,short-term,Alone,0.1
+f8667a27-ccab-4425-808f-117af6b363fb,Female,lisawise,Foreigner,14,Asia,dynamic urban,High,short-term,Family,0.5
+eb2d6adf-2ea0-4190-8357-360f9efdc19a,Male,johngonzalez,Other regions,22,France,popularity,Low,short-term,Family,0.1
+ce5be4fd-c0fb-4f0b-85ac-292dc87b8b4d,Male,joshuamartinez,Other regions,36,France,growing peri-urban,Average,short-term,Couple,0.7000000000000001
+eaa430cf-f422-4c19-bb57-4d92cb921549,Female,jenniferdiaz,Other regions,79,France,popularity,Low,short-term,Alone,0.4
+27eed609-2908-4065-928c-f96ad78995cc,Male,andrewking,Other regions,76,France,dynamic urban,High,short-term,Couple,0.30000000000000004
+b9560075-8fa2-45de-b978-03dc9cd43d78,Male,omarjones,Normandie,67,France,dynamic urban,Average,short-term,Alone,0.7000000000000001
+fe2e306a-2ac9-4ce9-9805-557137499c14,Male,josegaines,Other regions,38,France,traditional rural,Average,short-term,Family,0.1
+26d6f752-957a-41b4-b03e-ca94a14e05cc,Female,bettyanderson,Normandie,57,France,wealthy family suburbanite,Low,short-term,Couple,0.6000000000000001
+c27ab856-c1bb-4578-8263-54eed4d95284,Male,richardconway,Foreigner,48,Western Europe,dynamic urban,High,short-term,Couple,0.6000000000000001
+ac97e924-1ed5-490f-8545-24fa2c288d67,Female,michaelabrown,Other regions,49,France,dynamic rural,High,short-term,Alone,0.2
+3b536112-b964-435c-8687-5d4d94437548,Male,shanedavis,Foreigner,16,Western Europe,urban middle class,Average,short-term,Family,0.2
+6adf0334-8e45-42b8-aeb9-6b7c31d7bc2d,Male,derekbyrd,Other regions,48,France,dynamic urban,High,short-term,Alone,0.9
+e5f9f7a6-eaa9-4ad1-827f-b3cfcc7d86ce,Male,jamesjacobson,Normandie,15,France,dynamic rural,Average,short-term,Family,0.2
+cfbd0982-7ef0-4255-871b-72d69e3cc36e,Female,erinsimon,Other regions,35,France,dynamic urban,High,short-term,Alone,0.30000000000000004
+263ea112-b7ce-499c-a8a9-dfbfdc6973bb,Male,michaelallen,Normandie,25,France,urban middle class,Average,short-term,Couple,0.6000000000000001
+a3951d92-f94e-4c46-bba1-e1069dc83488,Female,brittanymcconnell,Normandie,15,France,growing peri-urban,Average,short-term,Alone,0.30000000000000004
+c5cfcb58-df20-4eb7-a77b-5f2523b9a2f1,Female,kellycarter,Normandie,78,France,dynamic urban,High,short-term,Family,0.4
+46667bce-0a68-467f-a953-3faf1cf0028f,Male,danielgrant,Normandie,17,France,growing peri-urban,Average,long-term,Family,0.4
+3c7fadf9-4272-48b1-8adb-b4dcb0891f9f,Male,stephenwilsondds,Other regions,16,France,growing peri-urban,Average,short-term,Couple,0.30000000000000004
+046e3b4e-ab75-4ab4-91d7-09ff5cbb2769,Male,timothyjackson,Foreigner,31,Germany,traditional rural,Low,long-term,Alone,0.30000000000000004
+94f3ec3c-8c69-475b-82a7-2986bde558b2,Male,josephsmith,Other regions,63,France,affluent family urban,High,short-term,Alone,0.4
+85184c04-2262-4f28-9b72-6f82142883bc,Male,michaelcarter,Other regions,67,France,traditional rural,Low,short-term,Alone,0.1
+e38d7d2c-ab1b-49fa-915d-6fa288aa7f46,Male,robertherman,Foreigner,24,Western Europe,growing peri-urban,Average,long-term,Family,0.7000000000000001
+71053e90-d24d-4df8-883e-562e44692f9a,Female,ericaramos,Normandie,15,France,traditional rural,Low,short-term,Alone,0.8
+b487c875-f45a-4b88-bb76-2cdec924fa1f,Female,dianefleming,Foreigner,57,Germany,wealthy family suburbanite,High,short-term,Couple,0.5
+6d5c5bc5-c11d-4ece-863f-1ac6a98296ac,Female,jenniferbeltran,Foreigner,17,Eastern Europe,dynamic urban,High,long-term,Alone,0.7000000000000001
+9c785788-4f15-4ad7-98d7-2a5acf8b0cfd,Male,jasonlivingston,Normandie,50,France,dynamic rural,Average,short-term,Couple,0.30000000000000004
+159cd08e-fb4c-4b63-b65c-cabd6334cc8b,Male,tracybates,Other regions,15,France,affluent family urban,High,long-term,Alone,0.8
+0922dcb2-f102-4529-9a52-67b2bdac7ff3,Male,chasetorres,Foreigner,53,Western Europe,popularity,High,short-term,Alone,0.30000000000000004
+aa4cc2e7-e8c0-4f00-a83c-1c344ea51453,Male,oscarfletcher,Other regions,14,France,wealthy family suburbanite,High,short-term,Family,0.8
+870adcd9-4c1d-4292-a9c0-be82b616e37e,Female,jodelacruz,Foreigner,39,USA,traditional rural,Low,long-term,Alone,0.2
+f607cab3-3e1e-4925-b2ac-631850c4afb7,Female,alicianeal,Foreigner,14,Belgium,growing peri-urban,Average,short-term,Family,0.4
+6a5d9acf-b626-40da-9fc0-3f72d4d7291b,Male,raymondsmith,Foreigner,14,South America,wealthy family suburbanite,High,short-term,Couple,0.1
+8104a721-11f3-48a3-9efd-5a96d28d7a22,Male,christopherboyd,Other regions,45,France,growing peri-urban,High,short-term,Alone,0.7000000000000001
+26bf8901-4bdb-42a7-aad9-1f72306a8447,Female,mariacampos,Normandie,77,France,urban middle class,Average,short-term,Family,0.7000000000000001
+9ebd4625-1561-4159-b6e1-948398fbec83,Male,trevorgonzalesdds,Normandie,15,France,affluent family urban,High,short-term,Couple,0.9
+645b77f3-a1ee-4777-9b44-be07c28b8d58,Male,brianwarren,Normandie,14,France,dynamic rural,Average,short-term,Family,0.7000000000000001
+a6111925-c9a0-431b-bb1f-a5c9512b7a0b,Male,oscargrant,Other regions,30,France,wealthy family suburbanite,High,short-term,Family,0.6000000000000001
+04d81703-ea53-40b0-ac77-9a68adf086c7,Male,josephmedina,Other regions,47,France,urban middle class,Average,long-term,Family,0.5
+74a40da6-2064-4a09-862a-c615eeffffa5,Male,michaeljarvis,Normandie,28,France,rural worker,Low,short-term,Couple,0.1
+9cda16d6-add1-47be-bf6d-81b535c31880,Male,jasoncarney,Other regions,71,France,dynamic rural,Average,short-term,Alone,0.9
+ce077ab9-381f-4353-8aaa-92827952d37e,Male,luisdavisphd,Normandie,25,France,dynamic urban,High,short-term,Family,0.7000000000000001
+c08fda37-bce4-4c1a-ab41-4e0f14572e53,Female,oliviaromero,Normandie,31,France,wealthy family suburbanite,High,long-term,Alone,0.4
+ef0c37eb-4bea-408c-b58e-a7e12ffe8683,Male,matthewarcher,Other regions,36,France,dynamic urban,High,short-term,Family,0.1
+5ae7fdbb-aaa2-46c5-8fa1-1478fd3e4436,Male,chadmolina,Normandie,16,France,dynamic urban,High,long-term,Alone,0.8
+c8bbf54e-b400-4013-b218-6c645eebe761,Female,karencarter,Other regions,72,France,disadvantaged urban,High,short-term,Alone,0.5
+adc03a37-05f0-4f7c-bf0a-581f066753fe,Male,danielnavarro,Other regions,72,France,dynamic urban,High,short-term,Family,0.1
+87c54079-7b35-46ca-9c7a-6eb50fa0a32d,Male,mr.michaelhaynes,Foreigner,48,Eastern Europe,popularity,Low,short-term,Couple,0.5
+5813f697-0c60-4605-b58d-c72af41943a0,Female,melindacollins,Normandie,17,France,popularity,Low,short-term,Family,0.1
+b7160a81-7fc9-4e7f-9db0-3c3dff9a7b9c,Female,karencoffey,Normandie,29,France,dynamic rural,Average,short-term,Family,0.2
+b508b6fc-69f5-474d-9904-6d16f5f07f9f,Female,tiffanysmith,Other regions,67,France,rural worker,Low,long-term,Alone,0.1
+c1d03263-c1b8-4b24-8221-20777626ea46,Female,sheliaturner,Foreigner,15,Oceania,secondary residence,Average,short-term,Family,0.8
+f809455e-92df-4c6e-9e18-78d77c60bb00,Male,adamfranklin,Normandie,35,France,popularity,Low,short-term,Couple,0.2
+98717c4c-0655-426c-8ac7-e4e308569571,Male,dustincasey,Normandie,24,France,wealthy family suburbanite,High,short-term,Alone,0.2
+23e4e34b-a58f-4e59-a9fa-05a3d8b9bcbe,Male,josejackson,Foreigner,36,Western Europe,dynamic rural,Average,short-term,Couple,0.7000000000000001
+e78bc247-fb33-4c4e-8ce9-a9f6d71dbc75,Female,ginamoore,Normandie,42,France,wealthy family suburbanite,High,short-term,Alone,0.30000000000000004
+245ace76-b3de-41f4-b16a-bfb19d483d7c,Male,noahjackson,Normandie,24,France,dynamic urban,High,short-term,Alone,0.6000000000000001
+6249a2d3-bcb7-4064-b887-d931ec19dab1,Male,jasonbrooks,Foreigner,16,Western Europe,urban middle class,Average,short-term,Alone,0.2
+e23eb514-975b-4c07-bdf3-c905fff1d601,Female,feliciapratt,Foreigner,58,Belgium,urban middle class,Average,short-term,Couple,0.2
+1963c1db-5bb0-4542-bf26-3537fdcd7b2b,Male,daniellara,Foreigner,16,USA,dynamic urban,High,short-term,Alone,0.9
+30f5e9ca-1cdc-4fee-8ea6-18cc45cd2a8c,Female,michellesmith,Foreigner,34,Western Europe,wealthy family suburbanite,High,short-term,Couple,0.2
+efb0080c-17eb-49da-bb70-4eca99d94fda,Male,jordanmontoya,Normandie,35,France,affluent family urban,Low,long-term,Couple,0.30000000000000004
+d0164c7e-3286-41e4-aa7c-49ee081d6b5a,Female,sierrajames,Normandie,79,France,affluent family urban,High,short-term,Family,0.9
+57bb8e6a-0582-42c6-9733-c5c47032b636,Female,amberrodriguez,Normandie,14,France,traditional rural,Low,short-term,Couple,0.30000000000000004
+68007aae-ce13-408a-9791-96c030fb4dd9,Female,jennifersoto,Foreigner,63,Belgium,affluent family urban,High,short-term,Couple,0.5
+fa9db10b-cc24-4b74-a8be-ec04b7839bd9,Male,richardshort,Foreigner,21,Germany,urban middle class,Average,short-term,Alone,0.9
+144272f3-626d-40f4-9abf-49fea13bdfe9,Female,lorijackson,Other regions,19,France,disadvantaged urban,Low,short-term,Family,0.30000000000000004
+58acbb6d-f13b-45db-bb21-2ea474c3691b,Male,omarmartinez,Other regions,69,France,urban middle class,Average,short-term,Couple,0.30000000000000004
+ee8fcbd0-4ba6-480e-af4e-d96fa1bb5bbc,Female,meghanvega,Other regions,64,France,wealthy family suburbanite,High,short-term,Alone,0.9
+7d84eb30-1edb-4219-8d1b-727991859010,Male,michaelgordon,Other regions,70,France,dynamic urban,High,short-term,Couple,0.2
+18ccf06b-3c3e-4508-a4f8-f3b9d00c6254,Male,jameshobbs,Other regions,16,France,traditional rural,High,short-term,Alone,0.6000000000000001
+9ccdbfd6-636e-4b6d-89bc-59ad56f856c1,Male,michaeljenkins,Other regions,34,France,growing peri-urban,Average,short-term,Couple,0.1
+cb47e8d5-f685-4693-9a32-4aa3ed18a1cc,Male,blakewilson,Normandie,65,France,growing peri-urban,Average,short-term,Alone,0.2
+f9507542-37b6-4b59-9d61-f4114473f172,Female,juliathomas,Normandie,17,France,urban middle class,Average,long-term,Alone,0.7000000000000001
+10034414-ad77-4fe5-aa35-c673eac18d02,Female,monicamay,Normandie,16,France,traditional rural,Low,short-term,Family,0.9
+911f2bbf-902a-4d2f-a548-d95fdbd10f91,Female,leslieklein,Other regions,49,France,dynamic urban,Low,short-term,Alone,0.1
+873ad5e7-9aa2-4f1c-ae58-6f7a133c399a,Male,michaelbrewer,Foreigner,35,Belgium,dynamic urban,High,short-term,Couple,0.5
+a795f12b-ce19-460f-b9c4-d0f88150814c,Female,patriciawells,Foreigner,21,USA,growing peri-urban,Average,short-term,Couple,0.6000000000000001
+a519509d-c6b9-472d-b31c-b9ca80ef8aac,Female,susanbeltran,Foreigner,30,Belgium,dynamic urban,High,short-term,Couple,0.1
+f06f8898-d0ea-499a-8cd5-aae8284c4596,Female,staciemartinez,Normandie,27,France,growing peri-urban,Average,short-term,Alone,0.30000000000000004
+a3ec7698-9747-419a-82cc-e146d7ea3da6,Female,christinemontoya,Foreigner,50,Eastern Europe,urban middle class,Average,short-term,Family,0.9
+61cae806-4b69-4eed-be8f-22ea0ca6bf2a,Male,derrickmiller,Normandie,15,France,rural worker,Low,short-term,Family,0.7000000000000001
+530613b3-4d7a-471f-8416-551e86d7f723,Male,dr.clintonmays,Other regions,67,France,urban middle class,Average,long-term,Alone,0.9
+500874f4-d179-4ade-86c1-91b7eb63b734,Female,melissadunn,Other regions,15,France,growing peri-urban,Average,long-term,Couple,0.9
+b99db349-006a-4282-b000-fb6c3f8abf04,Female,feliciasilva,Normandie,76,France,dynamic rural,Average,short-term,Group,0.5
+56e9da77-19f6-4a29-b748-c1ad60a0f26b,Male,keithjoseph,Normandie,65,France,dynamic rural,Low,short-term,Couple,0.1
+7ce4a432-689e-4788-b3f6-e1ea1ec4260b,Male,josebrown,Foreigner,18,Western Europe,wealthy family suburbanite,High,short-term,Alone,0.6000000000000001
+1a33b6ee-ef0c-46a6-9d1e-10d4b397b50b,Male,ryanowensdvm,Foreigner,17,Western Europe,wealthy family suburbanite,High,short-term,Family,0.1
+e4d55089-30fa-4a70-b591-a930d1be1c7c,Male,nicholasmiller,Other regions,47,France,popularity,Low,short-term,Alone,0.1
+97304d57-3eeb-4bd8-9dc6-8369532e0004,Male,anthonyjennings,Normandie,56,France,affluent family urban,Average,short-term,Couple,0.9
+4a79988d-8bae-47de-9691-309457056d86,Male,brandonhughes,Other regions,76,France,traditional rural,Low,long-term,Alone,0.7000000000000001
+519b2836-987d-427b-99d9-2031662d488c,Male,anthonydiaz,Other regions,16,France,disadvantaged urban,Low,short-term,Alone,0.30000000000000004
+846fe77d-7976-42ad-b558-081b163b3f00,Female,lindamiller,Normandie,26,France,dynamic urban,High,long-term,Alone,0.8
+3f0f4cef-5c4a-46a9-82a3-4ee5ac9b0ad9,Female,amandapowell,Foreigner,15,Germany,dynamic urban,High,short-term,Couple,0.4
+5eda17a5-0b0c-4307-8844-28000cd7a8b7,Male,danielvasquez,Foreigner,45,Western Europe,affluent family urban,High,short-term,Couple,0.7000000000000001
+dff7d913-0fb3-4781-85c7-0dd2d17e8145,Male,richardbrown,Normandie,17,France,popularity,Low,short-term,Alone,0.6000000000000001
+94d8e086-d93b-4665-9a46-80b65d4ed81c,Male,jasonbowen,Other regions,16,France,dynamic rural,Average,long-term,Family,0.30000000000000004
+803054d7-8259-4411-859d-bfd15c5477bd,Female,megannelson,Other regions,49,France,affluent family urban,High,short-term,Couple,0.5
+d1bd089b-6618-482c-8d8f-4dc2b6eb7a51,Male,adamrussell,Normandie,16,France,disadvantaged urban,Low,short-term,Couple,0.2
+06207baa-c2ce-46fc-bb9a-080c49f474b7,Male,jimmythornton,Other regions,33,France,popularity,Average,short-term,Alone,0.1
+2aa035bd-6f41-4831-9865-3dccf20e2df4,Female,mollybrewer,Normandie,15,France,dynamic urban,High,short-term,Couple,0.8
+972db3ba-8006-40f5-a0f9-acd959360d14,Female,amandaking,Foreigner,23,USA,urban middle class,Average,short-term,Couple,0.8
+e730519d-ffa4-4218-ab61-8c03205e9ed7,Male,antoniodunn,Foreigner,64,Eastern Europe,wealthy family suburbanite,Average,long-term,Family,0.1
+38c16462-dbfa-463e-9d64-178c86d5c55e,Female,margaretgray,Other regions,14,France,urban middle class,Average,short-term,Alone,0.4
+d34156ee-c98f-4bb2-b1f5-7ee99ff71fbd,Female,maryford,Other regions,15,France,wealthy family suburbanite,Average,long-term,Couple,0.1
+0dde271c-32b2-41fa-ab4d-a0b09ffa1262,Male,kylenolan,Foreigner,22,Western Europe,growing peri-urban,Average,long-term,Couple,0.7000000000000001
+e90ab98a-316e-4fb5-8278-6e0838f08f54,Female,stacyhatfield,Normandie,17,France,growing peri-urban,Average,long-term,Family,0.7000000000000001
+fc2d3308-e60b-4817-a926-89bbe4ad8aa4,Male,jeremyhampton,Normandie,59,France,wealthy family suburbanite,High,long-term,Alone,0.7000000000000001
+55a4d605-2ab6-499d-b7e5-28faa34469b4,Female,melissacummings,Normandie,61,France,urban middle class,Average,short-term,Couple,0.1
+805567dc-8e3c-49d0-ab0f-3013e6fbc15b,Female,amywilliams,Foreigner,60,Western Europe,wealthy family suburbanite,High,long-term,Family,0.30000000000000004
+5b63dd4a-284c-459c-bbcd-d741bddfb8d7,Female,jessicafleming,Normandie,52,France,popularity,Low,short-term,Alone,0.9
+c9d01ed5-17d5-461a-99e5-167c99422cd1,Male,shawnsaunders,Normandie,49,France,popularity,Low,short-term,Family,0.1
+b86813ae-895c-42be-a193-32a9b014859c,Male,christopherhernandez,Normandie,42,France,rural worker,Low,short-term,Couple,0.5
+ba718f4e-8cb1-4af6-88a8-7ffc684499dd,Female,susancox,Foreigner,72,Western Europe,dynamic urban,High,long-term,Couple,0.1
+69d0e0c2-88bb-42a1-a56c-271f227da805,Female,crystalbowen,Other regions,36,France,growing peri-urban,Average,short-term,Family,0.2
+abb6f97c-c1c2-4f03-9c82-343f1668494b,Female,lindaflores,Foreigner,24,USA,rural worker,Low,long-term,Couple,0.9
+e2ca087a-80ee-47bf-9d83-c3b31d8a97d6,Female,kerrimartin,Other regions,22,France,urban middle class,Low,long-term,Family,0.2
+a0c957b2-56bf-45fb-9745-be84f45c8152,Female,rosebowman,Other regions,42,France,wealthy family suburbanite,High,long-term,Alone,0.5
+7386fb6a-1f4a-4c42-a568-a7abeec4d2bb,Male,michaelsanford,Normandie,30,France,dynamic urban,High,short-term,Alone,0.6000000000000001
+c51f8333-ffeb-462a-b7d3-d25b60b52178,Male,brianbates,Foreigner,37,Western Europe,urban middle class,High,short-term,Alone,0.2
+ee0fe505-31d5-46c7-865c-49863886bd6c,Female,kellywilliams,Other regions,72,France,dynamic rural,Average,long-term,Family,0.4
+7bbb6d26-4783-40b8-8ef8-68c6c4c79d27,Female,ellenhuynh,Other regions,52,France,dynamic rural,Average,short-term,Alone,0.7000000000000001
+1bea7833-920a-4a2a-a0d9-0f382f918fe1,Male,michaelpotts,Other regions,41,France,urban middle class,Average,short-term,Family,0.2
+efe4edfb-9aba-4a4d-b5d0-cb476bd83a9f,Male,calebstewart,Normandie,56,France,urban middle class,Average,short-term,Alone,0.5
+9a73f85a-0f6e-42bc-906f-dcae2a0861f1,Female,kariwalls,Other regions,32,France,popularity,Low,short-term,Alone,0.5
+35c7bc5d-4797-4817-8ea6-e44f50d522d6,Male,jamesdouglas,Other regions,39,France,dynamic urban,High,short-term,Couple,0.4
+1c8055e6-59f9-4bfe-8ee7-609d2ecb81e2,Female,jennifersullivan,Normandie,14,France,rural worker,Low,short-term,Alone,0.7000000000000001
+abaa3257-7e42-4ca9-a399-f3d5bb9351c9,Male,edwinstephens,Other regions,29,France,dynamic urban,High,short-term,Alone,0.6000000000000001
+f3a58b62-134e-458a-b4b9-4d404bec6a13,Male,seanboyd,Other regions,30,France,dynamic urban,High,short-term,Couple,0.6000000000000001
+fa4cc725-d6e8-4963-be2b-b346b0e1219e,Female,jacquelinestanton,Foreigner,17,Belgium,popularity,Low,short-term,Alone,0.9
+bacb3836-9478-4ef7-9de7-05fcaa24c816,Male,bradleyyang,Foreigner,34,Western Europe,popularity,Low,long-term,Alone,0.7000000000000001
+c3151124-e5bc-4977-9adc-ab971006b9b1,Male,garypierce,Foreigner,40,USA,affluent family urban,High,long-term,Couple,0.8
+f1659ed9-480f-4850-b0bf-a86005ce8c03,Female,michellemeyers,Normandie,24,France,wealthy family suburbanite,High,short-term,Couple,0.6000000000000001
+e963e405-c86e-4cac-9a07-02abf3e9ab52,Male,josephhernandez,Foreigner,18,Belgium,dynamic urban,High,short-term,Alone,0.7000000000000001
+71c671a3-b458-4112-825a-3c8a2f1adc67,Female,ashleehayes,Other regions,24,France,traditional rural,Low,short-term,Group,0.2
+0461486c-240c-4311-ab0e-86d13710fd93,Female,tiffanynelson,Other regions,73,France,dynamic urban,High,short-term,Alone,0.8
+346c0dd3-27fa-498b-8859-241145f62da1,Female,kayleeadams,Foreigner,33,Western Europe,dynamic urban,High,long-term,Family,0.6000000000000001
+38e2ff81-8091-492f-aa6f-294a6fcb033c,Female,shannonlittle,Other regions,15,France,popularity,Low,short-term,Family,0.2
+ca2a907a-5ed4-4ae8-97bf-d0db88c03fa3,Male,jonmorrison,Foreigner,14,Western Europe,dynamic urban,Low,short-term,Alone,0.4
+a756d136-8441-4971-ac8c-6ffe7f1e29cd,Male,jonathanbell,Normandie,65,France,traditional rural,Average,short-term,Alone,0.4
+1e171178-1ad7-49e2-a0a8-21c9190e6a51,Male,williamoneal,Normandie,16,France,popularity,Average,short-term,Couple,0.7000000000000001
+0495099b-7db1-4f66-a5e5-203fad8317db,Female,christinaflores,Foreigner,34,East,dynamic urban,High,long-term,Family,0.7000000000000001
+fe6ef360-8bad-462c-ba8f-f320b93a7240,Female,carolynwilson,Normandie,30,France,dynamic rural,Average,short-term,Family,0.9
+45ab7b2f-5c59-49a8-afdf-ca0b66afad92,Male,paulhall,Normandie,16,France,dynamic urban,High,long-term,Alone,0.6000000000000001
+3de43d9f-1748-405f-acdb-1cd17590b4df,Female,jodimerritt,Other regions,57,France,rural worker,Low,short-term,Alone,0.8
+cc2bc926-596a-4be7-b0b8-b03163b9a95c,Male,brentporter,Normandie,55,France,dynamic rural,Average,short-term,Couple,0.5
+ead53b98-7223-407a-938d-6b9f23a23a40,Male,derrickhernandez,Normandie,69,France,dynamic urban,High,short-term,Alone,0.4
+0b7dc7c0-4343-4b8b-a289-4d381eb6f228,Female,sandrakane,Foreigner,65,Belgium,dynamic rural,Average,short-term,Group,0.30000000000000004
+f6a94c0e-0e19-4c59-8cc4-f26824b42240,Male,tyronesnyder,Normandie,23,France,rural worker,Low,short-term,Couple,0.9
+7c752cb1-b09b-4efc-a2be-2cc6cc74bddf,Female,annadominguez,Normandie,17,France,urban middle class,Average,short-term,Family,0.7000000000000001
+e9d2ce07-f584-4369-9077-09ebd55ae8de,Male,jeffreydavidson,Foreigner,21,Oceania,affluent family urban,High,short-term,Family,0.5
+63fbfc8e-d96a-49e7-ba9e-ba3012660a2a,Male,frankruiz,Other regions,14,France,popularity,Low,short-term,Family,0.30000000000000004
+16dc48e0-f3fb-4ab9-85ec-5b7a5b3816ad,Male,christopherlong,Other regions,14,France,popularity,Low,short-term,Couple,0.2
+21a329fb-b851-47ad-b60c-0c6dd27bc9ce,Male,edwardaguilar,Normandie,64,France,affluent family urban,High,short-term,Couple,0.2
+b96baba3-2af9-4d2e-baac-21cd3b15a111,Male,richardroberts,Normandie,15,France,growing peri-urban,Average,short-term,Alone,0.8
+29dcf2c5-81a9-47c5-8a77-e2d1010a44a1,Male,miguelford,Other regions,78,France,affluent family urban,Low,short-term,Couple,0.6000000000000001
+60732f5c-3dfe-48c4-8e46-988e297c06f7,Male,miguelreese,Other regions,16,France,growing peri-urban,Average,long-term,Family,0.30000000000000004
+fb8d08f9-be76-41a0-be58-048e529faf2a,Male,dr.jasonmartinez,Other regions,49,France,dynamic rural,Average,short-term,Group,0.5
+38d617fa-b572-41d0-9b75-58f3e88c383f,Female,melissacurry,Normandie,62,France,wealthy family suburbanite,High,long-term,Alone,0.8
+ea37b39d-55e4-4e36-b1a7-b6f0ac12545b,Female,jessicaday,Normandie,15,France,growing peri-urban,Average,long-term,Couple,0.6000000000000001
+083a236a-65aa-464d-ba27-9e0a75bf0dac,Male,nicholasolson,Other regions,37,France,popularity,Low,short-term,Couple,0.1
+d58004d4-f198-488d-aa9f-ba7603c1b84d,Male,rogerolson,Other regions,29,France,dynamic urban,Average,short-term,Alone,0.4
+080520f4-9192-407a-a69c-20aefd5cefff,Female,claudiawalker,Other regions,24,France,urban middle class,Average,long-term,Family,0.2
+801225de-f612-4843-8b6e-3264b8168415,Female,dianahogandvm,Other regions,14,France,disadvantaged urban,Low,short-term,Couple,0.8
+836867be-c449-4ceb-b866-822d4eede466,Female,mariamiles,Foreigner,71,Western Europe,growing peri-urban,Average,short-term,Alone,0.8
+84071b00-d120-4d5a-b3b8-17fa6648974f,Female,margaretpierce,Normandie,18,France,urban middle class,Average,short-term,Couple,0.30000000000000004
+8a19b18e-6adc-47d2-b1cc-72ef55ddf562,Male,justinhenderson,Other regions,17,France,disadvantaged urban,Low,short-term,Alone,0.4
+4f8eb8f3-d115-495e-b8f9-6f5adf96ab7a,Female,megansmith,Foreigner,24,Western Europe,dynamic rural,Average,short-term,Alone,0.8
+fd3bc640-b31b-4143-b49f-9cbce69df86c,Male,christopherevans,Other regions,26,France,rural worker,High,long-term,Couple,0.4
+7e3df325-9fb8-4d31-914b-3b771a171580,Male,michealcox,Foreigner,73,South America,affluent family urban,High,long-term,Alone,0.6000000000000001
+aea7db30-df02-444b-b1a8-2de143dcfe05,Male,stevensmith,Normandie,22,France,dynamic urban,High,short-term,Family,0.2
+b90bbab2-7d81-42a6-8bab-fb2bc43d9efd,Male,patrickgonzales,Normandie,73,France,traditional rural,Low,long-term,Couple,0.5
+855e48a3-75ee-4777-9014-559c644f9ac9,Female,christinabarry,Foreigner,20,Western Europe,wealthy family suburbanite,High,short-term,Couple,0.5
+f8ce19bd-7099-4a2d-a335-b8aed4eaaba1,Male,jaredscott,Foreigner,68,Western Europe,wealthy family suburbanite,High,short-term,Family,0.9
+69fd91c9-b61a-4ce6-85eb-f12946ac41fd,Female,stephaniecalhoun,Normandie,56,France,dynamic rural,Average,short-term,Alone,0.2
+e90d3999-a6d4-4ec1-8cba-899a1f052bda,Female,lorimartin,Foreigner,38,Western Europe,dynamic urban,High,short-term,Couple,0.9
+6eecc1a3-eaf8-4595-9d26-bd90d33c3a96,Male,christophermckenzie,Other regions,53,France,affluent family urban,High,short-term,Couple,0.8
+bef7a92c-5bd9-4c13-a455-4841fcfbad82,Male,bryanlittle,Normandie,30,France,dynamic urban,Average,short-term,Alone,0.4
+d4b4d7a5-a017-4ac1-bed2-3b887fd6a7c4,Female,brandimack,Normandie,23,France,urban middle class,Average,short-term,Couple,0.2
+57be7cb7-b557-41bc-8443-8017f5309aee,Female,julieknox,Foreigner,50,Germany,urban middle class,Average,short-term,Couple,0.30000000000000004
+2a742831-d5d8-45fa-a57e-047e972c511e,Male,jonathanbutler,Foreigner,28,Western Europe,growing peri-urban,Average,short-term,Couple,0.1
+49549296-34f5-4fad-8b89-b356995d5159,Female,lesliecarroll,Other regions,79,France,affluent family urban,High,short-term,Alone,0.4
+aec2d7fa-1a4c-4605-884b-1e62c6388af5,Male,franciscolynn,Other regions,51,France,urban middle class,Average,short-term,Family,0.1
+dc0e876a-6723-4e26-834b-daa41f8e5bc2,Male,josephmcguire,Foreigner,34,Germany,traditional rural,Low,short-term,Alone,0.9
+4b9cbb34-29b2-4542-9189-61f6e2ce9087,Male,alansmith,Normandie,68,France,dynamic urban,High,short-term,Couple,0.5
+84e8a84f-11b6-4bea-8e16-93d930cf6026,Female,bethhowell,Normandie,54,France,growing peri-urban,Average,short-term,Couple,0.2
+f9b6e320-0b1f-4750-a201-9d393ae5d11d,Female,erincampbell,Normandie,80,France,growing peri-urban,Average,long-term,Family,0.6000000000000001
+54e4924d-d4a2-400b-8f52-f3a76999fa4b,Female,janeyoung,Other regions,17,France,disadvantaged urban,Low,short-term,Family,0.4
+f969efa9-4749-4c46-83cc-fd7ba2930487,Female,deborahbradley,Normandie,53,France,popularity,Low,short-term,Alone,0.9
+666700ce-b49d-4e25-b71a-c203e490e467,Male,jeremytorres,Other regions,43,France,dynamic urban,High,short-term,Couple,0.7000000000000001
+3dd58c17-c7d5-4ec0-a73e-8bf5cf0845d3,Female,brittneyhanson,Normandie,22,France,dynamic urban,High,short-term,Couple,0.30000000000000004
+10430ef5-4ff1-470c-8968-9afa3b4975ce,Male,waynemarsh,Normandie,79,France,urban middle class,Average,short-term,Family,0.6000000000000001
+4dce49bd-c9e4-4b4b-a96f-3d96f1df991b,Male,denniscampbell,Normandie,25,France,wealthy family suburbanite,High,long-term,Alone,0.6000000000000001
+eb67d363-920d-4db7-a427-7b86c4cb5493,Male,dr.stevenrogersmd,Foreigner,48,Western Europe,rural worker,Low,long-term,Alone,0.7000000000000001
+19f3e796-6c73-4ca1-a141-1b3ff06609e4,Female,mrs.angelawhite,Other regions,18,France,urban middle class,Low,short-term,Alone,0.2
+0a62c378-7e1e-4ef2-a26c-b5d75262c737,Female,jacquelineschmidt,Normandie,32,France,urban middle class,Average,long-term,Couple,0.30000000000000004
+37789c2e-8565-4180-a628-72a79fc08f25,Male,anthonyhoffman,Normandie,57,France,dynamic rural,Average,short-term,Couple,0.7000000000000001
+bc95be67-3373-4316-97a8-e300d38d8eb3,Female,susanwilliams,Other regions,33,France,traditional rural,Low,short-term,Couple,0.7000000000000001
+b3393ca2-8389-4f39-903e-22944fde11c2,Female,patriciaedwards,Normandie,20,France,dynamic urban,High,short-term,Couple,0.8
+38e6c99c-3c9a-4b39-96da-3af1ee447ac7,Male,codymoore,Foreigner,17,Western Europe,dynamic rural,Average,short-term,Alone,0.9
+37eea5d1-db3a-410c-862e-de9161b14017,Female,alexandriacain,Normandie,56,France,dynamic urban,High,short-term,Alone,0.6000000000000001
+63e3144a-16ae-4e34-9347-3a030241969d,Male,anthonychapman,Foreigner,37,Western Europe,dynamic urban,High,long-term,Group,0.9
+5f78c73c-1b84-46de-96cb-3db008245805,Male,christopherforbes,Foreigner,35,USA,popularity,Low,long-term,Couple,0.30000000000000004
+0f152174-2406-4259-bef6-23b3af0b1426,Male,markwhite,Other regions,50,France,dynamic rural,Average,short-term,Couple,0.4
+b6326424-e191-4f12-a78e-2f9b4a58288b,Female,emilyharmon,Normandie,19,France,dynamic rural,Average,short-term,Family,0.4
+26143f97-3b3d-4ea6-87ee-2c50f611fbca,Male,johnwalter,Foreigner,76,Western Europe,disadvantaged urban,Low,short-term,Couple,0.9
+00d0538c-190a-4d45-9f44-4f14350d0f07,Female,pamelamurphy,Other regions,16,France,dynamic urban,High,long-term,Family,0.9
+d2226615-11d9-4062-9206-392d232c6c3d,Female,valeriearcher,Other regions,56,France,rural worker,High,long-term,Family,0.6000000000000001
+07087732-34ea-442f-a637-0bd72436f3dd,Female,christinamorton,Other regions,35,France,urban middle class,Average,short-term,Couple,0.30000000000000004
+c735149b-4366-4a1a-94de-12ac2b3e9d6e,Male,ryancarr,Normandie,48,France,dynamic urban,High,short-term,Couple,0.2
+e6e88150-67cb-407a-a217-96c3d9f9ae9e,Male,davidbaker,Normandie,78,France,urban middle class,Average,short-term,Couple,0.7000000000000001
+ecc9f426-d5e4-44cb-9491-59193c3e440f,Male,petervance,Normandie,17,France,rural worker,Low,long-term,Couple,0.1
+f4b36a43-94af-4aaa-a3ba-9851d7424e2c,Female,juliehernandez,Normandie,15,France,dynamic urban,High,long-term,Family,0.2
+cfffc459-cb49-4c2b-8ea7-fe40a0c7cac2,Female,michellelowe,Normandie,45,France,growing peri-urban,Average,long-term,Family,0.1
+bf6f6d59-1558-4f55-8f50-ec645e2dfd1a,Male,bobbymcintyre,Foreigner,41,Western Europe,affluent family urban,High,short-term,Couple,0.5
+42f75eb0-9b06-408d-82c4-f75fd779c3cc,Male,randyblevinsmd,Other regions,50,France,wealthy family suburbanite,Average,short-term,Family,0.2
+997d5ca4-cc4a-4cdc-a1f8-c36c569023e3,Male,justinkennedy,Normandie,39,France,affluent family urban,High,long-term,Couple,0.7000000000000001
+4f9565d7-f08a-46bb-aa80-bef6883c6026,Female,shelbymelendez,Foreigner,35,South America,urban middle class,Average,long-term,Family,0.8
+c60d1345-ad43-4b6c-bec5-8a9e9d8c4a25,Male,larrygallagher,Normandie,17,France,urban middle class,Average,short-term,Group,0.2
+e7d48bc9-ba1f-446b-b46f-735de7ca60a3,Female,melissaharris,Normandie,53,France,popularity,Low,long-term,Couple,0.8
+c11e0937-3590-4fe5-8b28-9e09809908fd,Male,jamesmartin,Other regions,15,France,dynamic rural,Average,short-term,Family,0.1
+7f4b093a-9f62-4fe1-9b12-1527d8acd81c,Female,christinamartinez,Other regions,17,France,dynamic urban,High,short-term,Family,0.9
+e59a82b5-da45-403d-938d-e18f84d43164,Female,desireetorres,Other regions,46,France,dynamic urban,Average,long-term,Couple,0.9
+dae762fa-cf99-4872-b9ad-2232d386263b,Male,brianbrown,Normandie,58,France,dynamic urban,High,short-term,Family,0.1
+c7f75e37-ce1a-4fe9-bd4a-5e201f5e1d38,Male,craigmoreno,Foreigner,63,Eastern Europe,dynamic rural,Average,short-term,Family,0.9
+706c59b4-a1a5-4426-b526-33d44482c7d8,Male,coreycooper,Normandie,58,France,popularity,Low,short-term,Couple,0.2
+efe35327-26ec-473d-b0f4-69bd0296940b,Female,brittanynunez,Other regions,75,France,affluent family urban,High,short-term,Couple,0.9
+a92045f9-05e0-4d39-a0ac-4b0cc259484c,Female,jessicacharles,Foreigner,53,Germany,popularity,Low,short-term,Alone,0.8
+70e064ba-d9a8-40d2-951b-09afb6f8ae4b,Male,michaellove,Normandie,71,France,growing peri-urban,Average,short-term,Family,0.8
+96895239-c43d-4a07-8464-a80ae53bb002,Female,donnamiller,Foreigner,28,Western Europe,traditional rural,Low,short-term,Couple,0.9
+e8fbb654-016b-4ef1-8aac-1035fad2658c,Male,charlesbrock,Foreigner,34,Western Europe,wealthy family suburbanite,High,long-term,Couple,0.7000000000000001
+93e6c06c-83ac-480c-825c-87702f29b512,Male,christopherjames,Other regions,15,France,urban middle class,Average,short-term,Alone,0.9
+230eaa6d-28ff-4d5e-bc54-a3f9fab7c6a9,Male,andrewdudley,Other regions,75,France,affluent family urban,High,long-term,Couple,0.7000000000000001
+eebb89d9-1dfc-43f4-8582-96054186dcc6,Male,adamtaylor,Normandie,26,France,growing peri-urban,Average,short-term,Family,0.9
+88a776aa-2b5d-4d8f-ac56-96c16f9ff5f6,Male,davidrodriguez,Normandie,15,France,wealthy family suburbanite,Average,short-term,Couple,0.8
+1cc44fa2-e96c-4c04-9c0e-c36970d81583,Female,nataliegardner,Normandie,24,France,traditional rural,Low,short-term,Couple,0.2
+c85aad6f-5019-45fe-be35-63ea42845e7e,Female,daniellefernandez,Normandie,43,France,wealthy family suburbanite,High,short-term,Couple,0.1
+dcce3773-0e86-4d11-bc46-c9c3faa861e9,Male,ronaldwiley,Other regions,50,France,popularity,High,short-term,Couple,0.2
+73780277-aee5-4e12-8053-dbeddb3a7b2f,Male,christianzavala,Foreigner,34,Belgium,wealthy family suburbanite,High,short-term,Alone,0.30000000000000004
+dbb8f820-35e9-4957-85f2-8bf7ec6d0f84,Male,nicholasellis,Foreigner,32,Western Europe,affluent family urban,High,short-term,Couple,0.4
+213619b4-1cd9-48e3-bac9-f3ea653bf88e,Female,tammyallen,Foreigner,54,Germany,dynamic rural,Average,long-term,Family,0.4
+45b394cf-602c-48fb-98fb-5523845d55a8,Male,arthursimmons,Other regions,15,France,growing peri-urban,Average,short-term,Family,0.30000000000000004
+057ba7c6-768b-47e4-be63-750b9023ac54,Female,brittneysmith,Other regions,21,France,disadvantaged urban,Low,long-term,Alone,0.9
+0cd46eb8-6964-4ad3-bbb1-2fa3e1a7b2fa,Female,brianaallison,Normandie,76,France,growing peri-urban,Average,short-term,Couple,0.30000000000000004
+0729707f-a309-4f17-96c9-fdb176c71182,Female,nicholeharvey,Normandie,59,France,growing peri-urban,Average,short-term,Family,0.2
+ae73e7be-c38f-4a7f-9271-d6469f8df61b,Male,thomaswilson,Normandie,14,France,urban middle class,Average,short-term,Alone,0.6000000000000001
+d6415f26-dec6-4fe2-863c-a1b27664da84,Male,michaelhenry,Normandie,57,France,traditional rural,Low,short-term,Alone,0.2
+03131cde-f719-4e08-99fd-8e2eaedee128,Male,brandonmorris,Foreigner,43,Western Europe,dynamic rural,Low,long-term,Family,0.8
+049a2702-0e37-46b3-ad19-e8422155795b,Female,lindamclean,Other regions,57,France,affluent family urban,High,short-term,Family,0.9
+76a39c96-95b8-4f02-bd79-06dcab60c2f5,Female,angelareyes,Other regions,76,France,affluent family urban,High,short-term,Alone,0.8
+8f235e48-b875-48c1-9ce7-c3b8546fde64,Female,crystalcarlson,Normandie,20,France,wealthy family suburbanite,Low,long-term,Couple,0.8
+31cf0231-89a0-4c92-aa78-6ec8e8bd21c8,Female,sarahtaylor,Foreigner,16,Western Europe,growing peri-urban,Average,short-term,Family,0.1
+a4905cbf-90bc-41f2-a3d4-86f0eb5628f6,Male,kylegonzales,Other regions,51,France,affluent family urban,High,short-term,Couple,0.8
+ee5ac028-6506-47fc-ae52-b64817cd50f9,Female,mariarhodes,Foreigner,15,Western Europe,growing peri-urban,Low,short-term,Couple,0.1
+78898b40-b8d0-426d-b83a-5284f29d2eab,Female,beckyhamilton,Other regions,54,France,dynamic urban,High,short-term,Family,0.4
+1f9c6041-b8a1-4c8a-8dfa-4fd2fa7402bc,Female,terrilambert,Normandie,56,France,affluent family urban,High,short-term,Alone,0.6000000000000001
+d321a27d-9e87-46a6-b8e2-3df6892c3ddc,Female,ericajohnson,Normandie,22,France,dynamic urban,High,short-term,Family,0.1
+2a59864f-f559-4a75-a993-85d074dd8851,Male,markstephenson,Foreigner,78,Germany,dynamic urban,High,short-term,Alone,0.4
+f1daba59-bcb3-4277-a5fa-9f8817a946b9,Male,michaeloconnor,Other regions,16,France,growing peri-urban,Average,short-term,Family,0.6000000000000001
+1a620299-c52c-4179-a905-460f522a55b6,Female,paulawatson,Normandie,67,France,urban middle class,Average,short-term,Couple,0.30000000000000004
+7b741fa7-c27d-465f-91ab-4e87a8b54d9f,Female,monicahodges,Foreigner,59,Asia,growing peri-urban,Average,short-term,Family,0.5
+fe4d079a-a1d8-413e-9778-32d674f80400,Female,laurenalvarado,Foreigner,14,Western Europe,popularity,Average,short-term,Family,0.5
+27b8f32e-83fe-46fb-91d6-e347e9f855da,Male,shawnrivas,Normandie,48,France,dynamic urban,High,short-term,Family,0.2
+2fa05256-9d5e-48fa-9f8b-6505b936ec23,Male,ericjones,Normandie,27,France,traditional rural,Low,short-term,Group,0.9
+d22a10f6-f8cb-4772-9b4f-c6aa628bf3c0,Female,cheyennegray,Other regions,76,France,wealthy family suburbanite,Average,short-term,Alone,0.5
+39c702ab-d689-4783-ac13-a50b1ec5e67f,Male,garymiddleton,Foreigner,16,Asia,growing peri-urban,Average,long-term,Couple,0.6000000000000001
+d9f0894a-34ec-4a10-854b-fba77a153a0f,Female,jenniferbarajas,Foreigner,56,Western Europe,affluent family urban,High,short-term,Alone,0.4
+b101001f-4d2c-4a2e-b73f-a4ca006a7d96,Female,daisywalker,Normandie,58,France,popularity,Low,short-term,Couple,0.6000000000000001
+244bfffd-89ed-4b69-b70f-ffdd0656174c,Male,richardwilson,Other regions,41,France,growing peri-urban,Average,short-term,Alone,0.6000000000000001
+9aa121c6-0c86-4d47-bc01-9c7da20e609b,Female,barbaraburke,Normandie,54,France,affluent family urban,High,short-term,Family,0.30000000000000004
+1998c9d6-2a50-451c-913c-8a98230b8eab,Male,christophermonroe,Normandie,27,France,dynamic rural,Average,short-term,Family,0.1
+3ef61c1b-c9fe-48eb-b607-720c3b45f8fb,Male,bryanmorrow,Foreigner,67,Asia,dynamic urban,High,short-term,Couple,0.5
+0886eeea-4827-4ff3-981e-3b8967ecf781,Female,meghanberg,Normandie,63,France,growing peri-urban,Average,long-term,Family,0.2
+9ba63146-deb4-4b44-83f2-1367d773ca93,Female,sherrymartinez,Normandie,14,France,dynamic urban,High,short-term,Alone,0.1
+4de435c5-f755-431c-8b2c-3fc0040bb556,Female,anitabaker,Normandie,60,France,growing peri-urban,Average,long-term,Family,0.1
+0a36dfa7-c0d3-45b9-97eb-04c7bc03736f,Male,davidmassey,Normandie,61,France,disadvantaged urban,Low,short-term,Group,0.9
+82262d05-4ded-4747-885e-1506b985ca45,Female,sabrinacooper,Other regions,37,France,affluent family urban,Low,short-term,Family,0.30000000000000004
+55939b5b-86b2-4434-a95e-80aa8cbeaa93,Male,stevenrodriguez,Foreigner,74,Western Europe,dynamic urban,High,long-term,Alone,0.6000000000000001
+99215c5f-91c5-42ef-8567-fa0424d808f4,Female,katherineford,Normandie,17,France,dynamic urban,High,short-term,Couple,0.4
+0973dd67-b40b-4f91-b309-147462c16dbf,Female,laurenvilla,Foreigner,30,USA,popularity,High,short-term,Couple,0.2
+a1571d67-bce2-43b4-8360-04c6e6ded6c0,Female,debrajones,Other regions,23,France,popularity,Low,short-term,Family,0.6000000000000001
+19e1cba2-365b-44b4-a9a8-5b026601093d,Female,lisamclean,Other regions,26,France,growing peri-urban,Average,short-term,Couple,0.7000000000000001
+7f37dd8b-baf4-416c-a898-0be948202184,Female,lauraanderson,Other regions,58,France,rural worker,Low,long-term,Alone,0.30000000000000004
+49158fd1-aaf6-464b-97d4-1a4ce63610d9,Male,jessecohen,Foreigner,63,Germany,wealthy family suburbanite,High,short-term,Alone,0.5
+ab1505f5-217a-486a-811f-0da608e61028,Male,alejandroguerrero,Foreigner,71,USA,popularity,Low,short-term,Couple,0.6000000000000001
+06871ade-16a0-427e-8127-92cb874c15a6,Male,williamhoward,Other regions,64,France,popularity,Low,short-term,Couple,0.1
+18a71100-f1bd-46a0-9656-f9e92cabd3b2,Female,mariahorton,Normandie,47,France,wealthy family suburbanite,High,short-term,Alone,0.9
+aeb6379d-56fc-4600-b700-d10a8919ad19,Female,carolynwhite,Normandie,68,France,growing peri-urban,Average,short-term,Alone,0.6000000000000001
+ae81e36f-e348-4f03-a68a-3cd1b1c31bcb,Male,kennethwashington,Normandie,77,France,growing peri-urban,Average,short-term,Family,0.8
+52da7f41-fb73-49f4-8bb9-6c03948e4235,Female,angelalee,Normandie,42,France,urban middle class,Low,short-term,Couple,0.6000000000000001
+07b1fb53-efd4-4ea7-b608-c965d436b9cb,Male,georgesmith,Normandie,25,France,dynamic urban,High,long-term,Couple,0.7000000000000001
+94d72c14-7744-49b6-95c5-7218583e4d86,Female,tonyahart,Other regions,17,France,popularity,Low,long-term,Couple,0.2
+3f4fd6a1-4a96-4848-82be-151da239e90b,Male,phillipstephens,Normandie,18,France,dynamic urban,High,short-term,Couple,0.7000000000000001
+4fa8385d-8947-4fbe-89d9-ea9c65b8b5b2,Male,seancastillo,Foreigner,57,Germany,growing peri-urban,Average,long-term,Group,0.5
+775ff19e-ebb4-4efc-ab7f-3941d5ff80e5,Female,kristytaylor,Normandie,41,France,urban middle class,Average,short-term,Family,0.2
+bd7ce713-5ea4-48d4-a199-7dc07d59e013,Male,robertavila,Other regions,27,France,disadvantaged urban,High,short-term,Alone,0.9
+b193acd4-400f-486c-b8cb-bdbdbf1febaa,Female,ellenperez,Normandie,49,France,dynamic urban,High,short-term,Alone,0.6000000000000001
+ef104aba-4d42-44b5-b053-95334ef2ce1b,Male,robertostewart,Foreigner,51,Western Europe,urban middle class,Average,short-term,Couple,0.9
+a9dd3359-fa35-4f79-8a5f-99f9d7214852,Female,michellewilcox,Other regions,34,France,disadvantaged urban,Low,short-term,Family,0.7000000000000001
+211150d7-2096-41dd-bde3-8ed7fefa76ed,Male,dr.jamesdelgado,Normandie,14,France,urban middle class,Average,short-term,Alone,0.2
+787797c4-1e06-402b-bb5c-6968eaa0b2a9,Female,monicacarroll,Foreigner,64,Eastern Europe,wealthy family suburbanite,High,short-term,Alone,0.7000000000000001
+81bb94c2-5dc5-4f45-9f55-2881482c4a29,Male,marksolomon,Other regions,45,France,dynamic urban,High,short-term,Family,0.9
+fc7f4084-409a-4cb8-b559-e04c2c09e63c,Male,calebdavis,Normandie,54,France,affluent family urban,High,short-term,Family,0.8
+696bd46d-ac4f-4c2c-9e56-cb72629705f2,Male,jamesjones,Foreigner,61,Belgium,wealthy family suburbanite,High,short-term,Couple,0.7000000000000001
+1b639b8b-f7ef-4771-a14c-7f74ef7b417a,Female,shelleyjordan,Other regions,14,France,popularity,Low,long-term,Family,0.5
+c81f5b04-0ff4-4e1c-b786-7a164ce3ebde,Male,jonathansmith,Other regions,16,France,rural worker,Low,short-term,Couple,0.30000000000000004
+31186e1b-b221-44de-88de-6629a635542d,Female,jenniferdrake,Foreigner,58,Belgium,dynamic urban,High,short-term,Family,0.9
+9f52caec-bc27-476a-9e1e-7588de6481ff,Male,ryanbyrd,Normandie,26,France,growing peri-urban,Average,long-term,Family,0.5
+2abb0ab6-3b19-4f36-9df2-cd33a39a05f9,Male,michaelstevenson,Other regions,64,France,dynamic rural,Average,long-term,Alone,0.9
+c50de915-f5e5-4b0c-8405-6c70cf77a2ef,Male,jeffromero,Normandie,35,France,wealthy family suburbanite,High,short-term,Alone,0.9
+cef5c7d0-08d2-4b10-8579-82779056a3f8,Male,michaelperez,Other regions,17,France,dynamic rural,High,short-term,Family,0.7000000000000001
+3fd49b15-6b80-44e1-a5da-acda67d370b2,Male,scottgray,Other regions,66,France,growing peri-urban,Average,short-term,Alone,0.4
+8c0d6deb-f74f-4741-a1ce-6827528aa383,Male,johnbass,Other regions,18,France,wealthy family suburbanite,Low,short-term,Group,0.9
+5e9ee187-87c0-4022-9b0b-eb07a561f141,Female,courtneysharp,Normandie,36,France,wealthy family suburbanite,High,long-term,Couple,0.9
+da1f6927-7291-40fa-a8db-e4398c0603a5,Male,jamesbennett,Other regions,25,France,popularity,Low,long-term,Alone,0.9
+4a51829c-37ac-4b02-adad-cee18a93686e,Male,jasonporter,Foreigner,60,Western Europe,popularity,Low,short-term,Couple,0.6000000000000001
+44fff1bb-a0ba-4aab-8eb7-69930f651b90,Female,rachelryan,Other regions,52,France,disadvantaged urban,Low,short-term,Family,0.6000000000000001
+1216ff8f-af0e-4aea-a19c-ee8b118db82a,Female,cindyfuller,Foreigner,15,Oceania,affluent family urban,High,short-term,Alone,0.9
+c1fd8d95-9d36-4f2a-b3e6-9a6c16fe7a15,Male,davidross,Foreigner,32,Western Europe,wealthy family suburbanite,High,long-term,Alone,0.4
+e8f114b3-8d5d-45a0-a9ae-78afed96f469,Female,kimberlymueller,Foreigner,29,Western Europe,dynamic urban,High,short-term,Alone,0.9
+d72d8c63-dc2e-49f9-a84d-7511707eb649,Female,michellewilson,Foreigner,62,Western Europe,wealthy family suburbanite,High,long-term,Couple,0.2
+e6f267a8-65dd-4ef7-a8fb-f4e097297a3c,Male,josephgarcia,Foreigner,14,Western Europe,growing peri-urban,Average,short-term,Couple,0.30000000000000004
+d305381a-ffe6-41fd-a031-2a3c29645b1b,Female,audreysmith,Normandie,38,France,growing peri-urban,Average,short-term,Couple,0.5
+5d90052d-386b-4584-a44a-c4a0fe856413,Male,thomasjones,Other regions,49,France,growing peri-urban,Average,short-term,Family,0.2
+c908adb3-8f68-45d3-9189-98d3493ac70b,Male,donaldsparks,Foreigner,17,Western Europe,rural worker,Low,short-term,Couple,0.1
+efd3c61e-b37c-4dc3-bb94-16a792ef4019,Female,pamelaward,Foreigner,25,Western Europe,dynamic urban,High,short-term,Couple,0.30000000000000004
+3e3a240d-202e-4bba-9ddc-03e7ba6b3c1e,Male,jeffreybarnett,Normandie,57,France,secondary residence,Low,long-term,Group,0.8
+a4073956-1fe4-4398-a587-e19a238493d4,Male,rickclayton,Normandie,72,France,growing peri-urban,Average,short-term,Couple,0.9
+c3c88269-3a72-4c71-aa25-f5bca7e8010f,Female,courtneygarrett,Normandie,27,France,rural worker,High,short-term,Couple,0.6000000000000001
+fcd4a84e-847f-4bd3-b1c0-807c95177c94,Male,markfrancis,Normandie,51,France,affluent family urban,High,short-term,Family,0.6000000000000001
+99bdbea7-5e52-4b74-91bd-1227d7688492,Female,dianaleonard,Foreigner,14,USA,growing peri-urban,Low,short-term,Couple,0.2
+d2815d5c-99be-47d0-9105-0eee39cba4e4,Male,michaelmitchell,Normandie,16,France,dynamic rural,Average,short-term,Family,0.4
+6aa329a3-fb16-439e-8128-a6008891e2d2,Male,markcarey,Normandie,28,France,traditional rural,Low,short-term,Family,0.5
+8e104665-3b45-48cd-89c5-f6c09d3709e8,Male,jasonsandoval,Foreigner,48,USA,dynamic urban,Average,short-term,Couple,0.1
+4364d3ca-75f7-43fd-adb5-6f5fa1553651,Male,johnlozano,Normandie,51,France,growing peri-urban,Average,short-term,Family,0.6000000000000001
+eea9cdc5-5923-4ef5-8608-d1c86e377fc5,Female,lindagolden,Normandie,15,France,urban middle class,Average,short-term,Couple,0.2
+ed80c261-45de-4260-b981-5007ed253760,Male,benjaminhahn,Normandie,70,France,urban middle class,Average,short-term,Alone,0.6000000000000001
+fc136e80-2758-405f-8b85-6b108f58aec3,Male,chrisgarcia,Normandie,72,France,dynamic rural,Average,long-term,Alone,0.5
+25627d9c-a818-4573-9976-cdef5f02e867,Female,melissamoody,Other regions,16,France,traditional rural,High,short-term,Family,0.4
+66856620-fbc4-4100-bc77-40df75ce8722,Male,jamespadilla,Normandie,17,France,affluent family urban,High,short-term,Couple,0.7000000000000001
+05d80821-343f-4dd1-a6ac-ca0a1979bab0,Female,julieschmidt,Other regions,15,France,affluent family urban,High,short-term,Family,0.6000000000000001
+e7f4acf0-2e44-4fc0-b0a0-1bcce9a42739,Male,antoniohenson,Normandie,14,France,growing peri-urban,Average,short-term,Couple,0.5
+70f794fb-b957-4a11-bd76-fc39c0d4f69f,Male,craigprice,Normandie,36,France,dynamic urban,High,short-term,Couple,0.1
+eaafa02e-f7f5-41bf-9087-8b6ba4905393,Female,ashleyguzman,Normandie,23,France,rural worker,Low,short-term,Family,0.6000000000000001
+7a5e617e-bfa3-4f6d-8ab3-e8a96d2a0cde,Female,morganward,Normandie,16,France,affluent family urban,High,short-term,Couple,0.8
+f0b984e8-0402-419d-a4b1-f8f75fd5fae8,Male,blaketaylor,Foreigner,17,Western Europe,dynamic urban,High,short-term,Alone,0.2
+190f7aec-0750-46cf-9601-c488dda7711e,Female,jenniferkramer,Other regions,30,France,wealthy family suburbanite,High,short-term,Couple,0.5
+8dd6d50d-6536-4bf4-abf8-cae9dd04bfcf,Female,janemontgomery,Normandie,37,France,dynamic rural,Average,short-term,Family,0.9
+2224cbbd-2425-42cf-ac02-b8df5355d957,Female,sherricallahan,Foreigner,27,Eastern Europe,dynamic rural,Average,long-term,Family,0.4
+b440d97e-6adb-4a37-9591-821304a0935e,Female,sheilaberg,Other regions,16,France,growing peri-urban,Average,short-term,Family,0.30000000000000004
+e4a2fc7d-b35c-45ea-94fe-2a69dcc26255,Female,jessicapalmer,Other regions,38,France,wealthy family suburbanite,Average,short-term,Couple,0.7000000000000001
+9522c121-2770-437a-bc3d-fc7a1e4f7e3b,Male,johnfreeman,Other regions,17,France,wealthy family suburbanite,High,short-term,Alone,0.8
+f014718d-a21e-407f-b9ed-b95e95ac4842,Female,hannahrivas,Other regions,52,France,popularity,Low,short-term,Family,0.8
+ec465777-7549-4bba-b6e3-3124662bf30c,Female,brendasimon,Other regions,24,France,growing peri-urban,Average,short-term,Family,0.30000000000000004
+6c3f8d83-ecaa-4dc7-974d-032d0ca25d40,Male,jasonbarnes,Other regions,58,France,dynamic rural,Low,short-term,Family,0.5
+f5c62973-0d9e-4395-a95a-035175be3719,Female,jessicalucas,Other regions,68,France,dynamic urban,High,short-term,Family,0.30000000000000004
+0113bad1-8981-433e-ad5c-58c907370ce0,Female,bettysimmons,Foreigner,22,USA,affluent family urban,High,short-term,Couple,0.8
+354f8ed3-5ed7-4176-9686-5d8d6b2e3eb8,Female,sharonedwards,Other regions,51,France,disadvantaged urban,Low,long-term,Family,0.7000000000000001
+3afe79a7-ea5a-4f93-aa73-bca41675ac1e,Female,charlenebowers,Normandie,77,France,affluent family urban,High,short-term,Couple,0.9
+1f6a9d6a-4fce-4236-adaf-5284a351c1dc,Female,kristiegonzalez,Foreigner,40,Germany,growing peri-urban,Average,long-term,Family,0.5
+0b0d5ba6-df04-4083-a3e1-0ab0459b572e,Female,claudiacollins,Foreigner,37,Western Europe,urban middle class,Average,short-term,Couple,0.4
+9a24eb30-4bca-473e-a18c-5a540b3bc2e9,Female,lindaadkins,Other regions,16,France,affluent family urban,High,short-term,Couple,0.30000000000000004
+b86d556e-6502-473f-8447-74065eb6d330,Female,saramartinez,Normandie,16,France,dynamic urban,High,short-term,Family,0.7000000000000001
+fd12f32c-f17f-4f12-adad-238a36c8c651,Male,mikecollins,Other regions,15,France,popularity,Low,short-term,Alone,0.1
+486c671f-fda6-4526-8e54-cac8434be029,Male,tylersantiago,Foreigner,22,Western Europe,traditional rural,Low,short-term,Couple,0.1
+68410d23-d8e4-4d50-a718-14eaa4399283,Male,evanrivera,Normandie,64,France,affluent family urban,High,short-term,Couple,0.6000000000000001
+b88b9c9c-9165-4046-90b3-1fa14a835e88,Female,dawnlittle,Normandie,22,France,rural worker,Low,short-term,Couple,0.6000000000000001
+1c9eeea8-33a3-4ee3-a59b-3ed3e8299cbd,Female,cynthiarobinson,Normandie,15,France,growing peri-urban,Low,short-term,Group,0.30000000000000004
+80f6977e-1c25-4146-a5c0-2c8c64c00dd7,Female,sabrinacopeland,Foreigner,55,Germany,wealthy family suburbanite,High,short-term,Alone,0.2
+f3e6b83b-7737-4951-90b9-a7f3f568c952,Male,jonathancarroll,Normandie,14,France,growing peri-urban,Average,short-term,Couple,0.6000000000000001
+b1ed2cd5-6362-4e9b-8efd-72c285b94b6a,Female,kristiemcgee,Foreigner,50,Western Europe,growing peri-urban,Average,long-term,Family,0.7000000000000001
+ed03f317-c537-4a73-b630-bc95b468cd7d,Male,dylankelly,Other regions,20,France,dynamic urban,Low,short-term,Alone,0.1
+40283074-3222-467e-9e85-89bede02a5be,Female,janetjohnson,Foreigner,54,Canada,dynamic urban,High,short-term,Couple,0.9
+d8704baa-551f-47a7-8f3f-364ad3489273,Male,julianbryan,Foreigner,66,Canada,dynamic urban,High,short-term,Alone,0.30000000000000004
+e13d1fb4-4236-4763-a73e-faec0f025da4,Female,pamelawright,Normandie,14,France,traditional rural,Low,long-term,Couple,0.30000000000000004
+56dc5ca0-5033-4fc0-aecd-9e853978eff6,Male,johnbradley,Other regions,15,France,dynamic urban,Low,short-term,Alone,0.30000000000000004
+0b50cf62-c5ed-4520-a553-3e5c63204c6c,Male,timothybrown,Foreigner,68,Asia,traditional rural,Low,short-term,Family,0.2
+6c9c4249-4252-4554-ab34-82f1a478983c,Female,melanieadams,Normandie,24,France,popularity,Low,long-term,Couple,0.8
+b5dd6b3b-fb62-4c08-a2e6-bbb6f7b3bb1b,Male,luismiller,Other regions,70,France,popularity,Low,short-term,Couple,0.9
+84f962ae-8fd5-4062-9437-38b6ec839dd8,Female,erikacopeland,Normandie,35,France,popularity,Low,short-term,Couple,0.6000000000000001
+d7d36956-a268-4e26-b60a-776705aa8b22,Female,tinapowers,Foreigner,50,Western Europe,growing peri-urban,Average,short-term,Couple,0.5
+34f1bec8-dd6c-4c18-b067-7bcab16777ce,Female,mistymurphy,Normandie,75,France,wealthy family suburbanite,High,short-term,Couple,0.9
+7ad05942-3acc-4875-818c-c22b57d4ac06,Female,mariamalonemd,Normandie,17,France,dynamic rural,Low,short-term,Family,0.9
+9e8da19c-ca7a-4f0d-b2b2-6781adbe3803,Male,davidcampbell,Other regions,45,France,popularity,Average,long-term,Family,0.9
+c92d043d-b713-4b9e-a12d-4c73408f4158,Male,jacobowens,Other regions,73,France,dynamic urban,High,short-term,Couple,0.30000000000000004
+1354c0d0-5922-42c2-b780-a8a9d5af09f0,Male,edwardstrong,Foreigner,31,Belgium,dynamic rural,Average,short-term,Couple,0.5
+ffdfaaf4-87ce-47b8-941a-937b0b6c5f30,Female,nicolegilbert,Normandie,52,France,disadvantaged urban,Low,short-term,Alone,0.1
+d847e02a-944b-446e-b522-ccb71af77a4e,Female,crystalcooper,Normandie,31,France,wealthy family suburbanite,High,short-term,Family,0.8
+5a5d6b7a-148b-4c89-bd96-30b1c339019b,Male,jameshicks,Other regions,31,France,dynamic urban,High,short-term,Family,0.9
+f7283ce4-feb3-4db5-a0db-02cbd12402ff,Female,karenthomas,Foreigner,27,USA,affluent family urban,High,short-term,Alone,0.30000000000000004
+0a94e038-741f-4fef-86bd-e3070681bee9,Female,sarahday,Foreigner,46,Oceania,dynamic urban,High,short-term,Family,0.9
+adfaf951-e6b2-422f-8bac-d8d8a57fc287,Male,jamesfields,Other regions,70,France,urban middle class,Average,long-term,Family,0.5
+bfbe1272-0f13-4715-8fbc-1f2b6d63b1d3,Female,meganpalmer,Foreigner,41,Canada,dynamic urban,High,short-term,Alone,0.8
+7ffe6b1c-a612-449a-9492-5328cb941049,Female,crystaldavis,Normandie,53,France,dynamic urban,High,long-term,Couple,0.2
+d56bf4b6-7cde-4a06-85c2-568be38ef043,Female,patriciasimpson,Normandie,44,France,dynamic urban,High,short-term,Alone,0.9
+bdaf3904-11b2-4539-8c17-9202550c9851,Male,phillipstokes,Normandie,26,France,dynamic urban,High,short-term,Family,0.30000000000000004
+e383901d-4fff-4368-ae69-7f078f7963ae,Female,catherinelogan,Foreigner,59,Western Europe,traditional rural,Low,short-term,Family,0.30000000000000004
+cb6f47c2-dd7b-44b4-91bf-63ebe9e2b1cb,Female,margaretbrady,Other regions,75,France,rural worker,Average,short-term,Couple,0.9
+39e5d059-5e1b-4dfe-b6f2-17596d7ef53e,Male,georgestafford,Normandie,16,France,urban middle class,Average,short-term,Group,0.9
+f75487b8-aa03-4406-8220-d7321226ef84,Male,stevenross,Other regions,60,France,urban middle class,Average,short-term,Alone,0.1
+12ba4729-6c60-4d56-ac02-039f2c9724d8,Female,ashleemurphy,Normandie,29,France,dynamic urban,High,short-term,Couple,0.7000000000000001
+90ff6573-861f-4f32-99e6-af54f0346977,Female,judymcpherson,Normandie,16,France,disadvantaged urban,Average,short-term,Family,0.5
+81a19a24-38e2-4e9c-b20a-6bcfd8dfb8cb,Male,ericbrown,Normandie,41,France,disadvantaged urban,Low,short-term,Family,0.30000000000000004
+ea987e22-623e-41e1-867c-813c5426feb5,Male,dennissmith,Normandie,14,France,popularity,Low,short-term,Couple,0.6000000000000001
+a900680c-64de-4794-b784-94a112291584,Female,danajackson,Other regions,50,France,disadvantaged urban,Average,short-term,Alone,0.1
+8a8c5f93-8103-4243-a154-6118ce974033,Female,briannasalazar,Other regions,32,France,dynamic urban,High,short-term,Couple,0.9
+9e6b45ed-4aba-4f6c-94a3-cacc2ce39e4e,Male,steveroberts,Other regions,34,France,dynamic urban,High,short-term,Family,0.5
+0c846cd8-9ec9-4a31-9a6e-4314f216b5e6,Female,kellyalvarez,Foreigner,76,Western Europe,growing peri-urban,Average,short-term,Couple,0.9
+cea1c9ee-c7f8-430e-bfbf-96387cb04ad6,Male,timothyruiz,Other regions,14,France,popularity,Low,short-term,Alone,0.4
+46bafca5-6b62-4955-b809-2f30b318d925,Male,michaelroy,Foreigner,75,Eastern Europe,wealthy family suburbanite,High,short-term,Couple,0.7000000000000001
+3c02052e-06a5-4e31-8e17-ccaeee4681fd,Female,cheyennegregory,Normandie,62,France,affluent family urban,High,short-term,Alone,0.1
+fba3c920-f990-4240-b644-8003afc72a8f,Male,johnwalker,Normandie,50,France,urban middle class,Low,short-term,Couple,0.30000000000000004
+96a4c228-9333-4683-9b59-a1d22a5c9954,Male,josephryan,Other regions,27,France,dynamic urban,High,long-term,Family,0.2
+05d7fb48-4e4a-468e-ba2f-80a3ff483b8d,Male,joelgreen,Other regions,17,France,affluent family urban,High,long-term,Alone,0.4
+176a5490-4f68-4e86-a9f1-8c9449f7f087,Female,mariawhite,Other regions,15,France,urban middle class,Average,short-term,Family,0.5
+93f0ae44-6cfd-4369-8bee-f8f1f59f7beb,Male,carlosevans,Other regions,32,France,dynamic urban,High,short-term,Couple,0.6000000000000001
+59753bc4-8900-410b-968b-7aed8b87538f,Female,sabrinanewman,Normandie,34,France,dynamic urban,High,short-term,Alone,0.4
+e537eea0-9804-4dea-8e9d-25dc8abbac43,Male,camerongibson,Normandie,18,France,dynamic rural,High,short-term,Couple,0.2
+ddc720b5-d591-4bfe-a6f3-12e99289429f,Male,jamesmiller,Other regions,17,France,urban middle class,Average,short-term,Group,0.5
+92267a4c-22de-426a-87ab-9e844ba60d60,Male,jameswashington,Foreigner,35,Germany,popularity,Low,short-term,Family,0.2
+82254f97-e029-4398-a698-8addde9e9607,Male,mr.ralphcruz,Normandie,72,France,popularity,Low,short-term,Alone,0.5
+cbe316e9-2cd7-4160-9f39-e38a876aec54,Male,danielhayes,Foreigner,69,Western Europe,rural worker,Low,short-term,Alone,0.30000000000000004
+b7dcf6a9-eb80-432a-8e3d-50005f0b404b,Male,adammartin,Foreigner,23,Western Europe,wealthy family suburbanite,Average,short-term,Family,0.9
+d11e2355-ed98-4c79-a3a1-c64e8e07182c,Male,howardcarey,Foreigner,30,Western Europe,wealthy family suburbanite,High,long-term,Alone,0.30000000000000004
+abe3c620-f586-4422-a094-acbaa068002a,Female,nataliedudley,Other regions,50,France,disadvantaged urban,Average,short-term,Family,0.7000000000000001
+6da31ad7-7d40-4353-bcb1-846f8894d25c,Female,ashleywong,Normandie,25,France,wealthy family suburbanite,High,short-term,Alone,0.9
+ee947835-923b-440c-93bb-87b1bf8b26ad,Female,cynthiahudson,Other regions,27,France,affluent family urban,High,short-term,Family,0.9
+b4fdcb53-d085-41f2-9c38-0e9999c10461,Female,patriciawalker,Foreigner,16,USA,dynamic urban,High,short-term,Family,0.7000000000000001
+cf07fdd5-1fb6-4ec3-a40b-8d35be925f2b,Male,jasoncrawford,Normandie,70,France,growing peri-urban,Average,long-term,Couple,0.1
+0dec5e43-561e-461b-8690-c152132f5d66,Female,dr.lesliehubbard,Other regions,51,France,dynamic urban,High,short-term,Alone,0.5
+31a8b955-2509-4ddc-9b4b-26c95bc2bbf3,Female,jessicamorris,Foreigner,21,Western Europe,popularity,Low,short-term,Family,0.1
+f1c37276-4510-47eb-b42e-287a741a771a,Female,carlalloyd,Other regions,14,France,affluent family urban,High,short-term,Alone,0.5
+c7661c9c-178c-4e2f-826e-f8b26a4e5ed8,Male,toddanderson,Normandie,80,France,dynamic rural,Average,short-term,Couple,0.9
+795be3ed-4c83-4e38-9533-783b8be526b6,Female,laurarichards,Other regions,44,France,growing peri-urban,Average,short-term,Alone,0.6000000000000001
+871f2ecc-aa71-439b-9bf2-1fc38e082360,Male,chadsweeney,Normandie,15,France,wealthy family suburbanite,High,short-term,Group,0.1
+07b40128-b369-486a-9ee2-612a1f7bcfa5,Male,richardwatson,Other regions,33,France,dynamic urban,High,short-term,Alone,0.7000000000000001
+5d4dade3-1813-4a86-aa8e-fae0abf36125,Female,kimberlymiller,Other regions,15,France,popularity,Low,short-term,Family,0.5
+0de9c6a9-8636-4a6b-85df-7387519d49f5,Male,michaeljones,Normandie,79,France,dynamic urban,High,short-term,Couple,0.6000000000000001
+1932d588-ec1b-433f-ba88-a3ebdeac71d3,Female,jessicagonzalez,Foreigner,34,Eastern Europe,urban middle class,Average,short-term,Alone,0.5
+fbd4119f-c56f-4ac0-81d2-cc66319b0061,Female,lisaclements,Other regions,18,France,dynamic rural,Low,short-term,Couple,0.1
+bbfc04ce-9ee8-4251-b98b-f18605dc6919,Male,zacharycoleman,Other regions,70,France,popularity,Low,short-term,Couple,0.4
+ce472312-f0c6-4dc9-aaaa-815adfb541e2,Female,amandabell,Other regions,72,France,dynamic rural,Average,short-term,Couple,0.4
+424a1a9c-6d9c-4914-aa5d-adea92393865,Female,cherylsmith,Normandie,15,France,wealthy family suburbanite,High,short-term,Couple,0.1
+ba3b1c49-2196-47ee-aff4-0582c6dfe402,Female,bridgetcruz,Normandie,36,France,dynamic urban,High,short-term,Family,0.7000000000000001
+a1d4ae74-a831-4e0a-9c93-7088b8b065b4,Male,jasoncross,Normandie,45,France,rural worker,Low,short-term,Family,0.5
+7935b5f8-e514-41ee-81b1-e8ac7326f41d,Male,mikewilliams,Other regions,15,France,urban middle class,Average,short-term,Alone,0.30000000000000004
+f0b39451-3325-423f-9116-ecb2220f5330,Female,barbarawilliamsmd,Foreigner,33,Western Europe,affluent family urban,High,long-term,Family,0.8
+e60bb49d-4593-4728-a433-649cffab5dc8,Female,melissalopez,Other regions,36,France,traditional rural,Low,short-term,Couple,0.2
+b9acea64-dd0a-4dfc-ad8c-6d015949ac00,Male,douglasdavis,Other regions,14,France,urban middle class,Average,short-term,Family,0.4
+aac1c9ce-89cf-40e8-813f-fe40de532199,Male,johnhall,Normandie,47,France,dynamic rural,Average,short-term,Couple,0.4
+dfde9d8c-b907-4bc1-9e76-82a9eccacc98,Male,markhayes,Foreigner,45,Belgium,dynamic rural,Average,short-term,Alone,0.8
+c5bec71d-733d-4714-9ad1-0c7c2cc47ae6,Female,sonyamorgan,Other regions,47,France,dynamic urban,High,short-term,Family,0.30000000000000004
+d9e9c0bf-dd0c-429a-9410-47fab60ef2ac,Male,michaelhall,Other regions,27,France,affluent family urban,High,short-term,Family,0.7000000000000001
+6cb2dd73-a511-4aea-b3f0-731260e99622,Male,adrianjones,Other regions,31,France,dynamic rural,Average,long-term,Couple,0.8
+2d88786a-4ea5-4742-93d2-e15bc11b14f7,Female,mrs.patriciapollard,Normandie,34,France,traditional rural,Average,long-term,Couple,0.30000000000000004
+68b05879-81d4-4173-a62d-b58d63720588,Male,christopherjimenez,Other regions,24,France,disadvantaged urban,Low,short-term,Alone,0.7000000000000001
+ee62af92-035f-4d97-8ca0-de1dd7f7e583,Male,taylorsmith,Normandie,37,France,popularity,Low,short-term,Couple,0.5
+8b3308c5-194d-4a1e-ba54-fb4b571fada8,Female,angelamiller,Normandie,39,France,disadvantaged urban,Low,short-term,Alone,0.6000000000000001
+dc913a9c-0dad-4548-bd55-9d206c293115,Male,mariodavila,Other regions,29,France,wealthy family suburbanite,High,long-term,Alone,0.2
+f4387e1e-0eda-4cfe-9ef2-1b6ebb3b57e8,Female,taylorobrien,Other regions,16,France,urban middle class,Average,short-term,Couple,0.7000000000000001
+d7e8d5bc-ad57-42af-b66e-c679f286c437,Male,matthewhughes,Normandie,30,France,urban middle class,High,short-term,Alone,0.4
+5059faf9-30a0-4bad-b03b-28a469049f4a,Male,jamesspears,Normandie,32,France,growing peri-urban,Average,long-term,Alone,0.6000000000000001
+d7b1574d-219c-4524-811e-e4d2bf22099e,Female,brittanycabrera,Normandie,29,France,wealthy family suburbanite,High,short-term,Family,0.1
+0ce287d8-e957-41dc-95bb-8cb962086edf,Male,tylergarcia,Other regions,68,France,dynamic urban,High,short-term,Family,0.8
+bf2fc541-9f2a-40bf-a9c0-8b07f004efc0,Male,davidsanchez,Foreigner,74,Scandinavia,disadvantaged urban,Low,short-term,Couple,0.6000000000000001
+6c9d8fd3-ea7b-4dbe-9df0-7020db14647f,Male,kristophersmith,Normandie,48,France,popularity,Low,short-term,Alone,0.9
+f718b7d3-1919-4516-b81b-1e929cff7f5e,Female,melodylara,Foreigner,25,Western Europe,affluent family urban,High,short-term,Family,0.6000000000000001
+22d0277a-d102-4e10-8291-eaaaea7c1a98,Female,jenniferhill,Other regions,59,France,popularity,Low,short-term,Alone,0.8
+aa4f7752-ae9c-497f-accb-2f60c2c6578c,Male,scottclay,Foreigner,28,Western Europe,popularity,Low,short-term,Family,0.4
+4b620e97-a856-4904-aac7-956f003b9d06,Male,markcardenas,Other regions,29,France,dynamic urban,High,long-term,Family,0.4
+916e77a5-1f5a-449d-8f11-6171971e7f31,Female,andreamoore,Normandie,17,France,dynamic urban,High,short-term,Family,0.9
+d02507ba-0655-4e83-b964-0b5e8725c01e,Female,kathrynconway,Other regions,25,France,growing peri-urban,Average,short-term,Couple,0.7000000000000001
+4e0d713e-b6a4-4674-bffd-2d7b5d25dbb4,Female,pamelaadams,Other regions,69,France,popularity,High,short-term,Family,0.7000000000000001
+9354c902-2f88-4d9d-a90c-bd4d376d77b4,Male,kristopherboyer,Normandie,28,France,affluent family urban,High,short-term,Alone,0.4
+04176b3e-dafa-430b-99d6-852f8d14da6f,Female,crystalgallagher,Normandie,48,France,wealthy family suburbanite,High,short-term,Couple,0.30000000000000004
+6faa348e-af5b-4751-92f0-840219a445c3,Female,laurenparker,Normandie,43,France,dynamic urban,High,short-term,Couple,0.5
+d7ec6fae-1385-4541-983d-ca0a7e679f2d,Male,jonwilson,Other regions,42,France,rural worker,Low,short-term,Couple,0.6000000000000001
+020cb81e-e968-40aa-8900-6f9953103d6f,Female,lindachen,Foreigner,47,Belgium,wealthy family suburbanite,Low,short-term,Couple,0.30000000000000004
+3bb6b549-c16a-43cf-9566-fbc56e824bf0,Female,dawnwilson,Other regions,39,France,urban middle class,Average,short-term,Alone,0.1
+8831bd84-dc9a-439f-aa0c-5316d923c8fe,Female,karenrodgers,Normandie,14,France,popularity,Low,short-term,Alone,0.9
+1a15cb05-1cf6-4669-80d4-a9fd8646e030,Male,josepheaton,Foreigner,14,Germany,disadvantaged urban,Low,short-term,Alone,0.30000000000000004
+c5b2db14-51b4-424b-a296-402dba1f2004,Male,markhenderson,Foreigner,73,Eastern Europe,urban middle class,Average,short-term,Alone,0.5
+f8c5398b-6fc3-43b4-be42-c525f5d1239b,Female,wendyblanchard,Other regions,37,France,rural worker,Low,short-term,Couple,0.4
+369a5c06-8eac-4432-a47a-c428c3456375,Female,saraoliver,Foreigner,17,Western Europe,traditional rural,Low,short-term,Couple,0.9
+b70de29e-60c8-4fad-a55b-707795d04243,Male,michaelknox,Normandie,29,France,affluent family urban,High,short-term,Couple,0.5
+05f8ea33-4575-4d08-88f2-0fcec2d70b88,Male,samuelserrano,Other regions,31,France,growing peri-urban,Average,short-term,Alone,0.1
+023bee29-fd0d-4982-97fb-cf9f7a051b71,Female,christinewalters,Normandie,80,France,dynamic urban,High,short-term,Couple,0.4
+5994d748-b522-42ea-a8cd-371a2275f526,Male,shawndonovan,Normandie,23,France,wealthy family suburbanite,Low,short-term,Alone,0.5
+98e1d520-2aac-44b1-8e98-9a1878e2c69d,Female,alexandriaglover,Normandie,15,France,growing peri-urban,High,short-term,Couple,0.1
+bfc4418f-4386-42f2-88de-34358228aa5f,Female,paigedavis,Foreigner,32,Western Europe,affluent family urban,High,short-term,Couple,0.1
+03326690-7445-4041-aa3d-683f9adbab5e,Female,michelleblanchard,Normandie,34,France,popularity,Low,short-term,Couple,0.7000000000000001
+45721c7f-05fe-4518-8273-90ae0d59acca,Male,luismitchell,Foreigner,27,Western Europe,dynamic urban,High,short-term,Couple,0.5
+21247b99-5390-4873-afac-d106d55fc7e3,Male,timothyolson,Foreigner,23,East,dynamic urban,High,short-term,Family,0.4
+53b48d44-dd81-45de-8f93-b72da114377e,Male,jamesparks,Normandie,80,France,wealthy family suburbanite,High,short-term,Family,0.7000000000000001
+bf54ea5e-ced3-415e-abe7-807e3ec19105,Male,jaredwilson,Other regions,24,France,dynamic urban,High,long-term,Couple,0.30000000000000004
+bd265dcc-9c64-4658-b1f2-bd10982ddc80,Female,jessicaconrad,Other regions,30,France,growing peri-urban,Average,long-term,Family,0.2
+ef353443-686d-469f-afeb-8d76ab5c4d0c,Male,timothyrice,Other regions,30,France,growing peri-urban,Average,short-term,Family,0.1
+446748de-7187-491c-a8af-9bfb6f16a595,Male,gregoryzhang,Normandie,33,France,growing peri-urban,Average,short-term,Alone,0.30000000000000004
+ed06bb1e-9284-482a-9b91-5fae3bacc54a,Male,jeremiahbailey,Other regions,48,France,growing peri-urban,Average,short-term,Family,0.1
+1da377a4-2cac-4788-b985-97ea8d058139,Male,kevinlee,Foreigner,55,Western Europe,urban middle class,Average,long-term,Family,0.7000000000000001
+763c2869-2210-4555-aa5a-d35cfdc079e4,Female,nataliedickerson,Other regions,14,France,growing peri-urban,Average,long-term,Couple,0.4
+2f8336f4-b93a-45fc-9e38-0b4673f4185c,Female,nancywagner,Normandie,64,France,wealthy family suburbanite,High,short-term,Couple,0.7000000000000001
+60ac61c6-66b5-4cc2-8688-dd31188a113f,Female,jessicayoung,Normandie,15,France,wealthy family suburbanite,High,long-term,Alone,0.9
+0d1b4dba-aa21-4030-8bc4-febc3f9893e6,Male,jeremiahli,Foreigner,60,Western Europe,dynamic rural,Average,short-term,Alone,0.1
+4b595247-5e06-42fb-938f-e9b0b81be8df,Male,tylerburton,Other regions,27,France,wealthy family suburbanite,High,short-term,Alone,0.2
+559fedd1-5c93-405a-9648-f67491657aee,Male,derekwoods,Foreigner,51,Belgium,rural worker,Low,short-term,Alone,0.2
+eb8450f9-239d-41e0-ac15-fe58fb665b3d,Male,davidhamilton,Normandie,51,France,popularity,Low,short-term,Alone,0.6000000000000001
+f021d2f9-1b1d-44fb-b33e-a9fbee53a8b2,Male,christopherwheeler,Normandie,16,France,urban middle class,Average,short-term,Family,0.2
+220553f9-75dc-4acd-a64e-60d17b96cf02,Female,tamimunoz,Other regions,36,France,dynamic urban,High,short-term,Family,0.8
+a4217321-b1ff-4464-a1ad-e21a4b514274,Female,erinparker,Other regions,35,France,dynamic rural,Low,short-term,Couple,0.4
+7fcbaee7-9b40-4544-88f3-b9258f5a28a0,Male,matthewking,Foreigner,27,USA,wealthy family suburbanite,High,short-term,Couple,0.4
+1baf7815-31b5-49e0-9a5f-f7b189269a35,Male,stevendiaz,Normandie,17,France,disadvantaged urban,Low,long-term,Couple,0.1
+1751b9c4-6e0d-4a22-934b-c33e7bab23be,Female,crystalburnett,Other regions,25,France,dynamic urban,High,short-term,Couple,0.4
+60789994-123a-4f9d-a14c-24c06bb21350,Male,mr.davidbyrdjr.,Normandie,26,France,dynamic urban,High,short-term,Couple,0.30000000000000004
+b3cec2e4-f777-4b01-b02f-f10182899eb9,Male,kylelewis,Normandie,15,France,dynamic urban,High,short-term,Alone,0.6000000000000001
+126abf82-2e14-46d2-9dbd-66f61d6cfb4b,Male,edwardroman,Foreigner,76,Germany,popularity,Low,short-term,Couple,0.2
+2068b5ff-b270-4e08-b153-08c26a2e54e0,Female,aimeehicks,Foreigner,74,Belgium,rural worker,Low,short-term,Family,0.7000000000000001
+33ea116a-c92f-42dc-80f9-f60d427150be,Female,aprilwilson,Normandie,23,France,urban middle class,Average,short-term,Family,0.4
+837df039-a258-44fd-814a-e1d883c4e0f4,Male,nicholasroberts,Foreigner,35,Germany,disadvantaged urban,Low,short-term,Couple,0.30000000000000004
+d79dfa50-6d2c-4002-a150-52e3d75db459,Female,elizabethdelacruz,Foreigner,62,USA,affluent family urban,High,short-term,Couple,0.2
+b91f81ab-ef3d-4a51-87ab-d3927c583878,Female,angelaaustin,Normandie,77,France,dynamic urban,High,short-term,Couple,0.4
+9ddbb996-4aca-4a9f-ba9e-a816b9035cb7,Female,ms.amandawallace,Normandie,39,France,growing peri-urban,Average,short-term,Couple,0.4
+fc38fcc3-ee52-4699-a7a9-6f45263bb89b,Female,elizabethparks,Other regions,74,France,dynamic urban,Average,long-term,Couple,0.6000000000000001
+413e0f30-e45a-4fc1-9c27-fc698127ab60,Male,bryanmartinez,Normandie,28,France,urban middle class,Average,short-term,Family,0.5
+b1a338a1-9ca6-4dca-aa6d-139dcdf6100f,Female,kellyharris,Normandie,59,France,dynamic urban,High,short-term,Alone,0.1
+e41ed6f7-b1a8-4c33-a2a0-0dec8eb0093b,Male,huntermaldonado,Other regions,61,France,traditional rural,Low,short-term,Family,0.2
+bc04fe82-fe39-41e3-b099-dfcf0474791a,Male,zacharycastro,Foreigner,17,Western Europe,wealthy family suburbanite,High,short-term,Alone,0.1
+a418d7f3-dbe8-4b99-9f3d-e01eaca0e2ef,Female,karigonzales,Other regions,67,France,dynamic urban,High,long-term,Alone,0.4
+0baab66a-b607-4ee4-9878-deac0435c03e,Female,miamosley,Other regions,17,France,urban middle class,Average,short-term,Couple,0.8
+a071d9b1-2c4f-4963-801d-b1e4b708114a,Male,davidmorgan,Normandie,36,France,growing peri-urban,Average,short-term,Couple,0.30000000000000004
+55bead86-9a60-4717-b75f-50b81bc32ac4,Male,roberthanna,Foreigner,24,Western Europe,dynamic urban,High,short-term,Alone,0.2
+b424b4d0-90d7-4846-96f5-9482f7f53f5a,Male,williamwright,Normandie,55,France,disadvantaged urban,Low,short-term,Family,0.4
+178e7f78-af62-4336-9aab-e10dc1053f41,Male,terryhall,Normandie,16,France,rural worker,Low,short-term,Couple,0.2
+e65879ce-21c8-4313-8c8a-b66a706f92a5,Male,donaldmeza,Other regions,39,France,popularity,Low,short-term,Alone,0.4
+e2fda733-7a91-4ab0-a25e-3647c64a3d95,Female,jenniferthomas,Foreigner,75,Western Europe,wealthy family suburbanite,High,short-term,Alone,0.1
+b8fc7665-bdca-44cd-b702-178e821d97a3,Female,jenniferjordan,Normandie,50,France,growing peri-urban,Average,short-term,Family,0.8
+25d591e6-7c81-478b-ae3e-dd93600e737d,Male,ericthompson,Normandie,59,France,wealthy family suburbanite,High,short-term,Couple,0.5
+c09a76a8-c466-4304-bf41-d3db3bb37b6b,Female,vanessajackson,Normandie,50,France,affluent family urban,High,short-term,Family,0.30000000000000004
+56d257d8-6425-4ac0-9370-d336d57f49e5,Female,sandytate,Foreigner,51,Western Europe,dynamic urban,High,short-term,Couple,0.4
+0a7a56f6-39fa-470e-b232-ef6fb8193f9e,Female,stefaniewilson,Normandie,49,France,growing peri-urban,Average,short-term,Couple,0.8
+72f95a7e-d432-4a43-821c-190ccfe506b6,Female,stacycox,Foreigner,63,Germany,secondary residence,Average,short-term,Couple,0.1
+f733466b-6f0f-4a7a-9785-3009c414dfd1,Male,waynehughes,Other regions,32,France,growing peri-urban,Average,short-term,Alone,0.9
+8499d77a-ddfe-432f-b2bf-e8674d0811ee,Female,tiffanygarcia,Other regions,14,France,wealthy family suburbanite,High,short-term,Couple,0.6000000000000001
+9118092f-55e4-4d82-a677-1238e1f9c37e,Female,shelleyshields,Other regions,37,France,growing peri-urban,Low,short-term,Couple,0.9
+14243d23-147b-42e0-96f0-28b869c00468,Male,timothylong,Foreigner,49,Belgium,growing peri-urban,Average,long-term,Alone,0.9
+d511a109-43c0-4a09-9afb-c859f11e12c7,Male,brettwyatt,Normandie,30,France,wealthy family suburbanite,High,short-term,Alone,0.2
+b11d001c-a6ff-4378-848d-2112b705c097,Male,colehale,Foreigner,15,Asia,traditional rural,Average,short-term,Couple,0.30000000000000004
+6504d02f-f5fb-4d9c-be72-58bc88991935,Male,kennethwade,Normandie,17,France,urban middle class,Average,long-term,Couple,0.5
+73b9bba9-12c0-40a3-808e-4ba9a8eb8273,Female,katherinemcdonald,Normandie,17,France,rural worker,Low,short-term,Family,0.30000000000000004
+80f9bbd0-e044-4d95-b809-eb8f1b934aad,Female,dr.cheyennerodriguez,Other regions,16,France,popularity,Low,short-term,Alone,0.4
+8ad78599-16de-4ae2-9a90-f234b8ad09ec,Male,christophermurray,Foreigner,22,Western Europe,popularity,Low,short-term,Family,0.5
+2f722eb3-9110-4e6f-841f-a39e049265d5,Male,ronaldgreen,Other regions,16,France,popularity,Low,short-term,Couple,0.8
+cbf76cf5-6896-46c5-857f-302109089cf8,Female,courtneybarnes,Other regions,30,France,dynamic rural,Average,short-term,Family,0.30000000000000004
+441c3d8e-0d24-46c0-94cb-4f8f1f9cb046,Male,ricardotapia,Other regions,76,France,affluent family urban,Low,short-term,Alone,0.9
+516d0a77-ce01-446f-819c-83616fbf1c50,Male,roytaylor,Normandie,33,France,wealthy family suburbanite,High,short-term,Group,0.2
+ce9bfb8e-46ce-48c1-ac8b-f48e26a6c5ba,Female,rebeccawagner,Foreigner,50,Western Europe,affluent family urban,High,short-term,Couple,0.30000000000000004
+543d6a92-5f75-4d2e-aae0-503604ad67e3,Male,isaacjones,Other regions,17,France,urban middle class,Average,short-term,Alone,0.4
+5f3506af-0a4e-49c4-bab0-7b77428db721,Male,frankparker,Other regions,14,France,popularity,Low,short-term,Alone,0.4
+94f1259b-1da4-492f-84c2-fbd2857f980d,Female,joannecarter,Foreigner,64,Germany,dynamic rural,Average,short-term,Couple,0.30000000000000004
+7b21bb3f-dfbb-4f84-a78d-53c433b3c090,Female,amandawhite,Foreigner,45,Western Europe,urban middle class,Low,short-term,Family,0.5
+1f400b73-850f-4f5d-97e3-d8f6efe677c1,Female,stacyreed,Normandie,46,France,traditional rural,Low,short-term,Alone,0.6000000000000001
+4c5c7fc5-8f5f-4d29-8647-f47cfdbd6d18,Female,jessicasanchez,Other regions,58,France,popularity,Low,short-term,Alone,0.5
+2f717134-4a8f-440f-b42f-dc1b2d325c81,Female,laurenhill,Normandie,40,France,dynamic rural,Average,short-term,Alone,0.7000000000000001
+a5e1d3fc-c3ad-45df-93c5-185ffb9b44ec,Male,mitchelllivingston,Normandie,15,France,traditional rural,Low,short-term,Alone,0.2
+ca9ee3b0-cf7c-4d58-b892-5e0dc80f04bd,Male,brettcontreras,Foreigner,14,USA,dynamic rural,Low,short-term,Couple,0.2
+a231d78d-31ed-4cdb-8f2e-a00b431ce650,Male,brianwood,Normandie,15,France,dynamic urban,High,short-term,Alone,0.8
+f04b5830-aee9-4ac1-a2d5-2185cc22399e,Female,maureensaunders,Other regions,34,France,popularity,Low,short-term,Family,0.1
+855653f3-3fac-4a0f-b5f7-5f716e5d2f9e,Male,johnarnold,Other regions,49,France,dynamic urban,High,long-term,Alone,0.1
+da796e55-437b-4105-99fb-65e52c99ade1,Male,adamruiz,Normandie,14,France,traditional rural,Low,long-term,Alone,0.8
+14a893f2-d395-4c3f-bdb9-57a83e768548,Female,aprilmurillo,Normandie,65,France,dynamic urban,High,short-term,Couple,0.8
+16252374-dab1-43ec-88e4-f64c26da1d7a,Male,juanbeltran,Normandie,32,France,dynamic urban,High,short-term,Alone,0.2
+057113e9-cec0-42a9-bfb0-7609a406231c,Female,darlenebeck,Other regions,19,France,affluent family urban,High,short-term,Alone,0.5
+f7ab1799-2c84-4766-bf12-4a18134d7ea8,Male,joshuaking,Foreigner,52,Germany,urban middle class,Average,short-term,Couple,0.9
+c83b5d66-01c1-46c2-a3ed-e27c6d829450,Female,deniseferrell,Normandie,16,France,dynamic urban,High,short-term,Family,0.6000000000000001
+8fa6d036-6d4a-4948-9ce4-69a8d2526f56,Female,jessicaadams,Normandie,62,France,disadvantaged urban,Low,short-term,Couple,0.2
+14e75ef1-0b9d-4e47-aecb-558e6900d056,Male,josephwalton,Other regions,16,France,growing peri-urban,Average,long-term,Couple,0.1
+9da58e3f-f42d-4ca5-85bf-04dbb741d1cc,Female,ericaanderson,Other regions,26,France,traditional rural,Low,short-term,Couple,0.6000000000000001
+ce1cf2f3-c5d4-45d1-8559-70132e60677d,Female,kaylaserrano,Other regions,28,France,dynamic urban,Average,short-term,Couple,0.30000000000000004
+1c544338-d6cf-4966-9357-5e88386a4c49,Male,jamesgriffith,Normandie,24,France,affluent family urban,Low,short-term,Alone,0.4
+5c5f092f-56e8-4239-a1b1-eacbe2164779,Female,amyferguson,Normandie,14,France,popularity,Low,short-term,Couple,0.5
+07481be4-123d-4c3e-a4c5-ee6ec6531139,Female,dawncrosby,Foreigner,26,Western Europe,urban middle class,Average,short-term,Alone,0.7000000000000001
+aaa26245-4e96-4a91-9980-af46080497fe,Male,michaellopez,Other regions,48,France,dynamic urban,High,short-term,Family,0.30000000000000004
+745a2421-3110-4a91-95d2-29ada705a9f8,Female,catherinelane,Other regions,37,France,traditional rural,Low,short-term,Family,0.8
+153250b9-e153-4df2-896d-352b6a118152,Female,sharimahoney,Normandie,54,France,dynamic rural,Average,short-term,Group,0.30000000000000004
+ac5a008c-a277-4764-bdfa-daca8c39db55,Female,margaretferguson,Normandie,32,France,dynamic rural,Average,short-term,Alone,0.2
+28fbc52d-a97e-4037-97e3-d0f04fa87a11,Female,jenniferjohnson,Other regions,42,France,urban middle class,Average,short-term,Couple,0.4
+986838c5-d953-48c2-bd9f-adf2c8bc90f0,Male,jeffreygrayiii,Foreigner,35,Belgium,urban middle class,Average,short-term,Family,0.7000000000000001
+26cac919-ff54-4a28-ad1e-c37ba61e7912,Male,brenttaylor,Normandie,80,France,growing peri-urban,Average,short-term,Alone,0.4
+89aa1076-d875-4a59-8235-32f5611ae7f9,Male,darrellblanchard,Foreigner,17,Belgium,popularity,Average,short-term,Family,0.2
+4e2f21e4-75cc-4bf7-a4b3-4d51cfd6a79f,Female,jessicasmith,Other regions,16,France,urban middle class,Average,short-term,Couple,0.4
+9a86cfe5-edce-4e27-b9d3-c2cc80c2c18f,Male,tylerjames,Foreigner,26,Western Europe,affluent family urban,Average,short-term,Couple,0.6000000000000001
+fc3b8457-34ad-4e52-88ff-0298edbc207b,Male,georgefarmer,Other regions,16,France,dynamic rural,Average,short-term,Couple,0.7000000000000001
+a704a3cb-7419-4bb8-b768-e1c8b6c98193,Female,mrs.samanthacook,Foreigner,43,Western Europe,wealthy family suburbanite,Average,long-term,Alone,0.7000000000000001
+2f84b0e5-cd25-455f-a0f5-58397b30df1c,Female,tracyperez,Foreigner,38,Western Europe,urban middle class,Average,long-term,Family,0.9
+8fc48113-06a6-4fbc-8275-be346727a66e,Female,amygrahamdvm,Other regions,23,France,growing peri-urban,Average,short-term,Family,0.5
+9e4678f7-9902-445e-841e-0869df95abd4,Male,tannerturner,Normandie,35,France,growing peri-urban,Low,long-term,Alone,0.7000000000000001
+22b23e08-ad99-43d6-b7b4-6e92f63c5177,Female,sandralyons,Normandie,15,France,popularity,Low,long-term,Couple,0.8
+12d3440d-3c5c-4dec-9b58-ce56de8f29e6,Female,rachelrobinson,Normandie,53,France,urban middle class,Average,short-term,Family,0.8
+effe0dc5-4d49-4adb-bcd4-5df9097584c6,Male,michaeledwards,Normandie,61,France,urban middle class,Average,short-term,Family,0.6000000000000001
+2cd9b37f-8378-4f92-9c97-93efa9d2653b,Female,denisebailey,Foreigner,17,Western Europe,growing peri-urban,Average,short-term,Couple,0.7000000000000001
+51fc9dd1-d8f2-4cb9-b9f5-30cb1be1c600,Female,jenniferyoung,Normandie,76,France,growing peri-urban,Average,long-term,Alone,0.9
+9994fda3-2524-4657-ba71-8effdbe52f6a,Male,johnadkins,Normandie,17,France,dynamic urban,High,short-term,Family,0.2
+9d5acc46-7bff-456f-8772-324c117a97e2,Female,alisonrose,Foreigner,53,Belgium,growing peri-urban,Average,short-term,Family,0.9
+ae039dd1-99ca-438d-aa27-814fa1effdb5,Male,luismurray,Normandie,74,France,dynamic urban,High,long-term,Alone,0.7000000000000001
+5fb4abe5-0c85-4411-ae2b-fe904243bd4f,Male,johndean,Other regions,73,France,growing peri-urban,Average,short-term,Alone,0.4
+705a81aa-85a5-40e6-bd93-378341df92e0,Female,amberwoods,Normandie,14,France,traditional rural,Low,short-term,Couple,0.1
+a3a32814-239e-4310-b3c2-d049f52c0423,Female,anitacruz,Normandie,18,France,dynamic urban,High,short-term,Alone,0.30000000000000004
+c21d3c29-92d6-443d-acc8-b6eda7937424,Male,joshuamccormick,Other regions,56,France,popularity,Low,short-term,Family,0.4
+062af592-9f53-468f-bbf9-3d0e4580aff0,Female,rhondasolis,Other regions,52,France,affluent family urban,High,short-term,Couple,0.5
+32224593-f9e8-4c09-8e25-9203dc6d0653,Male,matthewbennett,Foreigner,75,USA,dynamic urban,High,short-term,Alone,0.2
+ef9cbebf-c490-46f8-8a81-739eb542fe45,Female,samanthakim,Other regions,33,France,wealthy family suburbanite,High,short-term,Couple,0.2
+827a09a6-46b3-463d-a4c0-397ae58076df,Male,justinburns,Foreigner,64,Western Europe,dynamic rural,Average,short-term,Alone,0.1
+c032f6ad-c775-4be2-9933-f4a6fb9dcab7,Male,adamtodd,Foreigner,17,Western Europe,wealthy family suburbanite,High,long-term,Family,0.4
+348ed74a-737b-415d-8a81-8e5ed0e53d9a,Female,lauramorris,Normandie,37,France,urban middle class,Low,long-term,Family,0.4
+4101f802-ea34-4177-9c15-f59373631f9c,Male,jasonware,Normandie,23,France,urban middle class,Average,short-term,Alone,0.2
+a65f7c29-427e-40b1-8951-174fa3aa4741,Male,joshuaeverett,Normandie,17,France,rural worker,Low,short-term,Family,0.5
+17028513-9606-4af9-a94d-075589d63c0d,Female,stephaniefloyd,Other regions,32,France,urban middle class,Average,short-term,Couple,0.30000000000000004
+13911d9b-44e0-4212-935f-ff9ad2564fb8,Female,catherinegreen,Foreigner,21,Germany,dynamic urban,High,short-term,Family,0.6000000000000001
+62ad2450-ea68-49a0-bdf4-6afd6ffcf57f,Male,raymondbaker,Normandie,25,France,rural worker,Low,short-term,Alone,0.7000000000000001
+0bfadc00-93ea-485b-87d9-c05801a0df1e,Female,brookehobbs,Normandie,16,France,growing peri-urban,Average,short-term,Couple,0.4
+66d30434-f347-4c6f-bb3c-395398dd6421,Male,jeffreymontgomery,Other regions,50,France,popularity,Low,long-term,Couple,0.7000000000000001
+66db42fd-dc6f-47a3-9bd4-e7f4bb709468,Male,williamsmith,Normandie,45,France,dynamic urban,High,long-term,Couple,0.7000000000000001
+4bd41d68-1bac-4a62-a2fd-481af4e44f0a,Male,markaustin,Normandie,76,France,growing peri-urban,Average,short-term,Alone,0.9
+80da451b-686f-43e9-9c7c-6ee49306b546,Female,juliecollins,Other regions,14,France,popularity,Low,long-term,Family,0.5
+a26ea619-3ada-40c3-9f4e-64bd79a7fc9e,Male,davidjackson,Other regions,80,France,urban middle class,Average,short-term,Alone,0.1
+41c82c7a-8e21-4981-acf7-5daa66dddd7f,Female,heatherhicks,Normandie,15,France,traditional rural,Low,short-term,Couple,0.2
+6c0af8dd-5b59-4bf3-bc78-aac8bcfaf3ac,Male,andrewhoward,Foreigner,31,USA,disadvantaged urban,Low,short-term,Couple,0.2
+dc50b033-8ba5-42f3-ac1c-54868e7db813,Female,deborahmeyer,Foreigner,49,Western Europe,wealthy family suburbanite,Low,short-term,Alone,0.5
+dd7af1b7-ed4b-4a14-aaa4-b12a6ad83055,Male,bradleyrodgers,Foreigner,16,Western Europe,growing peri-urban,Average,short-term,Couple,0.5
+31f39458-a0c5-48ae-b9c3-63cf6a301385,Female,jenniferhernandez,Foreigner,77,Western Europe,affluent family urban,Average,short-term,Couple,0.30000000000000004
+893a233e-be61-4bb1-901c-f96168c6346c,Female,kellybrown,Foreigner,57,Germany,popularity,Low,short-term,Couple,0.1
+a5b26b44-f74a-4679-802d-a6eeb8fc7c1d,Female,michellechang,Normandie,55,France,affluent family urban,High,short-term,Alone,0.1
+a4eb537c-4902-466e-b76f-f848f4adc266,Female,karenbanks,Normandie,14,France,dynamic rural,Average,short-term,Family,0.2
+bc3fa214-37e0-4bf2-999a-a8f90da9d600,Female,samantharodriguez,Other regions,47,France,disadvantaged urban,High,short-term,Family,0.7000000000000001
+28432601-75d9-49cf-907d-9a88da360731,Female,tonyanorris,Normandie,44,France,affluent family urban,High,short-term,Couple,0.2
+6608e274-84b5-4150-a94a-acaae77b1530,Male,joshuablevins,Foreigner,63,Germany,dynamic urban,High,short-term,Couple,0.2
+2a59b751-e941-4a7d-930c-a33e3e47f1d1,Female,rebeccasmith,Other regions,70,France,dynamic urban,High,short-term,Couple,0.4
+329723c5-2d6b-4ddd-b5e4-21321393d8ef,Male,johnconway,Other regions,15,France,popularity,Low,long-term,Alone,0.6000000000000001
+c50d9e8c-79e1-4db2-9da2-94aef46d725b,Male,josephsullivan,Foreigner,33,Western Europe,urban middle class,Average,short-term,Family,0.6000000000000001
+8b155102-5878-415f-ae95-27168a045e15,Female,barbarabryant,Normandie,64,France,dynamic urban,Average,short-term,Alone,0.5
+ad22e0f3-e088-4c93-a0b6-33c748b13cc4,Male,stephenavila,Normandie,58,France,urban middle class,Low,short-term,Family,0.7000000000000001
+6fd301fa-91a2-4837-8228-92262b0333c7,Male,andrewyang,Normandie,63,France,urban middle class,Average,long-term,Family,0.4
+77c7f9d6-3d15-4148-9857-613febd7fd1d,Male,stevenfoster,Normandie,29,France,popularity,Low,short-term,Alone,0.1
+b88ef5c5-e33e-4f73-98df-ef9bf8c4642d,Female,kelliguzman,Normandie,16,France,growing peri-urban,Average,short-term,Alone,0.4
+a6b60b7f-0e85-4dfc-bdc5-b7b9b3db44f4,Male,noahriley,Normandie,26,France,wealthy family suburbanite,High,short-term,Couple,0.1
+aca80099-48c9-44e9-867d-8544fcec94e8,Female,laurenwilson,Normandie,14,France,urban middle class,Average,short-term,Alone,0.6000000000000001
+53b3d674-c1c3-4cb8-948e-1f341052a1d7,Male,tannerwest,Foreigner,47,Western Europe,growing peri-urban,Average,short-term,Alone,0.9
+f5b24be8-28a9-4937-9e4b-3f84aef651bd,Female,rebeccajackson,Normandie,21,France,affluent family urban,High,short-term,Alone,0.30000000000000004
+72c9dd33-1af9-4024-9bb3-21ac92317991,Female,brookebarnesdvm,Normandie,25,France,urban middle class,Average,short-term,Family,0.8
+c373e005-0ffd-44cd-98d9-57b3042f5569,Male,christianbrady,Foreigner,51,Belgium,popularity,Low,short-term,Family,0.1
+4f80f5bf-1617-46bb-94b1-b1d20c387dbd,Male,claytonjohnson,Normandie,28,France,dynamic urban,High,short-term,Alone,0.1
+74677237-2d05-4878-a67b-435e36c4f2c0,Male,alexanderjohnson,Foreigner,71,Belgium,dynamic urban,High,short-term,Family,0.9
+17f88ecd-876a-4e70-9795-b19a9d6184b4,Female,sheilalarsen,Foreigner,14,Western Europe,wealthy family suburbanite,High,short-term,Couple,0.2
+ba99b206-d82c-4342-bddc-e06489075766,Male,stephenayers,Foreigner,73,Germany,growing peri-urban,High,short-term,Alone,0.6000000000000001
+b8593537-537a-491e-8b8d-6222abc91728,Male,kevinsilva,Normandie,72,France,popularity,Low,short-term,Couple,0.7000000000000001
+ad63b124-53a9-4318-98e4-0ab13feb8e48,Female,sheilacain,Normandie,14,France,dynamic urban,High,short-term,Couple,0.1
+a866ebb8-20b6-4bb6-aafd-4cf8e55f0c27,Male,jameswong,Normandie,66,France,dynamic urban,High,short-term,Alone,0.30000000000000004
+c5f88539-f096-4d2e-94f8-d8010a4f675a,Male,stevenmendoza,Other regions,41,France,dynamic rural,Average,short-term,Couple,0.4
+a58776ae-b33c-4301-bb06-3cdf4ff3ddcb,Male,derekwilson,Normandie,54,France,rural worker,High,short-term,Alone,0.6000000000000001
+949fd19a-171f-417c-bc28-7a948cf28396,Female,chloeedwards,Other regions,16,France,dynamic urban,High,short-term,Couple,0.6000000000000001
+52a1af26-6c00-4ae7-aad5-9b3b9ea3cdee,Male,nicholasharris,Foreigner,15,USA,affluent family urban,High,short-term,Family,0.6000000000000001
+a85b0a51-bd94-4c29-964e-8d3905b57c46,Female,sarahhernandez,Other regions,23,France,dynamic urban,High,short-term,Couple,0.8
+5b53c02c-ab02-4dee-96b0-0886f7a50ab3,Female,melissaross,Other regions,33,France,growing peri-urban,Average,short-term,Family,0.9
+95e1ab32-1137-4041-93ca-1fccfc8ac210,Male,eddieglover,Other regions,56,France,wealthy family suburbanite,High,long-term,Couple,0.9
+de4b464f-d769-44cb-9c98-a311c1ff16d0,Male,kevinbowman,Normandie,16,France,growing peri-urban,High,short-term,Couple,0.1
+f8146190-f726-49c2-a0f3-62bbc4de47d9,Female,michellestrong,Foreigner,26,Western Europe,growing peri-urban,Average,long-term,Alone,0.5
+6068106f-7b71-455e-aed0-8a62e3eedeb5,Male,patrickmelendez,Foreigner,63,Germany,traditional rural,Low,short-term,Alone,0.7000000000000001
+b8dba4be-8746-473b-a9dc-e6abca3d16a3,Male,kellydelgado,Normandie,26,France,dynamic urban,High,short-term,Couple,0.1
+21fa2b10-c956-4bca-a4e7-e04fa0efd5ba,Female,cynthiaguerrero,Foreigner,46,Western Europe,wealthy family suburbanite,High,long-term,Alone,0.4
+cd0d0151-384a-4725-84eb-ec6d0931a05e,Female,patriciasullivan,Other regions,44,France,affluent family urban,High,short-term,Family,0.1
+9d59b1dc-79ec-4ab9-8140-f9c15d01a0ad,Male,robertbrown,Foreigner,18,Western Europe,popularity,Low,short-term,Family,0.8
+63e6418f-3f22-4888-9336-4dfd35977e37,Female,dianamartinez,Normandie,15,France,affluent family urban,High,short-term,Couple,0.5
+078c1796-ea08-4cd0-9654-fedbec2c8d01,Male,michaelgonzales,Other regions,17,France,traditional rural,Low,short-term,Alone,0.30000000000000004
+8f0191a4-3d6f-474c-9857-23786bf2793d,Female,shannonhoffman,Other regions,54,France,wealthy family suburbanite,High,short-term,Family,0.30000000000000004
+f569391d-3a3a-4979-bd5c-d24741ebdf26,Male,garypowers,Normandie,57,France,growing peri-urban,Average,short-term,Couple,0.1
+b9706752-b886-4b68-a62e-c35f353a1817,Female,shannonlutz,Other regions,33,France,traditional rural,Low,short-term,Alone,0.30000000000000004
+05d65d2d-6a59-405a-bf78-af1167a65038,Male,andrewhorton,Other regions,36,France,popularity,Low,long-term,Alone,0.30000000000000004
+9aa5eea4-a944-4991-8956-d9e02e5892df,Male,alexanderfrank,Other regions,52,France,growing peri-urban,Average,short-term,Family,0.5
+dcb21f27-626c-4085-ab7b-885a3fc68c2c,Male,jeremyschwartz,Normandie,48,France,dynamic rural,High,short-term,Alone,0.8
+c2ee55d2-9ecc-4408-bcb6-7919c3300f22,Female,catherinereeves,Normandie,52,France,affluent family urban,High,short-term,Family,0.5
+e65bc982-a538-4375-9715-45a273780835,Female,brittanysimmons,Other regions,75,France,wealthy family suburbanite,High,short-term,Couple,0.7000000000000001
+403f8fcd-4fe3-44d4-b6e8-f380d56e8e5c,Male,luislee,Normandie,66,France,urban middle class,High,short-term,Alone,0.1
+e910a711-bf16-48a2-9da0-7463e69fa07c,Female,marybrown,Foreigner,16,Western Europe,dynamic urban,High,short-term,Group,0.2
+23e62ee0-4077-4e54-9d64-66ee507885f8,Male,christophermorris,Foreigner,37,Germany,dynamic rural,Average,short-term,Group,0.9
+196cce73-f871-4ebb-8c19-8e8400fa7f90,Male,davidnelson,Normandie,58,France,disadvantaged urban,Low,short-term,Couple,0.9
+c3ef9ec5-ba8c-452d-a777-ed614e39fe67,Female,stephaniewatts,Foreigner,15,Western Europe,affluent family urban,High,short-term,Family,0.6000000000000001
+5e49d359-e714-4bb8-9f76-bc75d493e556,Female,adrianadaydvm,Normandie,14,France,dynamic urban,High,short-term,Alone,0.7000000000000001
+098399b5-36dd-4905-b696-7cdc7da4218d,Male,brucewhite,Other regions,75,France,affluent family urban,High,short-term,Couple,0.9
+c88d886c-51be-4066-91f2-dc0e2c1a2379,Male,robertclark,Foreigner,14,Western Europe,growing peri-urban,Average,short-term,Family,0.6000000000000001
+8f4f456d-ae93-4167-b385-cf4d5ebb8436,Female,connieoconnor,Other regions,15,France,dynamic urban,High,short-term,Family,0.9
+b1ced87e-2466-4dd6-8f4e-edaa0180aa99,Male,brandonbenson,Foreigner,17,Germany,dynamic rural,Average,short-term,Alone,0.1
+4fab83db-0fba-4901-9301-2d684dac3ca2,Male,jacobschaefer,Foreigner,21,Western Europe,traditional rural,Low,short-term,Couple,0.30000000000000004
+b632847a-c5b8-4069-a086-ff186214a403,Female,jessicawest,Normandie,14,France,disadvantaged urban,Low,short-term,Couple,0.4
+ce2c5c23-ab17-44d4-8bb2-9aa550afeb4f,Male,lancefisher,Foreigner,40,Germany,wealthy family suburbanite,High,short-term,Couple,0.5
+9b9c69f2-1ef7-4754-a066-e7c5d5c7f631,Male,johnrowe,Foreigner,73,Belgium,affluent family urban,High,short-term,Couple,0.6000000000000001
+68f69b60-7502-4b8c-b2d4-8125ceae0a01,Female,jacquelinepotter,Other regions,18,France,popularity,Average,short-term,Family,0.9
+e74d65a7-dd10-4f1b-a08a-457cc94a3c06,Female,cherylmitchell,Other regions,47,France,rural worker,Low,short-term,Couple,0.7000000000000001
+40e302a2-a2ac-4768-b385-b9a306248b14,Male,charleselliott,Other regions,39,France,dynamic urban,High,short-term,Alone,0.5
+031bdd2f-a25b-439c-beb4-d0e9fbb82f33,Male,stevevalencia,Normandie,15,France,traditional rural,Low,long-term,Family,0.5
+63ce3b49-6348-49ea-88ff-5fc000d1d6bd,Female,kelseyjohnson,Normandie,15,France,dynamic urban,High,short-term,Family,0.9
+6b2825eb-36c4-457a-b58f-4105574adb67,Male,michaelmorales,Normandie,61,France,dynamic urban,High,long-term,Family,0.5
+417c5089-51cf-4d50-af1c-6f18cbb16448,Male,ernestvelez,Foreigner,80,Western Europe,disadvantaged urban,Low,short-term,Alone,0.9
+0e15771a-c0fe-4256-8aad-e4701c134f64,Male,davidlowe,Normandie,46,France,dynamic rural,Average,short-term,Family,0.4
+03b628cc-0dc5-47b1-86e7-324e7887e4d5,Female,michelleking,Normandie,56,France,growing peri-urban,Average,short-term,Group,0.8
+9f43a9d7-a1b4-48a9-89ce-db1ff7047e27,Male,bryanpayne,Normandie,61,France,popularity,Low,long-term,Couple,0.6000000000000001
+62f112d8-45d8-4d63-9c48-44be0346fe59,Female,karensilva,Other regions,36,France,affluent family urban,High,short-term,Family,0.9
+e7793df4-ee2c-436d-b573-b05c1ad7ad6c,Female,angelajones,Normandie,41,France,traditional rural,Low,short-term,Alone,0.30000000000000004
+d53e6490-1f98-4726-a5b5-b5c070ed2c09,Male,anthonypollard,Other regions,17,France,popularity,Low,short-term,Family,0.2
+28627750-7007-4001-8a75-7113833c0f43,Female,jenniferwyatt,Other regions,37,France,dynamic urban,High,long-term,Couple,0.1
+82ab2060-43d0-4cc5-aa5b-0d753d405dbd,Male,charlesarmstrong,Foreigner,55,USA,dynamic urban,Low,short-term,Alone,0.6000000000000001
+91684145-7f3b-497c-89eb-fd2bdf1bd260,Male,nicholasparker,Other regions,15,France,wealthy family suburbanite,High,short-term,Alone,0.8
+ecd5df9d-1f2b-4ddf-bccf-5c818bd484ec,Male,johnbrock,Other regions,23,France,rural worker,Low,short-term,Alone,0.7000000000000001
+8a736001-7338-4e3d-85b5-1cf3df9cd668,Female,crystalmclean,Other regions,14,France,wealthy family suburbanite,High,long-term,Alone,0.30000000000000004
+f1170f6b-fa5a-40b5-8339-d06402d81a43,Female,emilywilliams,Foreigner,25,USA,dynamic urban,High,short-term,Couple,0.30000000000000004
+93096190-5120-4e9c-bfc7-d7c4a00541f5,Male,anthonybarnes,Normandie,58,France,popularity,Low,short-term,Couple,0.2
+c82bd7ab-acb7-4c28-9ecb-f29c60589389,Female,amandabaker,Other regions,16,France,urban middle class,Average,short-term,Alone,0.30000000000000004
+19964965-1a5a-4bfa-8e8c-37c739e2cc20,Female,melaniegreen,Normandie,70,France,wealthy family suburbanite,Average,short-term,Family,0.8
+9e6b2bdd-d0f5-42d1-aaca-6b4bfd81c550,Male,bradleymyers,Normandie,15,France,rural worker,High,short-term,Couple,0.6000000000000001
+b2fed90a-aed6-471b-95fd-82a4cd205663,Male,josephellison,Other regions,17,France,affluent family urban,High,short-term,Alone,0.30000000000000004
+f2f7da4b-82b4-41d4-8d8e-579f3762bd99,Male,erikbrown,Foreigner,22,Eastern Europe,dynamic rural,Average,long-term,Family,0.30000000000000004
+742ac604-4687-401f-ae5d-ca406c3fad8d,Female,rachaelgonzales,Foreigner,76,USA,dynamic rural,Average,long-term,Alone,0.7000000000000001
+756000a0-d593-471c-82e5-bd341bd11e07,Female,jacquelinerodriguez,Foreigner,41,Germany,popularity,Low,short-term,Couple,0.4
+0d90baa2-9cfd-41f5-a727-175e47f464d6,Female,faithrobinson,Foreigner,47,USA,wealthy family suburbanite,High,short-term,Alone,0.6000000000000001
+e73b6161-7503-4bbf-b4a3-d20cd451821b,Female,sandraford,Normandie,62,France,wealthy family suburbanite,High,short-term,Family,0.2
+253ac368-307d-496a-ae85-847b88a734f3,Male,josephdiaz,Other regions,50,France,affluent family urban,Average,short-term,Family,0.2
+fe4c989f-ca5f-42e2-9fd3-65189bb82e8c,Female,patriciaconner,Other regions,26,France,dynamic urban,Average,short-term,Alone,0.9
+2850a6f1-d759-4696-85a3-b3fc7a84d08a,Male,marknewton,Other regions,34,France,wealthy family suburbanite,High,short-term,Couple,0.8
+ba9aff85-4177-48b3-b5f2-8e122977724e,Female,shannonweber,Normandie,61,France,dynamic urban,High,short-term,Couple,0.1
+36508b50-8622-4a22-95e4-c4e0251afff6,Female,kimberlyblack,Foreigner,33,Belgium,wealthy family suburbanite,High,short-term,Couple,0.2
+f7b2dc0d-3bfb-4278-a797-62e79362680d,Male,ericpaul,Normandie,32,France,wealthy family suburbanite,High,short-term,Couple,0.1
+a8dacb62-8c3f-49a0-863f-24dfe41e7c5f,Female,elizabethhernandez,Normandie,24,France,dynamic urban,High,long-term,Alone,0.9
+11627cd4-9298-40b2-ae01-5956411542de,Male,alexfox,Other regions,58,France,dynamic urban,High,short-term,Group,0.8
+351ded9c-cbbf-45a0-9455-5d9dd9966287,Male,matthewjacobs,Normandie,42,France,popularity,Low,long-term,Couple,0.1
+9c35cf3c-e75f-4ca8-914a-571a0a6e558c,Female,jessicavazquez,Foreigner,28,USA,traditional rural,Low,short-term,Alone,0.5
+86024ce9-ca28-440f-802a-4e10977c3a80,Male,thomasparker,Foreigner,79,Western Europe,urban middle class,Average,short-term,Family,0.9
+01541397-32e3-4993-89be-c23c0ad2e693,Female,deannaschmidt,Normandie,39,France,traditional rural,Low,short-term,Couple,0.9
+7ddf4392-0db6-4ab1-bb37-488051f8a26b,Male,jeffreywilliams,Normandie,41,France,growing peri-urban,Average,short-term,Couple,0.1
+f159367a-7030-4862-9113-59bc431ea8c1,Female,gloriawebb,Normandie,21,France,urban middle class,Average,short-term,Couple,0.1
+4bc2bf7d-e660-4535-99d4-d7b92029d9ea,Male,danielherrera,Other regions,32,France,dynamic rural,Average,short-term,Couple,0.7000000000000001
+3a136d63-7a2c-4302-bfd0-66c85c69534d,Female,lorigoodwin,Other regions,25,France,wealthy family suburbanite,Average,short-term,Group,0.7000000000000001
+f3d04337-56da-43d4-a735-3ca85bf7e8a7,Male,craigfreeman,Normandie,54,France,popularity,Low,short-term,Couple,0.9
+e82afc3b-1ae6-4317-94fb-2fe5f164e068,Female,mrs.brendagonzales,Other regions,33,France,dynamic rural,Average,short-term,Family,0.6000000000000001
+e3f87f64-0cf5-4916-b0cb-d061c11e4d28,Female,lindabowman,Other regions,60,France,dynamic urban,High,long-term,Alone,0.2
+f1b101d0-9c3e-46b0-a93f-8aab0d5990cc,Female,triciadillon,Foreigner,71,Western Europe,affluent family urban,High,short-term,Couple,0.9
+de8ee940-65b1-4063-be8a-38d952a21c04,Female,kristiduncan,Other regions,21,France,wealthy family suburbanite,High,short-term,Couple,0.30000000000000004
+dd4df223-453e-4716-8208-c8cbfa7a0bdf,Male,jacobcollins,Foreigner,54,Western Europe,dynamic urban,High,short-term,Couple,0.2
+062d7720-5bb3-4749-89ec-f6baed972086,Male,craigthompson,Foreigner,29,Western Europe,affluent family urban,High,short-term,Family,0.7000000000000001
+6b00f7ec-d3ac-4b24-a494-b9172b9af5d9,Female,briannacarroll,Other regions,21,France,dynamic urban,High,short-term,Family,0.5
+7dc2dfbe-c02f-4c1e-9f13-73f175ade2ee,Male,jasonhill,Normandie,27,France,growing peri-urban,Average,short-term,Alone,0.4
+516ada5c-6b30-47cf-9f3a-a54fe705d6c4,Male,roystrickland,Normandie,62,France,rural worker,Low,short-term,Couple,0.30000000000000004
+166caba9-c704-4d89-a51d-45e88ee71f01,Male,markmurphy,Normandie,65,France,dynamic urban,High,short-term,Alone,0.7000000000000001
+9887bb8f-8feb-4945-86d7-2efdaa45ce92,Male,tonyherrera,Other regions,27,France,affluent family urban,High,short-term,Family,0.30000000000000004
+bd09e380-dccd-432c-bdd2-9797ab3f583e,Female,crystaldeckerphd,Normandie,27,France,urban middle class,Average,long-term,Alone,0.6000000000000001
+9d855fcd-e2ba-43e0-a84c-90656ae99392,Female,melissaliu,Normandie,74,France,popularity,Average,short-term,Couple,0.5
+1cc6e68e-6eb4-4dc4-905b-ba6b4bc523ef,Male,michaeltaylor,Normandie,75,France,wealthy family suburbanite,High,short-term,Couple,0.9
+6b709d7b-ace4-44b7-82a3-0c3cc32a2eb9,Female,cherylrichardson,Other regions,56,France,dynamic urban,High,short-term,Family,0.8
+947f6b7e-8082-457d-b4bf-b3183ece920e,Female,aliciamurphy,Foreigner,14,Western Europe,wealthy family suburbanite,High,short-term,Couple,0.4
+6229a972-e1ae-4a42-ac94-cd78a1a772b9,Female,melodymcneil,Other regions,21,France,dynamic urban,High,short-term,Family,0.4
+fb49acc7-2d29-47b1-ae82-81a399880ced,Male,charlesblack,Other regions,73,France,urban middle class,Average,short-term,Couple,0.30000000000000004
+929feb78-9249-4451-9b87-2c5d5db5f614,Female,kellycasey,Other regions,44,France,popularity,Low,long-term,Family,0.4
+ce39eb82-884b-456d-9a9e-d5ef2795133b,Female,kimberlywood,Normandie,63,France,dynamic urban,High,short-term,Alone,0.7000000000000001
+93bdc259-f27f-44a5-a36b-9662ad1f8ebe,Female,theresasmith,Normandie,14,France,wealthy family suburbanite,High,short-term,Family,0.8
+0e40e557-bf45-4585-9bd8-fea23510ac8e,Female,jilliannelson,Foreigner,15,South America,disadvantaged urban,Low,short-term,Alone,0.5
+1216e862-4982-4b61-bb09-6096c0cde37f,Male,alexbush,Normandie,61,France,traditional rural,Low,short-term,Couple,0.6000000000000001
+ffbc4ad4-e86f-44e6-beb5-107fcd234c02,Male,bruceparrish,Normandie,68,France,urban middle class,Average,long-term,Group,0.2
+d7f9867a-3421-4713-8027-5cbb7265bcc8,Female,lauralee,Normandie,65,France,rural worker,Low,short-term,Family,0.7000000000000001
+98c25694-ade7-4eb6-8fea-8e25ef7f25a7,Female,susannorman,Foreigner,28,Germany,traditional rural,High,short-term,Family,0.7000000000000001
+a2580839-c26c-4982-8a62-c0761cf98091,Male,bobbywilliams,Foreigner,22,Western Europe,disadvantaged urban,Low,short-term,Couple,0.5
+6f6b239c-7d81-4892-97fa-b2f2ff557f42,Male,christopherjensen,Normandie,40,France,wealthy family suburbanite,High,short-term,Couple,0.8
+d7b60a34-5c35-4d6d-851d-09d2768033b1,Male,johnhuff,Other regions,63,France,disadvantaged urban,Low,short-term,Alone,0.2
+c637766a-284c-4751-b562-d6cd41e46fe6,Male,danieljones,Foreigner,59,USA,dynamic urban,High,short-term,Alone,0.4
+9460c981-bd69-4ce1-8094-1ee9ed82fd2b,Male,michaelwalton,Foreigner,34,Western Europe,dynamic urban,High,short-term,Couple,0.9
+0f0b08fc-4ae3-4e9b-b8b7-b88529dfa56b,Female,ashleyharris,Other regions,23,France,dynamic rural,Average,long-term,Family,0.1
+bb51ccf7-e91d-4cee-acb8-9f9626138085,Female,laurencameron,Other regions,66,France,rural worker,Low,short-term,Family,0.30000000000000004
+47cec353-ccbd-4b42-9653-a5c998ca42d8,Male,williamwells,Foreigner,23,Western Europe,popularity,Low,short-term,Family,0.8
+a050d39d-4f72-4259-99ee-2c37f973f8fe,Male,michaelphillips,Foreigner,74,USA,dynamic urban,High,short-term,Couple,0.5
+8302b4e6-5720-46de-a815-54bc7d6d4409,Female,nicolebrooks,Foreigner,79,Belgium,dynamic rural,Average,short-term,Alone,0.6000000000000001
+60878a1a-64df-4678-b405-fe4f94b63c82,Female,tracyatkins,Other regions,59,France,popularity,Low,long-term,Family,0.4
+877faca1-9728-49c6-bf74-bad06e803495,Female,elizabethdouglas,Normandie,74,France,popularity,Low,short-term,Couple,0.6000000000000001
+57aa975a-bf6d-43e6-b5af-ab496d058844,Female,gabriellaguerrero,Normandie,35,France,dynamic urban,Low,short-term,Couple,0.8
+8bf308f7-23b4-4d50-bc00-f510c9b9c9d7,Male,robertmitchell,Other regions,14,France,dynamic rural,Average,short-term,Couple,0.7000000000000001
+ca198b32-35c2-4c52-81dd-f95f970e2c70,Male,andreshields,Other regions,14,France,wealthy family suburbanite,High,short-term,Alone,0.1
+82538a8a-e51a-4485-8386-a8496f534955,Male,garretthunter,Other regions,34,France,urban middle class,Average,long-term,Family,0.6000000000000001
+9ef8e6a8-0cc7-4e13-a42f-4a184f6645e5,Female,deborahwilson,Normandie,75,France,urban middle class,Average,short-term,Family,0.5
+a3b5b9c5-bba4-44dd-beec-ad87803b4558,Male,markbaker,Other regions,19,France,affluent family urban,Average,short-term,Couple,0.1
+063cffa5-db1b-4be1-a038-d5c7ef94729e,Male,jameshall,Normandie,31,France,popularity,Average,long-term,Couple,0.8
+5ea83cec-305f-4300-baa6-6f7cb3d738af,Female,ginajohnson,Foreigner,18,Western Europe,popularity,Low,short-term,Family,0.1
+b03d30df-fa34-457c-816e-0f7684f0d964,Female,kristiblanchard,Normandie,77,France,rural worker,Low,short-term,Couple,0.9
+0ab15d99-9f37-4746-8286-d1d0901ccd1a,Male,terryhernandez,Foreigner,30,South America,dynamic rural,Average,short-term,Alone,0.5
+7d091c18-8949-487e-bdc2-3ec1bdf9e2e2,Male,markholdenmd,Normandie,34,France,affluent family urban,High,short-term,Alone,0.6000000000000001
+83d41acd-39a7-43f9-8d6c-cc326ab4aff6,Male,jamessnyder,Foreigner,17,Western Europe,wealthy family suburbanite,High,long-term,Family,0.7000000000000001
+30b138b6-bb3d-402b-9608-67173ac6d4ef,Male,michaelpena,Normandie,29,France,dynamic urban,High,short-term,Family,0.8
+f5d28a87-167b-40f5-8ff0-94989d054522,Male,xaviergregory,Other regions,14,France,affluent family urban,High,short-term,Couple,0.7000000000000001
+823877f2-220f-4a2a-ac12-3170369e6147,Male,patrickgonzalez,Other regions,20,France,wealthy family suburbanite,High,long-term,Couple,0.4
+5cedc0ba-2311-4974-b7fb-d338b5527a59,Female,christinehanna,Other regions,26,France,rural worker,Low,long-term,Alone,0.5
+e9052415-31ae-4630-8773-a34d621a29ed,Male,tonykelly,Normandie,51,France,wealthy family suburbanite,Low,short-term,Family,0.4
+a98d944a-9bd4-4363-a253-66d2c55dac49,Female,samanthacordova,Normandie,14,France,rural worker,High,long-term,Couple,0.2
+53daaba3-1fa7-47aa-819d-d1f95ef00c09,Male,christopherbaldwin,Foreigner,26,USA,dynamic urban,High,long-term,Alone,0.30000000000000004
+e6fdacee-c748-44ef-b537-734a5947a24f,Female,hollyharrison,Foreigner,51,Western Europe,traditional rural,Low,short-term,Couple,0.7000000000000001
+43d35f6c-50c3-4ab1-aae9-9b31eb0d0b36,Female,shelleypetersondvm,Normandie,25,France,urban middle class,Average,short-term,Family,0.1
+a55ab1c9-03d5-4f70-b923-6ca35073a3b2,Female,lindamyers,Other regions,22,France,popularity,Low,short-term,Alone,0.4
+417e6e3b-7bbf-482a-a924-1b8990686eec,Male,samuelyang,Foreigner,19,Western Europe,wealthy family suburbanite,High,short-term,Family,0.1
+f3d200a2-118c-49bf-86ba-da333eabf570,Female,jessicacline,Normandie,64,France,wealthy family suburbanite,High,short-term,Family,0.4
+4ed7f1d1-b53a-4a3f-8463-b55671af7b31,Female,melissahoffman,Normandie,20,France,dynamic rural,Average,short-term,Couple,0.7000000000000001
+e513140d-6cb2-4408-bf3e-bc8b7a67c280,Female,mistycain,Normandie,41,France,dynamic urban,High,short-term,Alone,0.9
+883fdc2b-fbd1-4061-aee4-8f2b6fe59343,Male,willierobertson,Other regions,70,France,wealthy family suburbanite,High,short-term,Couple,0.9
+5ed3bd09-1730-4b6b-abda-9f9c9cc53742,Female,jenniferchavez,Other regions,16,France,popularity,Low,short-term,Alone,0.9
+7783e4e6-1a74-4432-badf-a25786d659d1,Female,reneethomasmd,Other regions,43,France,disadvantaged urban,Low,long-term,Family,0.4
+e3bf6a13-54bc-4914-8adc-258863a77e95,Male,garynguyen,Foreigner,61,Eastern Europe,dynamic urban,High,short-term,Group,0.1
+1d84be1a-44a5-491a-9b38-5e6aa090f264,Female,aprilsutton,Foreigner,57,Western Europe,affluent family urban,High,long-term,Couple,0.30000000000000004
+7a8e2010-7e41-4b04-bcc0-f20485620497,Female,sarahpeters,Normandie,25,France,wealthy family suburbanite,High,short-term,Couple,0.4
+39a60a90-5a73-4f69-bce9-7dd10331d307,Female,christinerussell,Other regions,46,France,wealthy family suburbanite,Average,short-term,Family,0.9
+f431bd01-bdea-4c8b-8993-87976b173e94,Male,patrickgamble,Foreigner,65,Western Europe,wealthy family suburbanite,High,short-term,Couple,0.8
+424f7364-fad8-45c8-85dd-d63489b8ba05,Female,cynthialeonard,Other regions,45,France,disadvantaged urban,Low,long-term,Couple,0.9
+46d873fd-6c1b-4841-92f2-3a72ca8b47e6,Male,samuelgonzales,Normandie,27,France,dynamic urban,High,short-term,Alone,0.4
+0be6f0f0-37c2-49d0-a116-02c34e68dcf8,Female,brittanygardner,Other regions,23,France,dynamic urban,High,short-term,Alone,0.7000000000000001
+15ac39f1-5ed6-4f3c-9a2b-3a6fca5ad2cf,Male,gregorybrown,Other regions,53,France,affluent family urban,High,short-term,Family,0.1
+9488de0d-d448-4200-a285-45ae722ce883,Female,mrs.juliewilliams,Normandie,48,France,affluent family urban,High,short-term,Couple,0.6000000000000001
+dc8c9097-a04f-4da8-bd0f-177031059572,Male,aaronporter,Normandie,21,France,popularity,Low,short-term,Couple,0.6000000000000001
+4b36a9c1-997d-4227-bfaf-2145ac623f58,Male,markjones,Other regions,22,France,dynamic rural,Average,short-term,Alone,0.30000000000000004
+8e5ebbdd-4d0b-4487-a647-53788067bc11,Male,ryanjohnson,Normandie,38,France,urban middle class,Average,short-term,Family,0.8
+132d087d-66de-46b6-aa62-9ad5329f8f6a,Male,hectorjohnsonjr.,Normandie,15,France,traditional rural,Low,short-term,Group,0.8
+87ba8ceb-9754-420b-b5d9-63209c4f25b8,Male,matthewrowe,Other regions,16,France,urban middle class,Average,short-term,Couple,0.30000000000000004
+5d02d8f5-8108-438f-b606-e6e9f25caf24,Female,wendytravis,Other regions,31,France,dynamic rural,High,short-term,Alone,0.30000000000000004
+0398ce57-c4a6-4f34-bf51-2b22bdfeea15,Female,abigailwalsh,Foreigner,46,Eastern Europe,affluent family urban,High,short-term,Family,0.6000000000000001
+1e03ced7-ff1b-436b-802c-44475677fdb8,Female,megandavis,Normandie,16,France,dynamic urban,High,long-term,Family,0.6000000000000001
+7719e91a-5f39-4a0e-99e0-a2be8c88f4c8,Female,terriherman,Normandie,48,France,wealthy family suburbanite,High,short-term,Alone,0.30000000000000004
+d36c3006-62c7-4174-b37a-ab8e689fdffa,Female,erikashaw,Normandie,30,France,traditional rural,Low,short-term,Family,0.7000000000000001
+ea497d32-f33e-49b6-8e4d-a60e40f7970c,Female,sandrasmith,Other regions,67,France,dynamic urban,High,short-term,Alone,0.4
+bdd227ac-bbed-4b96-b1d2-035c5d35e906,Male,paulnelson,Other regions,15,France,popularity,Low,short-term,Couple,0.4
+aa5973ce-9d4d-49c5-80c8-cb8dd9243657,Female,rhondabrown,Other regions,53,France,urban middle class,Average,short-term,Couple,0.5
+7be602d4-30d5-482f-a964-d58d79286ff3,Female,kathleenjones,Other regions,66,France,traditional rural,Low,short-term,Couple,0.30000000000000004
+1bf5f35a-275c-4b28-82cf-d23503863bd0,Male,isaacsmith,Normandie,32,France,wealthy family suburbanite,High,short-term,Family,0.4
+f3045096-c3e4-4399-a464-db3312b9c8bd,Male,robertyoung,Other regions,17,France,dynamic urban,Low,short-term,Alone,0.9
+ea161cc8-a746-4c1c-b959-44ec16c802f9,Female,nicolesawyer,Normandie,28,France,dynamic urban,High,long-term,Family,0.8
+e5bee3ec-2431-47b6-a160-feb3b96793c5,Male,nicholashall,Normandie,52,France,affluent family urban,High,short-term,Couple,0.4
+c5217b9e-6b8b-426a-9310-daaed51a140e,Female,breannaoliver,Normandie,77,France,dynamic rural,Average,short-term,Alone,0.8
+079de5a5-ec08-476d-b7ad-b56b67428f97,Male,jameslee,Other regions,26,France,growing peri-urban,Low,long-term,Family,0.5
+4042b687-12a1-4b57-ba12-553fa1bab892,Female,wendykelly,Other regions,17,France,traditional rural,Low,short-term,Alone,0.5
+ecd78198-0187-4ae5-a148-c0941afb3fba,Female,cathyortiz,Normandie,64,France,growing peri-urban,Average,long-term,Couple,0.30000000000000004
+053bf08a-fb38-4762-a44f-dfa09e951906,Female,michellesherman,Normandie,24,France,wealthy family suburbanite,High,short-term,Couple,0.7000000000000001
+5679252b-9b46-4be5-a819-36200d1d1854,Male,joshuaramos,Foreigner,76,Belgium,dynamic rural,Average,short-term,Family,0.2
+6b83f5e6-1e0d-49a0-9c1b-ffc3f888a315,Female,jessicanelson,Normandie,63,France,affluent family urban,High,short-term,Couple,0.7000000000000001
+f2f7c0a7-93d9-4303-8480-ba07d8f4f3c1,Male,jacobcrosby,Other regions,17,France,popularity,Low,short-term,Alone,0.4
+943eae4b-4cf4-409e-abb0-efb2222f3012,Female,mrs.kerryharris,Other regions,17,France,popularity,Low,short-term,Family,0.4
+657911f3-6f08-4c7e-b579-4490e99db49e,Female,jenniferbruce,Foreigner,67,Western Europe,growing peri-urban,Average,short-term,Couple,0.8
+a77d2fd1-bb59-46f7-b649-aa1750ed8aa9,Male,brianmcdowell,Other regions,74,France,dynamic urban,High,short-term,Couple,0.5
+8c72c57b-fb13-4b79-bc5c-1db7ceaa45d0,Male,toddwatkins,Other regions,54,France,urban middle class,Average,short-term,Family,0.8
+7880199d-b2be-47f7-9cb2-0bc8825ede86,Male,jeffboyd,Other regions,33,France,dynamic urban,High,short-term,Alone,0.2
+8f7613cf-6f30-44f7-bb0b-e891123f2398,Male,robertmunoz,Normandie,20,France,affluent family urban,High,long-term,Alone,0.1
+0f524301-078e-4235-9b41-6a43173f5be0,Male,michaelwhitedds,Foreigner,72,Western Europe,dynamic rural,Average,short-term,Alone,0.4
+43eea545-442f-478b-be0d-1231c7903dbe,Male,dr.adamperez,Normandie,23,France,popularity,Low,short-term,Group,0.2
+ecc71520-0d32-4807-972c-1914bc99a008,Male,ericwilliams,Other regions,14,France,dynamic rural,Average,short-term,Alone,0.7000000000000001
+fedc3dd6-b4ac-42e6-9ab4-d2b259ed8050,Male,kennethedwards,Foreigner,36,Western Europe,traditional rural,Low,short-term,Alone,0.8
+165d8355-f5cd-4ab3-9fad-b7bd5b19ff29,Male,jessesmith,Other regions,67,France,affluent family urban,High,short-term,Family,0.4
+861f3753-b549-40b6-8f00-37e0db101871,Female,susanbeard,Other regions,54,France,traditional rural,Low,short-term,Alone,0.4
+740839a2-04ba-436e-ba97-c75c85a3e547,Male,dennisjackson,Normandie,76,France,wealthy family suburbanite,High,short-term,Couple,0.8
+37605dbb-576c-4b1e-bce7-c691d293fa34,Male,joshuahopkins,Normandie,15,France,rural worker,Low,short-term,Family,0.9
+51d50ac8-7497-44a5-99f2-c47f31061805,Male,jamesbailey,Other regions,31,France,affluent family urban,High,short-term,Couple,0.6000000000000001
+82ca9159-b345-451b-96c5-dd1675769e0b,Male,jimmymaxwell,Foreigner,18,Germany,wealthy family suburbanite,High,short-term,Alone,0.4
+f6e1b693-8a36-46dd-a90a-9876f64e00f7,Female,marygonzalez,Other regions,25,France,affluent family urban,High,short-term,Family,0.6000000000000001
+fe0a0659-0a95-46db-be82-c4cc3d78cc48,Male,cameroncrawford,Foreigner,17,Western Europe,dynamic urban,High,short-term,Family,0.5
+2f9ad903-1200-438f-ab43-bb16841cee1f,Female,kellykemp,Normandie,18,France,growing peri-urban,Average,short-term,Alone,0.1
+b0d1df09-728c-483c-bedc-33e3981350b1,Male,justinphillips,Normandie,74,France,dynamic urban,High,short-term,Couple,0.9
+7a8cc679-2f26-4788-b3ff-2aa023cffd07,Female,dawnkeller,Normandie,23,France,affluent family urban,High,short-term,Couple,0.5
+f1ef4ef4-d243-4ce1-b37a-ef8d9677acc9,Male,derrickwhite,Normandie,14,France,affluent family urban,High,short-term,Couple,0.4
+0e781ced-2575-48b9-a115-aa6895df1425,Male,mr.billydixonmd,Other regions,35,France,dynamic urban,Low,short-term,Alone,0.30000000000000004
+12a55f6c-3c93-4b3b-b779-9405d68d98f5,Male,markmorris,Normandie,64,France,popularity,Low,short-term,Family,0.4
+5f55d430-313e-4ee5-a8b4-44fdc39a4edc,Female,wendycurtis,Foreigner,73,Western Europe,urban middle class,Average,short-term,Alone,0.9
+6d4ddd1f-879f-4ee1-acc9-8773cdf4f7d3,Male,keithjackson,Normandie,60,France,popularity,Low,short-term,Couple,0.6000000000000001
+c3aa2d75-db4f-4a09-8143-af270670c9bf,Male,eddieconrad,Foreigner,16,Belgium,dynamic urban,High,long-term,Alone,0.6000000000000001
+67f43991-4b43-4151-9beb-5292fd2ac2be,Female,elizabethjackson,Foreigner,51,Western Europe,dynamic urban,High,short-term,Alone,0.4
+2f8c230c-ef1f-4e47-975e-b582425e580c,Female,alexiswallace,Normandie,16,France,dynamic urban,High,short-term,Alone,0.1
+85f6e7ee-4366-422e-8dc5-9f52efb6d3ab,Female,heatherbernard,Normandie,37,France,dynamic rural,Average,long-term,Family,0.4
+ecb25f27-49f8-4de8-b813-190d1e4cc91d,Female,erinrobinson,Normandie,33,France,dynamic urban,High,short-term,Couple,0.2
+dd5fb190-14dd-4a5a-ac1e-ab420f3b5e8d,Female,cindyhall,Other regions,16,France,urban middle class,Average,short-term,Couple,0.6000000000000001
+e97c5d2e-cd94-4542-aed6-78e657592d2c,Male,scottmassey,Other regions,19,France,wealthy family suburbanite,Low,short-term,Alone,0.1
+d5d5b08c-2f12-459e-8c0a-dc104a2ab0bd,Female,laurendaniels,Normandie,21,France,wealthy family suburbanite,Average,long-term,Alone,0.9
+74276899-ae1c-417b-a89b-b097c5e89853,Male,brianbryan,Foreigner,17,USA,affluent family urban,High,short-term,Family,0.30000000000000004
+49980113-6904-46a9-9c85-b03d965f0b80,Female,melissawilliams,Other regions,35,France,affluent family urban,High,short-term,Couple,0.6000000000000001
+e886ddd4-824d-42ab-b987-f6500cc5e669,Female,meganmontgomery,Other regions,15,France,affluent family urban,High,short-term,Alone,0.7000000000000001
+3b3e1975-53cd-4aa2-84a6-d5ea32926180,Female,stephaniemckay,Normandie,56,France,popularity,Low,long-term,Alone,0.7000000000000001
+be61200e-acb6-41b7-91ce-084a13cbac07,Male,brendannovak,Other regions,41,France,rural worker,Low,short-term,Family,0.9
+90700c10-969a-48b7-a528-fca38b5515a0,Male,timothyharrell,Normandie,28,France,wealthy family suburbanite,High,short-term,Family,0.4
+ac4ebf61-015f-494f-a548-0c9bb1649001,Male,seanroberson,Other regions,38,France,urban middle class,High,short-term,Family,0.30000000000000004
+0b17d027-b961-4eb5-b625-cb69a0d189d5,Male,josebrandt,Foreigner,74,USA,wealthy family suburbanite,High,short-term,Family,0.1
+5cf8f4ce-a0bb-4e3c-a189-d0d942c48826,Male,chadmiller,Other regions,66,France,rural worker,Low,short-term,Alone,0.6000000000000001
+b1ffa63f-3018-4779-a08f-bca88a52b328,Male,tylermoore,Foreigner,15,Western Europe,growing peri-urban,Average,short-term,Family,0.30000000000000004
+9a3f80e4-9572-4b9a-a067-ae80135332f5,Female,andreafisher,Other regions,35,France,wealthy family suburbanite,Average,short-term,Family,0.4
+643109b3-9883-4dbb-b389-814156236ce4,Female,monicawilliams,Normandie,15,France,popularity,Low,long-term,Couple,0.5
+d427a767-adc8-4699-a6d9-51754a9a407c,Female,cindycompton,Other regions,14,France,urban middle class,Average,short-term,Alone,0.9
+13a23de0-23cb-4237-897e-874066e9c01a,Male,davidbrown,Normandie,50,France,affluent family urban,High,short-term,Alone,0.6000000000000001
+e514ec86-9a1e-4de0-b3f3-afbd53f4c3e8,Female,kimberlycalhoun,Normandie,77,France,dynamic rural,Average,short-term,Alone,0.5
+dc394b4a-c111-4db9-a976-df2df93e98f1,Male,christopherellis,Normandie,15,France,dynamic urban,High,short-term,Couple,0.1
+a5fdcac4-b81c-4c89-afe6-5d6e6e60da45,Male,kennethnichols,Other regions,65,France,urban middle class,Average,short-term,Family,0.4
+8226bcc3-5dea-449a-a620-fdb5b05780c9,Female,sharonpeters,Foreigner,41,USA,dynamic urban,High,short-term,Alone,0.5
+e4b4ec96-8108-4917-a8de-bcf92375819c,Female,kristenevans,Normandie,30,France,dynamic urban,Average,long-term,Couple,0.5
+bb08e8bb-142f-4e06-be71-d442cc12efd5,Male,justingutierrez,Other regions,60,France,urban middle class,Average,short-term,Alone,0.5
+d5f5fec5-ca43-447b-842d-c633da6743f7,Female,heatherblake,Other regions,61,France,rural worker,Low,short-term,Family,0.8
+0eea8704-4117-49ad-8e71-467c502b6b39,Male,mr.toddking,Normandie,36,France,dynamic urban,High,short-term,Family,0.30000000000000004
+2d38e6bd-5be0-4270-b6d5-6a980f6d741c,Male,jonathanallen,Normandie,42,France,growing peri-urban,Average,short-term,Group,0.6000000000000001
+5e09f490-b444-4b8c-be4a-532399887763,Female,michellelee,Foreigner,27,Belgium,dynamic urban,High,short-term,Family,0.9
+bc08df5b-398c-434a-a4b2-7e6a2124a351,Male,mitchellbriggs,Normandie,42,France,popularity,Low,long-term,Family,0.2
+903d8a8b-7732-43a7-b90f-b5ec48eb69fb,Female,haileyguzman,Normandie,26,France,popularity,Low,long-term,Couple,0.30000000000000004
+05a6f65a-9ea5-4f8f-a64d-0fa500595fc0,Female,maryglover,Other regions,33,France,traditional rural,Low,short-term,Couple,0.5
+6f025dab-5045-4fa6-a212-70a37cc05226,Female,michellejohnson,Normandie,25,France,disadvantaged urban,High,short-term,Couple,0.9
+151a13fc-692a-42fd-bb6f-5c54ae27f6e0,Male,stevencarpenter,Normandie,58,France,rural worker,Low,short-term,Family,0.9
+324601c8-cb09-443d-a8d1-c90010f67c1e,Female,veronicastanley,Normandie,61,France,disadvantaged urban,Low,short-term,Family,0.30000000000000004
+e6ce46a3-fb47-4a46-b23a-bcbff67a4011,Male,robertolong,Normandie,18,France,growing peri-urban,Average,short-term,Couple,0.8
+65bf6d12-9508-4a7c-97e9-3fa1b63ee534,Male,jordanalexander,Other regions,42,France,dynamic urban,Low,long-term,Family,0.8
+97fb012b-a5f8-4eb6-9d7e-295e4f0e7818,Male,javiercollins,Other regions,56,France,urban middle class,Average,short-term,Couple,0.5
+853c13fa-5f2e-4b22-9f6b-26efd9ac135c,Female,lindadodson,Normandie,56,France,disadvantaged urban,Low,short-term,Family,0.5
+1e5a7853-aff4-4923-a46e-3729f3e1d1ec,Male,dylanhoffman,Other regions,75,France,growing peri-urban,Average,short-term,Alone,0.8
+652a6500-05e7-45ca-852f-b4c2a0491d0c,Male,fredericktaylor,Foreigner,70,Western Europe,growing peri-urban,Average,short-term,Family,0.7000000000000001
+0efc92ed-07a4-4020-8f47-ec76210d21d7,Female,staceyhughes,Other regions,71,France,dynamic urban,High,short-term,Alone,0.4
+89d9dbb5-dfb2-418c-9b6a-77d5a593c618,Male,kylemontgomery,Foreigner,79,Western Europe,wealthy family suburbanite,Average,short-term,Family,0.2
+f3b9c28b-27e2-4588-b71d-235c24bf9896,Male,zacharycontreras,Foreigner,20,Western Europe,dynamic rural,Average,short-term,Family,0.5
+0b01163c-fdcb-400d-91ab-af6982d7d197,Male,deanallen,Other regions,19,France,dynamic urban,Low,short-term,Alone,0.9
+992ae19c-2eef-4f0a-9994-c51a22344d0d,Female,kellypatton,Foreigner,71,Western Europe,growing peri-urban,Average,short-term,Group,0.5
+b27f9822-e080-4d8b-95bd-f2b1b5d51ee5,Male,jasonfernandez,Foreigner,79,Germany,traditional rural,Average,short-term,Alone,0.4
+3ad9ddf3-7871-4891-9f44-8434fb1afa50,Male,coryweber,Other regions,18,France,dynamic urban,High,short-term,Family,0.1
+bc6615d0-806a-405a-ac33-db0115215d66,Female,misscynthialarson,Normandie,19,France,affluent family urban,Low,long-term,Family,0.7000000000000001
+c895cfc6-e4cc-4bf3-83c3-dbe98dc616ba,Male,jonrobertson,Normandie,31,France,dynamic rural,Average,short-term,Alone,0.1
+547c7696-9e23-41dc-a43c-3104752e52c6,Female,kendraboyle,Other regions,20,France,popularity,Low,short-term,Family,0.2
+0b62800b-7cfa-4e94-87bd-c04a79976bb5,Female,lorijones,Other regions,32,France,wealthy family suburbanite,High,short-term,Couple,0.6000000000000001
+f17e1a0e-6a9f-46a7-980b-eb1aad00dc2b,Male,rodneylewis,Other regions,69,France,wealthy family suburbanite,Average,short-term,Family,0.5
+d2063fe1-019b-4095-9e9a-c886aee208de,Female,rachelbrock,Normandie,51,France,popularity,Low,short-term,Couple,0.4
+3c07e82a-21f3-471c-8bd3-7af30f350351,Female,kathrynchristian,Other regions,17,France,popularity,Low,long-term,Couple,0.8
+9655753a-f591-4b1f-975a-f37ed27f7231,Male,alexanderoliver,Normandie,75,France,dynamic urban,High,short-term,Couple,0.30000000000000004
+5a8eab88-27ba-446a-88a7-4b260f6b4a59,Male,mr.matthewhunter,Normandie,19,France,wealthy family suburbanite,High,short-term,Family,0.30000000000000004
+46636f48-ff2a-4a27-9598-d365395c8e8b,Male,codymorris,Other regions,29,France,popularity,Low,long-term,Family,0.7000000000000001
+20f8f787-3077-48af-a240-4d34c6ca48ae,Female,amberperez,Other regions,17,France,dynamic urban,High,short-term,Alone,0.4
+410d00a5-f370-498e-a585-e5855a799f6c,Male,shanerubio,Normandie,63,France,rural worker,Low,short-term,Couple,0.4
+a310ca81-5763-4802-afae-f614ceb94302,Female,jamiethomas,Foreigner,29,Belgium,dynamic urban,High,short-term,Couple,0.8
+9ab9a838-a1f1-49c5-8544-b94ee3124dc2,Female,jacquelineedwards,Foreigner,54,Asia,wealthy family suburbanite,High,short-term,Family,0.1
+1c7ba1a4-4a2e-48aa-b5ef-02d36aaab5fd,Male,christhomas,Foreigner,52,Western Europe,dynamic rural,Average,short-term,Couple,0.7000000000000001
+111b20e7-ec18-4d32-ac31-5f27616d2f2f,Male,davidjohnson,Normandie,49,France,popularity,Low,short-term,Couple,0.9
+5d1a2f18-e8d1-41cc-8591-e59693309df7,Female,dr.carolynandersondds,Normandie,37,France,traditional rural,Average,long-term,Couple,0.7000000000000001
+0efd5bbb-ab4d-46cd-96e8-618ed904023b,Male,kevinrichardson,Other regions,23,France,dynamic urban,High,short-term,Alone,0.9
+50e3d3f6-e222-41a2-97bf-ce109be4536f,Male,josepharias,Normandie,14,France,wealthy family suburbanite,High,short-term,Couple,0.4
+b537276b-ff84-436f-b22c-ed852a8e1cc0,Female,christinarios,Foreigner,42,Germany,traditional rural,Low,short-term,Alone,0.6000000000000001
+60a83e4b-3cad-4db7-9ff5-d42b8cb8ee6b,Female,chelseamoore,Normandie,61,France,urban middle class,Average,short-term,Family,0.30000000000000004
+fb4ead05-f4c4-4985-a783-c3f51ca00a8a,Male,alanmedina,Normandie,41,France,popularity,Low,short-term,Group,0.6000000000000001
+a6137772-10c0-4e10-a809-8a222bb40173,Female,erinlong,Normandie,79,France,rural worker,Low,long-term,Alone,0.5
+3632bf6b-fc93-4a87-8ea3-699bbece7e04,Female,rebeccalarson,Normandie,19,France,urban middle class,Average,short-term,Alone,0.6000000000000001
+2c305053-5a88-4c25-8c27-0df04239415a,Male,michaeljohnson,Foreigner,57,Western Europe,dynamic rural,Average,long-term,Couple,0.6000000000000001
+6fd630c2-bd28-4274-a476-b1fddfe5b517,Male,matthewmorgan,Foreigner,16,Germany,growing peri-urban,Average,short-term,Family,0.2
