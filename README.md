@@ -16,8 +16,8 @@ Use the package manager [pip](https://pip.pypa.io/en/stable/) to install above l
 2. [scikit-learn](https://pypi.org/project/scikit-learn/)
 3. [tkinter](https://www.tutorialspoint.com/how-to-install-tkinter-in-python)
 
-'''bash
+```bash
 pip install scikit-surprise
 pip install scikit-learn
 pip install tk
-'''
+```
