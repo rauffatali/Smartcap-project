@@ -14,9 +14,9 @@ This project makes recommendations in tourism domain in order to increase touris
 Project is developed with:
 
 * [Python Programming Language](https://www.python.org/downloads/) (version: 3.9.2)
-* [Surprise](https://pypi.org/project/scikit-surprise/#description) library for Recommendation model (version: 1.1.1)
-* [Scikit Learn](https://pypi.org/project/scikit-learn/) library for Recommendation model (version: 1.0.1)
-* [Tkinter](https://www.tutorialspoint.com/how-to-install-tkinter-in-python) library for GUI (version: 8.6)
+* [Surprise library](https://pypi.org/project/scikit-surprise/#description) for Recommendation model (version: 1.1.1)
+* [Scikit Learn library](https://pypi.org/project/scikit-learn/) for Recommendation model (version: 1.0.1)
+* [Tkinter library](https://www.tutorialspoint.com/how-to-install-tkinter-in-python) for GUI (version: 8.6)
 
 ### Installation
 
