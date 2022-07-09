@@ -10,7 +10,8 @@ from tkinter import messagebox
 from PIL import ImageTk, Image
 
 from dataframes import *
-from recommenderSystem import PopularityBasedFiltering, ModelBasedCF, UserBasedFiltering
+from recommenderSystem import ContextualizedRecommendations, PopularityBasedFiltering, \
+                              ModelBasedCF, DemographicFiltering
 
 import ctypes
 ctypes.windll.shcore.SetProcessDpiAwareness(2)
@@ -146,12 +147,17 @@ class RecommenderEngine:
         # load existing user window
         self.ExistingUserWindow.load()
 
+# effect coefficients for hybrid recommmendations
+prediction_effect = 0.5
+popularity_effect = 6
+contextualization_effect = 2
+
 class NewUserWindow:
     def __init__(self, root, canvas):
 
         self.root = root
         self.canvas = canvas
-    
+
     def load(self):
 
         # User Data Frame
@@ -238,10 +244,19 @@ class NewUserWindow:
         rec_label = Label(self.recommendationFrame, text='Type of Recommendations:', font=('Helvetica', '11'))
         rec_label.place(x=10, y=11)
         self.recOptionsVar = StringVar()
-        self.recOptions = ('Basic Recommendations', 'Contextualized Recommendations')
+        self.recOptions = ('Basic Recommendations', 'Hybrid Recommendations')
         self.recOM = OptionMenu(self.recommendationFrame, self.recOptionsVar, *self.recOptions)
         self.recOM.config(width=30)
         self.recOM.place(x=235, y=0)
+
+        self.recDistanceVar = IntVar()
+        self.distance_c = Checkbutton(
+            self.recommendationFrame, 
+            text='Distance-based Recommendations', 
+            variable=self.recDistanceVar, 
+            onvalue=1, offvalue=0,
+            font=('Helvetica', '11'))
+        self.distance_c.place(x=550, y=5)
 
         # Buttons
         submitButton = Button(self.root, text='Submit', command=self.submitClicked, width=12)
@@ -309,7 +324,7 @@ class NewUserWindow:
         self.checklist.hlist.add("H.CL1", text="Movie Theater")
         self.checklist.hlist.add("H.CL2", text="Bowling Alley")
 
-        self.setChecklistmodeOff()    
+        self.setChecklistmodeOff()     
         self.checklist.autosetmode()
     
     def setChecklistmodeOff(self):
@@ -405,65 +420,165 @@ class NewUserWindow:
         }, index=[0])
 
         if user_profile.isnull().values.any():
-            messagebox.showwarning('Warning Window', 'Please fill in all the required fields!')
+            messagebox.showwarning('Warning Window', 'Please complete all required fields.')
         else:
             # add to user database
             self.demographics_df_new = demographics_df.append(user_profile, ignore_index=True)
-            messagebox.showinfo('Information Window', 'Submitted Successfully!')
+            messagebox.showinfo('Information Window', 'Submitted Successfully.')
     
     def recommendClicked(self):
-
+        
+        # collect user insterests in one list
         selected_interests = []
         for selected in self.checklist.getselection():
             interest = self.checklist.hlist.item_cget(selected, 0, '-text').lower()
             if len(interest.split()) > 1:
                 interest = '_'.join(interest.split())
             selected_interests.append(interest)
+        
+        # processing user demographic data and create user soup
+        self.demographics_df_new['origin'] = self.demographics_df_new['origin'].apply(clean_demographics)
+        self.demographics_df_new['country'] = self.demographics_df_new['country'].apply(clean_demographics)
+        self.demographics_df_new['age'] = self.demographics_df_new['age'].astype('str')
+
+        columns = ['age', 'gender', 'country', 'income', 'length_of_trip', 'social_state']
+        self.demographics_df_new['user_profile'] = self.demographics_df_new[columns].T.agg(' '.join)
+        self.model = DemographicFiltering(self.user_id, self.demographics_df_new)
+        recommendations_df = self.model.make_recommendation()
 
         if 'Basic' in self.recOptionsVar.get().split():
-            self.demographics_df_new['origin'] = self.demographics_df_new['origin'].apply(clean_demographics)
-            self.demographics_df_new['country'] = self.demographics_df_new['country'].apply(clean_demographics)
-            self.demographics_df_new['age'] = self.demographics_df_new['age'].astype('str')
-            # create user soup
-            columns = ['age', 'gender', 'country', 'income', 'length_of_trip', 'social_state']
-            self.demographics_df_new['user_profile'] = self.demographics_df_new[columns].T.agg(' '.join)
-            model = UserBasedFiltering(self.user_id, self.demographics_df_new)
-            recommendations_df = model.make_recommendation()
-            recommendations_df = PopularityBasedFiltering(recommendations_df).generate_scores()
 
             for index, row in recommendations_df.iterrows():
-                if row['type_2'] in selected_interests:
-                    recommendations_df.loc[index, 'score'] = recommendations_df.loc[index, 'score']*1.5
+                if row['type_2'] not in selected_interests:
+                    recommendations_df = recommendations_df.drop(index)
             
-            recommendations_df = recommendations_df.sort_values('score', ascending=False)
-            
+                    
             self.recsTree = ttk.Treeview(self.recommendationFrame)
             self.recsTree.place(x=15, y=50, height=355, width=1260)
 
-            recommendations_df = recommendations_df[['place_name', 'place_types', 'average_rating', 'user_ratings_total', 'score']]
-            self.recsTree['columns'] = list(recommendations_df.columns)
-            self.recsTree['show'] = 'headings'
+            recommendations_df = recommendations_df.sort_values(['user_ratings_total', 'average_rating'], ascending=False).head(15)
 
-            for column in self.recsTree['columns']:
-                self.recsTree.heading(column, text=column)
+            if (self.recDistanceVar.get() == 0):
+                recommendations_df = recommendations_df[['place_name', 'place_types', 'average_rating', 'user_ratings_total']]
+                self.recsTree['columns'] = list(recommendations_df.columns)
+                self.recsTree['show'] = 'headings'
+
+                for column in self.recsTree['columns']:
+                    self.recsTree.heading(column, text=column)
+                    if column == 'place_name':
+                        width = 250
+                    elif column == 'place_types':
+                        width = 250
+                    else:
+                        width = 50
+                    self.recsTree.column(column, minwidth=0, width=width, stretch=YES)
+            
+            else:
+                for index, row in recommendations_df.iterrows():
+                    if row['distance_type'] == 'far':
+                        recommendations_df = recommendations_df.drop(index)
+                
+                recommendations_df = recommendations_df.sort_values('distance_in_km')
+                recommendations_df = recommendations_df[['place_name', 'place_types', 'average_rating', 'user_ratings_total', 'distance', 'duration']]
+                self.recsTree['columns'] = list(recommendations_df.columns)
+                self.recsTree['show'] = 'headings'
+
+                for column in self.recsTree['columns']:
+                    self.recsTree.heading(column, text=column)
+                    if column == 'place_name':
+                        width = 200
+                    elif column == 'place_types':
+                        width = 200
+                    else:
+                        width = 35
+                    self.recsTree.column(column, minwidth=0, width=width, stretch=YES)
 
             recommendations_df_rows = recommendations_df.to_numpy().tolist()
             for row in recommendations_df_rows:
                 self.recsTree.insert('', 'end', values=row)
+
+        elif 'Hybrid' in self.recOptionsVar.get().split():
+
+            recommendations_df = PopularityBasedFiltering(recommendations_df).popularity_scores()
+            recommendations_df = ContextualizedRecommendations().contextual_scores(recommendations_df)
+
+            recommendations_df['final_score'] = (popularity_effect*recommendations_df['pop_score']+\
+                                                 contextualization_effect*recommendations_df['c_score'])\
+                                                 /(popularity_effect+contextualization_effect)
+
+            for index, row in recommendations_df.iterrows():
+                if row['type_2'] not in selected_interests:
+                    recommendations_df.loc[index, 'final_score'] = recommendations_df.loc[index, 'final_score']-1.5
+                else:
+                    recommendations_df.loc[index, 'final_score'] = recommendations_df.loc[index, 'final_score']
+            
+            recommendations_df = recommendations_df.sort_values('final_score', ascending=False).head(15)
+                    
+            self.recsTree = ttk.Treeview(self.recommendationFrame)
+            self.recsTree.place(x=15, y=50, height=355, width=1260)
+
+            if (self.recDistanceVar.get() == 0):
+                recommendations_df = recommendations_df[['place_name', 'place_types', 'average_rating', 'user_ratings_total', 'final_score']]
+                self.recsTree['columns'] = list(recommendations_df.columns)
+                self.recsTree['show'] = 'headings'
+
+                for column in self.recsTree['columns']:
+                    self.recsTree.heading(column, text=column)
+                    if column == 'place_name':
+                        width = 250
+                    elif column == 'place_types':
+                        width = 250
+                    else:
+                        width = 50
+                    self.recsTree.column(column, minwidth=0, width=width, stretch=YES)
+            
+            else:
+                for index, row in recommendations_df.iterrows():
+                    if row['distance_type'] == 'far':
+                        recommendations_df = recommendations_df.drop(index)
+                
+                recommendations_df = recommendations_df.sort_values('distance_in_km')
+                recommendations_df = recommendations_df[['place_name', 'place_types', 'average_rating', 'user_ratings_total', 'distance', 'duration', 'final_score']]
+                self.recsTree['columns'] = list(recommendations_df.columns)
+                self.recsTree['show'] = 'headings'
+
+                for column in self.recsTree['columns']:
+                    self.recsTree.heading(column, text=column)
+                    if column == 'place_name':
+                        width = 200
+                    elif column == 'place_types':
+                        width = 200
+                    else:
+                        width = 35
+                    self.recsTree.column(column, minwidth=0, width=width, stretch=YES)
+
+            recommendations_df_rows = recommendations_df.to_numpy().tolist()
+            for row in recommendations_df_rows:
+                self.recsTree.insert('', 'end', values=row)
+
         else:
-            messagebox.showwarning('Warning Window', 'Choose your recommendation type!')
+            messagebox.showwarning('Warning Window', 'Please choose your recommendation type.')
     
     def clearClicked(self):
-        
-        self.setChecklistmodeOff() 
+        self.f_name.delete(0, END)
+        self.l_name.delete(0, END)
+        self.age.delete(0, END)
+        self.originOptionsVar.set('')
+        self.countryOptionsVar.set('')
+        self.incomeOptionsVar.set('')
+        self.lotOptionsVar.set('')
+        self.socialStateOptionsVar.set('')
+        self.genderOptionsVar.set('')
+        self.recOptionsVar.set('')
+        self.recDistanceVar.set(0)
+        self.setChecklistmodeOff()
         self.recsTree.delete(*self.recsTree.get_children())
         
-
     def goBackClikced(self):
-        self.canvas.delete('all')
         self.userDataFrame.place_forget()
         self.recommendationFrame.place_forget()
         self.interestsFrame.place_forget()
+        self.canvas.delete('all')
         RecommenderEngine(self.root, self.canvas).runEngine()
 
 class ExistingUserWindow:
@@ -471,6 +586,8 @@ class ExistingUserWindow:
 
         self.root = root
         self.canvas = canvas
+
+        self.model = ModelBasedCF()
     
     def load(self):
         self.userFrame = LabelFrame(self.canvas, text='User Data')
@@ -512,10 +629,19 @@ class ExistingUserWindow:
         rec_label.place(x=10, y=11)
 
         self.recOptionsVar = StringVar()
-        self.recOptions = ('Basic Recommendations', 'Contextualized Recommendations')
+        self.recOptions = ('Basic Recommendations', 'Hybrid Recommendations')
         self.recOM = OptionMenu(self.recommendationFrame, self.recOptionsVar, *self.recOptions)
         self.recOM.config(width=30)
         self.recOM.place(x=235, y=0)
+
+        self.recDistanceVar = IntVar()
+        self.distance_c = Checkbutton(
+            self.recommendationFrame, 
+            text='Distance-based Recommendations', 
+            variable=self.recDistanceVar, 
+            onvalue=1, offvalue=0,
+            font=('Helvetica', '11'))
+        self.distance_c.place(x=550, y=5)
 
         # Buttons
         getButton = Button(self.root, text='Show Profile', command=self.showProfileClicked, width=12)
@@ -566,56 +692,126 @@ class ExistingUserWindow:
         self.placesTree = ttk.Treeview(self.placesFrame)
         self.placesTree.place(x=20, y=60, height=250, width=750)
 
-        df = rated_places[['place_name', 'type_1', 'type_2', 'rating']]
+        df = rated_places[['place_name', 'place_types', 'average_rating', 'rating']]
         self.placesTree['columns'] = list(df.columns)
         self.placesTree['show'] = 'headings'
 
         for column in self.placesTree['columns']:
             self.placesTree.heading(column, text=column)
+            if column == 'place_name':
+                width = 200
+            elif column == 'place_types':
+                width = 200
+            else:
+                width = 50
+
+            self.placesTree.column(column, minwidth=0, width=width, stretch=YES)
 
         df_rows = df.to_numpy().tolist()
         for row in df_rows:
             self.placesTree.insert('', 'end', values=row)
     
     def recommendClicked(self):
+
+        recommendations_df = self.model.make_recommendations(self.user_data[0])
+
         if 'Basic' in self.recOptionsVar.get().split():
-            self.model = ModelBasedCF()
-            recommendations_df = self.model.make_recommendations(self.user_data[0])
-            recommendations_df = PopularityBasedFiltering(recommendations_df).generate_scores()
+            
+            self.recsTree = ttk.Treeview(self.recommendationFrame)
+            self.recsTree.place(x=15, y=50, height=355, width=1260)
+
+            if (self.recDistanceVar.get() == 0):
+                recommendations_df = recommendations_df[['place_name', 'place_types', 'average_rating', 'user_ratings_total', 'prediction']]
+                self.recsTree['columns'] = list(recommendations_df.columns)
+                self.recsTree['show'] = 'headings'
+
+                for column in self.recsTree['columns']:
+                    self.recsTree.heading(column, text=column)
+                    if column == 'place_name':
+                        width = 250
+                    elif column == 'place_types':
+                        width = 250
+                    else:
+                        width = 35
+                    self.recsTree.column(column, minwidth=0, width=width, stretch=YES)
+
+            else:
+                for index, row in recommendations_df.iterrows():
+                    if row['distance_type'] == 'far':
+                        recommendations_df = recommendations_df.drop(index)
+                
+                recommendations_df = recommendations_df.sort_values('distance_in_km')
+                recommendations_df = recommendations_df[['place_name', 'place_types', 'average_rating', 'user_ratings_total', 'distance', 'duration', 'prediction']]
+                self.recsTree['columns'] = list(recommendations_df.columns)
+                self.recsTree['show'] = 'headings'
+
+                for column in self.recsTree['columns']:
+                    self.recsTree.heading(column, text=column)
+                    if column == 'place_name':
+                        width = 200
+                    elif column == 'place_types':
+                        width = 200
+                    else:
+                        width = 35
+                    self.recsTree.column(column, minwidth=0, width=width, stretch=YES)
+
+            recommendations_df_rows = recommendations_df.to_numpy().tolist()
+            for row in recommendations_df_rows:
+                self.recsTree.insert('', 'end', values=row)    
+
+        elif 'Hybrid' in self.recOptionsVar.get().split():
+
+            recommendations_df = PopularityBasedFiltering(recommendations_df).popularity_scores()
+            recommendations_df = ContextualizedRecommendations().contextual_scores(recommendations_df)
+
+            recommendations_df['final_score'] = (prediction_effect*recommendations_df['prediction']+\
+                                                 popularity_effect*recommendations_df['pop_score']+\
+                                                 contextualization_effect*recommendations_df['c_score'])\
+                                                 /(prediction_effect+popularity_effect+contextualization_effect)
+
+            recommendations_df = recommendations_df.sort_values('final_score', ascending=False).head(15)
 
             self.recsTree = ttk.Treeview(self.recommendationFrame)
             self.recsTree.place(x=15, y=50, height=355, width=1260)
 
-            recommendations_df = recommendations_df[['place_name', 'place_types', 'average_rating', 'user_ratings_total', 'score']]
-            self.recsTree['columns'] = list(recommendations_df.columns)
-            self.recsTree['show'] = 'headings'
+            if (self.recDistanceVar.get() == 0):
+                recommendations_df = recommendations_df[['place_name', 'place_types', 'average_rating', 'user_ratings_total', 'final_score']]
+                self.recsTree['columns'] = list(recommendations_df.columns)
+                self.recsTree['show'] = 'headings'
 
-            for column in self.recsTree['columns']:
-                self.recsTree.heading(column, text=column)
+                for column in self.recsTree['columns']:
+                    self.recsTree.heading(column, text=column)
+                    if column == 'place_name':
+                        width = 250
+                    elif column == 'place_types':
+                        width = 250
+                    else:
+                        width = 35
+                    self.recsTree.column(column, minwidth=0, width=width, stretch=YES)
+            
+            else:
+                for index, row in recommendations_df.iterrows():
+                    if row['distance_type'] == 'far':
+                        recommendations_df = recommendations_df.drop(index)
+                
+                recommendations_df = recommendations_df.sort_values('distance_in_km')
+                recommendations_df = recommendations_df[['place_name', 'place_types', 'average_rating', 'user_ratings_total', 'distance', 'duration', 'final_score']]
+                self.recsTree['columns'] = list(recommendations_df.columns)
+                self.recsTree['show'] = 'headings'
+
+                for column in self.recsTree['columns']:
+                    self.recsTree.heading(column, text=column)
+                    if column == 'place_name':
+                        width = 200
+                    elif column == 'place_types':
+                        width = 200
+                    else:
+                        width = 35
+                    self.recsTree.column(column, minwidth=0, width=width, stretch=YES)
 
             recommendations_df_rows = recommendations_df.to_numpy().tolist()
             for row in recommendations_df_rows:
                 self.recsTree.insert('', 'end', values=row)
-
-        elif 'Contextualized' in self.recOptionsVar.get().split():
-            self.model = ModelBasedCF()
-            recommendations_df = self.model.make_recommendations(self.user_data[0])
-            recommendations_df = PopularityBasedFiltering(recommendations_df).generate_scores()
-
-            self.recsTree = ttk.Treeview(self.recommendationFrame)
-            self.recsTree.place(x=15, y=50, height=355, width=1260)
-
-            recommendations_df = recommendations_df[['place_name', 'place_types', 'average_rating', 'user_ratings_total']]
-            self.recsTree['columns'] = list(recommendations_df.columns)
-            self.recsTree['show'] = 'headings'
-
-            for column in self.recsTree['columns']:
-                self.recsTree.heading(column, text=column)
-
-            recommendations_df_rows = recommendations_df.to_numpy().tolist()
-            for row in recommendations_df_rows:
-                self.recsTree.insert('', 'end', values=row)
-
         else:
             messagebox.showwarning('Warning Window', 'Choose your recommendation type!')
         
@@ -640,17 +836,20 @@ class ExistingUserWindow:
         mae_label.place(x=212, y=419)
     
     def clearClicked(self):
+        self.inputTextBox.delete(1.0, END)
         self.placesTree.delete(*self.placesTree.get_children())
         self.recsTree.delete(*self.recsTree.get_children())
+        self.recOptionsVar.set('')
+        self.recDistanceVar.set(0)
         for label in self.labels:
             label.destroy()
         self.no_places.destroy()
 
     def goBackClikced(self):
-        self.canvas.delete('all')
         self.userFrame.place_forget()
         self.recommendationFrame.place_forget()
         self.placesFrame.place_forget()
+        self.canvas.delete('all')
         RecommenderEngine(self.root, self.canvas).runEngine()
 
 if __name__ == '__main__':
