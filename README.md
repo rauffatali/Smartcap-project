@@ -4,9 +4,9 @@ This project makes recommendations in tourism domain in order to increase touris
 
 ## Prerequisites
 
-· scikit-surprise >= 1.1.1
-· scikit-learn >= 1.0.1
-· tkinter >= 8.6.12
+* scikit-surprise >= 1.1.1
+* scikit-learn >= 1.0.1
+* tkinter >= 8.6.12
 
 ## Installation
 
