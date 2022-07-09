@@ -34,7 +34,7 @@ To run this project:
 
 1. Install it locally
 2. Open installed file location
-3. Run application file using following line in command prompt (terminal):
+3. Run `application` file using following line in command prompt (terminal):
 
 ```bash
 python application.py
