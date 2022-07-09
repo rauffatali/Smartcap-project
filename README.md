@@ -13,8 +13,8 @@ This project makes recommendations in tourism domain in order to increase touris
 
 Project is developed with:
 
-* [python](https://www.python.org/downloads/) >= 3.9.2
-* scikit-surprise >= 1.1.1
+* [Python Programming Language](https://www.python.org/downloads/) - version: 3.9.2
+* [scikit-surprise](https://pypi.org/project/scikit-surprise/#description) >= 1.1.1
 * scikit-learn >= 1.0.1
 * tkinter >= 8.6.12
 
